@@ -139,7 +139,12 @@ TORCH_IDX="https://download.pytorch.org/whl/cu124"
 # ----------------------------------------------------------------------------
 say "3. ComfyUI（图像 + 视频主引擎）"
 if [ -z "$COMFY" ]; then
-  git clone --depth 1 https://github.com/comfyanonymous/ComfyUI.git "$SRC/ComfyUI"
+  # clone 到 $ROOT 而不是 $SRC：Dockerfile 的自检、boot.sh 的 COMFY_DIR、
+  # extra_model_paths.yaml 全按 /root/ComfyUI 写死，放 $SRC 下会全线错位。
+  # 上一次失败的构建会留下半成品目录，不清掉 git clone 会报
+  # "destination path already exists and is not an empty directory"。
+  rm -rf "$ROOT/ComfyUI" "$SRC/ComfyUI"
+  git clone --depth 1 https://github.com/comfyanonymous/ComfyUI.git "$ROOT/ComfyUI"
   COMFY="$ROOT/ComfyUI"
 fi
 cd "$COMFY"
