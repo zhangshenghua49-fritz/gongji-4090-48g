@@ -1,1 +1,265 @@
-IyDoh6rlu7rplZzlg4/vvJrku44i5rKh5pyJIERvY2tlciLliLAi5bmz5Y+w6YeM54K55LiA5LiL5bCx6IO96LeRIgoKPiAyMDI2LTEwLTIy44CC5pys5py65rKh5pyJIERvY2tlciAvIFBvZG1hbiAvIEJ1aWxkYWggLyBXU0zvvIzkuZ/kuI3mmK/nrqHnkIblkZjvvJsKPiDlhbHnu6nnmoQgR1BVIOWuueWZqOmHjOemgSBEaW5E77yIYGRvY2tlciBidWlsZGAg5Zyo5LqR5Li75py66YeM6LeR5LiN6LW35p2l77yJ44CCCj4g5omA5Lul6ZWc5YOP5b+F6aG75ZyoKirliKvlpIQqKuaehOW7uu+8jOeEtuWQjuaOqOWIsOafkOS4quW5s+WPsOiDveaLieeahOS7k+W6k+OAggoKLS0tCgojIyAwLiDlhYjpgInot6/nur8KCnwg6Lev57q/IHwg6KaB5LuA5LmIIHwg5aSa5LmFIHwg6YCC5ZCIIHwKfC0tLXwtLS18LS0tfC0tLXwKfCAqKkQuIOS4jeeUqOmVnOWDjyoq77yI5YWI6aqM6K+B77yJIHwg5Y+q6KaB5bmz5Y+w6LSm5Y+3IHwg56uL5Yi7IHwg546w5Zyo5bCx5oOz6LeR6YCaIEgzIOWHuueJhyB8CnwgKipBLiBnaGNyLmlvKirvvIjpm7Ygc2VjcmV077yJIHwg5Y+q6KaB5LiA5LiqIEdpdEh1YiDotKblj7cgfCDpppbmrKEgMjXigJM0MCBtaW4gfCDplb/mnJ/nlKjvvIzlhazlvIDplZzlg4/vvIzlubPlj7Dnm7TloasgfAp8ICoqQi4g5YWx57upIEhhcmJvcioqIHwgR2l0SHViIOi0puWPtyArIOW5s+WPsOmVnOWDj+S7k+W6k+WHreivgSB8IOmmluasoSAyNeKAkzQwIG1pbiB8IOmVv+acn+eUqO+8jOengeacie+8jOWbveWGheaLieWPluW/qyB8CnwgKipDLiDlgJ/kuIDlj7DmnIkgRG9ja2VyIOeahOacuuWZqCoqIHwg5Lu75L2VIHg4NiBMaW51eCArIERvY2tlciB8IDIw4oCTNDAgbWluIHwg5pyJ5pyL5Y+LL+acieacjeWKoeWZqCB8CgoqKuW7uuiurumhuuW6j++8muWFiOi1sCBEIOaKiueJh+WtkOi3keWHuuadpe+8jOWQjOaXtuWQjuWPsOi1sCBBIOW7uumVnOWDj+OAgioqIEQg5LiN6Zi75aGe5Lu75L2V5LqL44CCCkEg5LiN6ZyA6KaBIERvY2tlciBIdWLjgIHkuI3pnIDopoHphY0gc2VjcmV0IOKAlOKAlCBBY3Rpb25zIOiHquW4pueahCB0b2tlbiDlsLHog73mjqggZ2hjcuOAggoKLS0tCgojIyAxLiDot6/nur8gRO+8muS4jeW7uumVnOWDj++8jOebtOaOpei3ke+8iOmbtuaIkOacrOmqjOivge+8iQoK5bmz5Y+w6aKE5Yi26ZWc5YOP6YeM5pyJICoqTWluaU1heC1IMyoq77yI56uv5Y+jIDgxODggQ29tZnlVSSArIDMwMDAgQVBJ77yJ77yM5bey57uP5ZCrIENvbWZ5VUkK5ZKMIEgzIOiKgueCueOAgue8uueahOWPquaYr+acrOmhueebruiHquW3seeahCBWb3hDUE0yIC8g6ISa5pysIC8g5bel5L2c5rWB44CCCgoxLiDlvLnmgKfpg6jnvbIg4oaSIOaWsOW7uiDihpIgKirpooTliLbmnI3liqEqKiB0YWIg4oaSIOmAiSBgTWluaU1heC1IM2AKMi4g5py65Z6LICoqNDA5MC00OEcqKu+8jOWQr+WKqOWRveS7pOaUueaIkO+8mgoKICAgYGBgYmFzaAogICBiYXNoIC1sYyAnY2QgL3Jvb3QgJiYgKGdpdCBjbG9uZSAtLWRlcHRoIDEgaHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL2dpdGh1Yi5jb20vPOS9oOeahOS7k+W6kz4uZ2l0IGdvbmdqaS00MDkwLTQ4ZyAyPi9kZXYvbnVsbCB8fCB0cnVlKSAmJiBiYXNoIC9yb290L2dvbmdqaS00MDkwLTQ4Zy9zY3JpcHRzL2Jvb3Quc2gnCiAgIGBgYAoKICAg5rKh5pyJ5LuT5bqT5bCx5oqK6aG555uu5omT5YyF5LiK5Lyg77yI5bmz5Y+w5pSv5oyB5oyC5a+56LGh5a2Y5YKo77yJ44CC5LuT5bqT6L+Y5rKh5bu655qE6K+d77yM6KeBIMKnMi4xIOKAlOKAlCDlu7rku5PlupMKICAg5pys5p2l5Lmf5piv6Lev57q/IEEvQiDnmoTliY3nva7mraXpqqTjgIIKCjMuIOerr+WPo+WhqyBgODE4OGAKNC4g6L+b5a655Zmo5ZCO6LeR5LiA5qyh77yI5Y+q6ZyA5LiA5qyh77yM5a655Zmo6YeK5pS+5Y2z5Lii77yM5omA5Lul5q+P5qyh5paw5a6e5L6L6YO96KaB6LeR77yJ77yaCgogICBgYGBiYXNoCiAgIGJhc2ggL3Jvb3QvZ29uZ2ppLTQwOTAtNDhnL3NjcmlwdHMvc2V0dXBfZW52LnNoIC0tbWluICAgICMg6KOFIFZveENQTTIg562J77yM57qmIDE14oCTMjUgbWluCiAgIGJhc2ggL3Jvb3QvZ29uZ2ppLTQwOTAtNDhnL3NjcmlwdHMvZmV0Y2hfbW9kZWxzLnNoIC0tdGllciBoMyAtLXRpZXIgdm94CiAgIGBgYAoKKirov5nmnaHot6/nmoTpl67popgqKu+8muavj+asoeaWsOW8gOWunuS+i+mDveimgemHjeijhSAxNeKAkzI1IOWIhumSn++8iOW8ueaAp+mDqOe9suaXoOeKtuaAge+8jOWuueWZqOmHiuaUvuWNs+S4ou+8ieOAggrot5HpgJrkuIDmrKHjgIHnoa7orqTniYflrZDog73lh7rmnaXkuYvlkI7vvIzlsLHor6XotbAgQS9CIOaKiueOr+Wig+WbuuWMlui/m+mVnOWDj+OAggoKLS0tCgojIyAyLiDot6/nur8gQe+8mkdpdEh1YiBBY3Rpb25zIOKGkiBnaGNyLmlv77yI6Zu2IHNlY3JldO+8jOaOqOiNkO+8iQoKPiDov5nmmK/mlbTku73mlofmoaPmnIDnn63nmoTot6/lvoTvvJoqKuS4jemcgOimgSBEb2NrZXIgSHViIOi0puWPt++8jOS4jemcgOimgSBIYXJib3LvvIzkuI3pnIDopoHlnKgKPiBHaXRIdWIg6YWN5Lu75L2VIHNlY3JldOOAgioqIEFjdGlvbnMg6Ieq5bim55qEIGBHSVRIVUJfVE9LRU5gIOWwseiDveaOqAo+IGBnaGNyLmlvLzzkvaDnmoTotKblj7c+L2dvbmdqaS00MDkwLTQ4ZzpzbGltYOOAgndvcmtmbG93IOmHjOacgOWQjuS4gOatpeS8muaKiuWMheWPr+ingeaApwo+IOiHquWKqOaUueaIkCBwdWJsaWMg4oCU4oCUIGdoY3Ig6buY6K6k56eB5pyJ77yM5Yy/5ZCN5ouJ5LiN5Yqo77yM6L+Z5LiA5q2l5LiN6IO955yB44CCCgojIyMgMi4xIOS4gOadoeWRveS7pAoK5pys5Zyw5LuT5bqT5bey57uPIGBnaXQgaW5pdGAg5bm25pyJIGNvbW1pdCBgMDgyYWEwMmDvvIg0NSDkuKrmlofku7bvvInvvIzlj6rlt67mjqjliLDov5znq6/vvJoKCmBgYHBvd2Vyc2hlbGwKY2QgQzpcVXNlcnNcemhhbmdcRG9jdW1lbnRzXGRlZXBzZWVrLWhhcm5lc3NcZGVmYXVsdC13b3Jrc3BhY2VcZ29uZ2ppLTQwOTAtNDhnCi5cc2NyaXB0c1xkZXBsb3ktaW1hZ2UucHMxIC1Ub2tlbiBnaHBfeHh4eHh4eHh4eHh4IC1GbGF2b3Igc2xpbQpgYGAKCuiEmuacrOS+neasoeWBmuS6lOS7tuS6i++8jOS4remXtOS7u+S9leS4gOatpeWksei0peWwseWBnOWcqOmCo+S4gOatpeW5tuaJk+WNsOWOn+WboO+8mgoKMS4gYEdFVCAvdXNlcmAg6aqMIHRva2Vu77yM6K+7IGBYLU9BdXRoLVNjb3Blc2Ag5ZON5bqU5aS077yM57y6IGByZXBvYCAvIGB3b3JrZmxvd2Ag5Lya55u05o6l5ZGK6K+J5L2gCjIuIOW7uuaIluWkjeeUqOWQjOWQjSBwdWJsaWMg5LuT5bqTCjMuIGBnaXQgcHVzaCBodHRwczovL3gtYWNjZXNzLXRva2VuOiRUb2tlbkBnaXRodWIuY29tLy4uLiBIRUFEOm1haW5gCjQuIGBQT1NUIC4uLi9hY3Rpb25zL3dvcmtmbG93cy9idWlsZC1pbWFnZS55bWwvZGlzcGF0Y2hlc2Ag6Kem5Y+R5p6E5bu6CjUuIOavjyAzMCDnp5Lova7or6IgYGFjdGlvbnMvcnVuc2DvvIzmnIDlpJrnrYkgMiDlsI/ml7bvvIzmnIDlkI7miZPljbDplZzlg4/lnLDlnYAKCui3keWujOi+k+WHuu+8mgoKYGBgCumVnOWDj+WcsOWdgO+8iOWhq+WIsOW5s+WPsO+8ie+8mgogIGdoY3IuaW8vPG93bmVyPi9nb25namktNDA5MC00OGc6c2xpbQpgYGAKCioqdG9rZW4g5oCO5LmI5p2lKirvvJpHaXRIdWIg4oaSIOWktOWDjyDihpIgU2V0dGluZ3Mg4oaSIERldmVsb3BlciBzZXR0aW5ncyDihpIKUGVyc29uYWwgYWNjZXNzIHRva2VucyDihpIgKipUb2tlbnMgKGNsYXNzaWMpKiog4oaSIEdlbmVyYXRlIG5ldyB0b2tlbiAoY2xhc3NpYykK4oaSIOWLviBgcmVwb2Ag5ZKMIGB3b3JrZmxvd2Ag4oaSIOWkjeWItu+8iOWPquaYvuekuuS4gOasoe+8ieOAggoKPiBgLURyeVJ1bmAg5Y+q5omT5Y2w6K6h5YiS77yM5LiN56KwIEdpdEh1YuOAggo+IHRva2VuIOWPquWcqCBwdXNoIOmCo+S4gOasoeWRveS7pOmHjOWHuueOsO+8jCoq5LiN5Lya5YaZ6L+bIGAuZ2l0L2NvbmZpZ2AqKu+8jOS5n+S4jeS8mui/m+S7u+S9leaWh+S7tuOAggo+IOaDs+imgSBmdWxsIOeJiO+8iFRUUyDlhajlrrbmobbvvIx+MjIgR0LvvInlsLEgYC1GbGF2b3IgZnVsbGDvvIzkuKTkuKrpg73opoEgYC1GbGF2b3IgYm90aGDjgIIKCiMjIyAyLjIg5omL5Yqo54mI77yI5LiN5oOz6K6p6ISa5pys56Kw5L2g55qE6LSm5Y+377yJCgoxLiBHaXRIdWIg572R6aG1ICoqTmV3IHJlcG9zaXRvcnkqKiDihpIg5ZCN5a2XIGBnb25namktNDA5MC00OGdgIOKGkiAqKlB1YmxpYyoqIOKGkiDkuI3li77ku7vkvZXliJ3lp4vljJbmlofku7YKMi4g5pys5Zyw77yaCgpgYGBiYXNoCmNkIEM6XFVzZXJzXHpoYW5nXERvY3VtZW50c1xkZWVwc2Vlay1oYXJuZXNzXGRlZmF1bHQtd29ya3NwYWNlXGdvbmdqaS00MDkwLTQ4ZwpnaXQgcmVtb3RlIGFkZCBvcmlnaW4gaHR0cHM6Ly9naXRodWIuY29tLzzkvaDnmoTotKblj7c+L2dvbmdqaS00MDkwLTQ4Zy5naXQKZ2l0IHB1c2ggLXUgb3JpZ2luIG1haW4KYGBgCgozLiDku5PlupPpobUgKipBY3Rpb25zKiog4oaSIOW3puS+pyBgYnVpbGQtaW1hZ2VgIOKGkiAqKlJ1biB3b3JrZmxvdyoqIOKGkiBgZmxhdm9yYCDpgIkgYHNsaW1gIOKGkiBSdW4KCiMjIyAyLjMg5bmz5Y+w6YeM5aGrCgrlvLnmgKfpg6jnvbIg4oaSIOaWsOW7uiDihpIgKiroh6rlrprkuYnmnI3liqEqKiDihpIg6ZWc5YOP5Zyw5Z2A5aGrIGBnaGNyLmlvLzxvd25lcj4vZ29uZ2ppLTQwOTAtNDhnOnNsaW1gCuKGkiDnq6/lj6MgYDgxODhgIOKGkiDmnLrlnosgYDQwOTAtNDhHYCDihpIg5ZCv5Yqo5ZG95LukIGBiYXNoIC9yb290L3NjcmlwdHMvYm9vdC5zaGDjgIIKCumVnOWDj+mHjOeahOiEmuacrOWcqCBgL3Jvb3Qvc2NyaXB0cy9g77yM6aG555uu5ZyoIGAvcm9vdC9nb25namktNDA5MC00OGcvYO+8jOS4pOS4qui3r+W+hOmDveiDveeUqOOAggoKIyMjIDIuNCDmg7PmjaLmiJAgRG9ja2VyIEh1YiAvIOiHquW3seeahCByZWdpc3RyeQoKd29ya2Zsb3cg6YeM6aKE55WZ5LqG5byA5YWz77ya5LuT5bqTICoqU2V0dGluZ3Mg4oaSIFZhcmlhYmxlcyoqIOWKoOS4ieS4qiB2YXJpYWJsZQoKfCBWYXJpYWJsZSB8IFZhbHVlIHwKfC0tLXwtLS18CnwgYFJFR0lTVFJZYCB8IGBkb2NrZXIuaW9gIHwKfCBgUkVHSVNUUllfTkFNRVNQQUNFYCB8IOS9oOeahCBEb2NrZXIgSHViIOeUqOaIt+WQje+8iOWwj+WGme+8iSB8CnwgYFJFR0lTVFJZX1VTRVJgIHwg5ZCM5LiKIHwKCuWGjeWKoOS4gOS4qiBzZWNyZXQgYFJFR0lTVFJZX1BBU1NXT1JEYO+8iERvY2tlciBIdWIg4oaSIEFjY291bnQgc2V0dGluZ3Mg4oaSClBlcnNvbmFsIGFjY2VzcyB0b2tlbnPvvIzmnYPpmZAgUmVhZCAmIFdyaXRl77yJ44CC5LiN6K6+6L+Z5Lqb5Y+Y6YeP5pe26buY6K6k5bCx5pivIGdoY3LvvIwK5LiA5LiqIHNlY3JldCDpg73kuI3nlKjphY3jgIIKCi0tLQoKIyMgMy4g6Lev57q/IELvvJpHaXRIdWIgQWN0aW9ucyDihpIg5YWx57upIEhhcmJvcgoK5ZKMIEEg5Y+q5beuIHNlY3JldCDnmoTlgLzvvIh3b3JrZmxvdyDmlofku7blrozlhajkuIDmoLfvvInvvJoKCnwgTmFtZSB8IFZhbHVlIHwKfC0tLXwtLS18CnwgYFJFR0lTVFJZYCB8IGBoYXJib3Iuc3VhbmxlbWUuY25gIHwKfCBgUkVHSVNUUllfTkFNRVNQQUNFYCB8IOaOp+WItuWPsOOAjOmVnOWDj+S7k+W6k+OAjeW3puS+p+eahOmhueebruWQjSB8CnwgYFJFR0lTVFJZX1VTRVJgIHwg44CM6ZWc5YOP5LuT5bqTIOKGkiDorr/pl67lh63or4HjgI3nmoTnlKjmiLflkI0gfAp8IGBSRUdJU1RSWV9QQVNTV09SRGAgfCDlkIzkuIDlpITnmoTlr4bnoIEgfAoKPiBIYXJib3Ig55qE5Yet6K+B5ZKM5bmz5Y+w55m75b2V6LSm5Y+3KirkuI3kupLpgJoqKiDigJTigJQg5piv5Y2V54us55Sf5oiQ55qE5LiA5a+544CCCj4g6ZWc5YOP5Zyw5Z2A5Y+Y5oiQIGBoYXJib3Iuc3VhbmxlbWUuY24vPOmhueebrj4vZ29uZ2ppLTQwOTAtNDhnOnNsaW1g44CCCj4g5bmz5Y+w5ouJIEhhcmJvciDnlKggYGhhcmJvcnB1bGwuc3VhbmxlbWUuY25gIOi/meS4qiBwdWxsIOS4k+eUqOWfn++8jOWhq+WcsOWdgOaXtuS4jeeUqOaUue+8jOW5s+WPsOiHquW3sei9rOOAggoKLS0tCgojIyA0LiDot6/nur8gQ++8muWAn+S4gOWPsOaciSBEb2NrZXIg55qE5py65ZmoCgpgYGBiYXNoCmdpdCBjbG9uZSA85L2g55qE5LuT5bqTPiAmJiBjZCBnb25namktNDA5MC00OGcKCiMgc2xpbe+8iOaOqOiNkO+8jH45IEdC77yJCmRvY2tlciBidWlsZCAtdCA8aHViLXVzZXI+L2dvbmdqaS00MDkwLTQ4ZzpzbGltIC4KCiMgZnVsbO+8iFRUUyDlhajlrrbmobbvvIx+MjIgR0LvvIkKZG9ja2VyIGJ1aWxkIC0tYnVpbGQtYXJnIFNFVFVQX0FSR1M9IC10IDxodWItdXNlcj4vZ29uZ2ppLTQwOTAtNDhnOmZ1bGwgLgoKZG9ja2VyIGxvZ2luCmRvY2tlciBwdXNoIDxodWItdXNlcj4vZ29uZ2ppLTQwOTAtNDhnOnNsaW0KYGBgCgrlv4XpobvmmK8geDg2XzY0IOacuuWZqO+8iGB1bmFtZSAtbWAgPSBgeDg2XzY0YO+8ieOAgkFwcGxlIFNpbGljb24g5LiK6KaBCmAtLXBsYXRmb3JtIGxpbnV4L2FtZDY0YO+8jOS8muaFoiA14oCTMTAg5YCN44CCCgotLS0KCiMjIDUuIOmVnOWDj+mHjOWIsOW6leijheS6huS7gOS5iAoKKirmsqHmnInmqKHlnovmnYPph43jgIIqKiDmnYPph43lh6DljYHkuIrnmb4gR0LvvIzloZ7kuI3ov5sgODAgR0Ig57O757uf55uY77yM55SxIGBmZXRjaF9tb2RlbHMuc2hgIOWcqOWunuS+i+mHjOS4i+OAggoKIyMjIHNsaW3vvIhgU0VUVVBfQVJHUz0tLW1pbmDvvIznuqYgOSBHQu+8iQoKfCDnu4Tku7YgfCDnlKjpgJQgfCDkvY3nva4gfAp8LS0tfC0tLXwtLS18CnwgQ29tZnlVSSArIOiHquWumuS5ieiKgueCuSB8IOWHuuWbvi/lh7rniYfkuLvnlYzpnaIgfCBgOjgxODhgIHwKfCAqKlZveENQTTIqKiAyQiB8IOWboOW5oeW3oeaXpeivreWFi+mahuS4u+WKm++8jDQ4IGtIeiB8IGA6OTg4M2AgfAp8IFF3ZW4zLVRUUyAxLjdCIHwgMTAg6K+t56eN5aSH6IOOIHwgYDo5ODgwYCB8CnwgZmFzdGVyLXdoaXNwZXIgbGFyZ2UtdjMgfCDlrZfluZUv5a+56L20IHwg6ISa5pys6LCD55SoIHwKCj4gVm94Q1BNMiDlnKggYHNldHVwX2Vudi5zaGAg6YeM6KKr5pS+5ZyoIGAtLW1pbmAg5Yik5patKirkuYvlpJYqKiDigJTigJQg5a6D5piv5Li75Yqb77yM5LiN5piv5Y+v6YCJ5Lu244CCCj4gRG9ja2VyZmlsZSDmnKvlsL7ov5jmnInkuIDpgZPni6znq4voh6rmo4AgYHRlc3QgLXggL3Jvb3QvdmVudnMvdm94L2Jpbi9weXRob25g77yM6KOF5LiN5LiK5bCx6K6pCj4gYnVpbGQg5aSx6LSl77yM5LiN55WZ5q6L5bqf6ZWc5YOP44CCCgojIyMgZnVsbO+8iGBTRVRVUF9BUkdTPWAg5Lyg56m677yM57qmIDIyIEdC77yJCgpzbGltIOeahOWFqOmDqCArIEluZGV4VFRTLTIuNe+8iOS4reaWh+aDheaEn+aOp+WItu+8iSsgTWVnYVRUUzMgKyBHUFQtU29WSVRTICsgTWluZy0zLjAtdHRzCu+8iGA6OTg4MWDvvIkrIFZJVFMvTW9lR29l77yIYDo5ODgyYO+8jOWboOW5oeW3oeaIkOWTgeWjsOW6k++8ieOAggoKKirlpKflpJrmlbDmg4XlhrUgc2xpbSDlsLHlpJ/jgIIqKiBmdWxsIOeahOS7t+WAvOWPquWcqCLmg7PmqKrlkJHlr7nmr5Tlh6DkuKogVFRTIOiwgemFjeWboOW5oeW3oeabtOWDjyLjgIIKCiMjIyDmnYPph43mi4nlj5blr7nnhacKCnwg5YGa5LuA5LmIIHwg5ZG95LukIHwg5L2T56evIHwKfC0tLXwtLS18LS0tfAp8IOWbvuWDj+S4pOS7o+S4u+WKmyB8IGBmZXRjaF9tb2RlbHMuc2ggLS10aWVyIGltYWdlYCB8IH4yOCBHQiB8Cnwg6KeG6aKR77yISDMgKyBMVFggKyBXYW7vvIkgfCBgLS10aWVyIHZpZGVvYCB8IH4xMjAgR0IgfAp8IOmFjemfs+WFqOWllyB8IGAtLXRpZXIgdm9pY2VgIHwgfjMxIEdCIHwKfCDlj6ogSDMgfCBgLS10aWVyIGgzYCB8IH4zOSBHQiB8Cnwg5Y+qIFZveENQTTIgfCBgLS10aWVyIHZveGAgfCB+NSBHQiB8CgotLS0KCiMjIDYuIOW7uuaIkOS5i+WQjumqjOS7gOS5iAoKYGBgYmFzaApiYXNoIC9yb290L3NjcmlwdHMvZG9jdG9yLnNoICAgICAgICAgICMg546v5aKD6Ieq5qOACgojIFZveENQTTIg5rS7552A77yf77yI5pyq5Yqg6L295qih5Z6L5pe2IGxvYWRlZD1mYWxzZSDmmK/mraPluLjnmoTvvIzmh5LliqDovb3vvIkKY3VybCAtcyBsb2NhbGhvc3Q6OTg4My9oZWFsdGggfCBqcSAuCgojIOecn+WHuuS4gOWPpeaXpeivre+8jOehruiupCA0OCBrSHoKY3VybCAtcyAtWCBQT1NUIGxvY2FsaG9zdDo5ODgzL2Nsb25lIFwKICAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyBcCiAgLWQgJ3sidGV4dCI6IuOBk+OCk+OBq+OBoeOBr+OAgeWboOW5oeOCgeOBkOOCi+OBp+OBmeOAgiIsInJlZmVyZW5jZV93YXZfcGF0aCI6Ii9yb290L2RhdGEvdm9pY2UtcHJvbXB0cy9tZWd1cnVfcmVmLndhdiJ9JyBcCiAgLW8gL3Jvb3QvZGF0YS9vdXRwdXQvdGVzdF92b3gud2F2CmZmcHJvYmUgLXYgZXJyb3IgLXNob3dfZW50cmllcyBzdHJlYW09c2FtcGxlX3JhdGUsY2hhbm5lbHMgLW9mIGNzdj1wPTAgL3Jvb3QvZGF0YS9vdXRwdXQvdGVzdF92b3gud2F2CiMg5pyf5pyb77yaNDgwMDAsMQpgYGAKCkNvbWZ5VUkg6YKj6L6577ya5omT5byAIGBodHRwOi8vPOWFrOe9keWcsOWdgD4vYCDihpIg5ouW5YWlIGB3b3JrZmxvd3MvaDNfdDJ2YS5qc29uYCDihpIg5qOA5p+lCmBMb2FkIERpZmZ1c2lvbiBNb2RlbGAg5oyH5ZCR55qEIGBtaW5pbWF4X2gzX2ZsMnZhX3BydW5lZF9pbnQ4X2NvbnZyb3Quc2FmZXRlbnNvcnNgCuWSjCBgQ0xJUExvYWRlcmAg5oyH5ZCR55qEIGBxd2VuM3ZsXzMyYl9taW5pbWF4X2gzX252ZnA0X2F3cS5zYWZldGVuc29yc2Ag6YO96IO95Zyo5LiL5ouJ6YeM6YCJ5YiwCu+8iOmAieS4jeWIsOivtOaYjiBgZXh0cmFfbW9kZWxfcGF0aHMueWFtbGAg5rKh55Sf5pWI77yM55yLIGJvb3Quc2gg56ysIDIg5q2l55qE5pel5b+X77yJ44CCCgotLS0KCiMjIDcuIOW3sue7j+i4qei/h+eahOWdkQoKKipgaGYuY29gIOebtOi/nuS4jemAmuOAgioqIOmVnOWDj+mHjCBgSEZfRU5EUE9JTlQ9aHR0cHM6Ly9oZi1taXJyb3IuY29tYCDlt7Lorr7mrbvvvIwKYGZldGNoX21vZGVscy5zaGAg5Lmf5Y+q6LWwIGhmLW1pcnJvcuOAguS4jeimgeaUueaIkOWumOaWueWfn+WQje+8jOS8miAyMSDnp5LotoXml7blkI7lpLHotKXjgIIKCioq5Lik5Liq5a6Y5pa55p2D6YeN5LuT5pivIGdhdGVk77yM5Yy/5ZCN5LiL5LyaIDQwM+OAgioqIDIwMjYtMTAtMjIg6YCQ5LiqIFVSTCDlrp7mtYvvvJoKYGJsYWNrLWZvcmVzdC1sYWJzL2ZsdXgtMy1pbWFnZS1rbGVpbi1jb21meWAg5LiOIGBMaWdodHJpY2tzL0xUWC0yLjVgIOmDveaYryBgZ2F0ZWQ9YXV0b2DvvIwK5LiN5bimIHRva2VuIOS4gOW+iyA0MDPjgILohJrmnKzlt7Lpu5jorqTmlLnotbDnrYnku7fnmoTpnZ4gZ2F0ZWQg6ZWc5YOP5LuTIOKAlOKAlApgbWwtcmVzb3VyY2VzL2ZsdXgtMy1pbWFnZS1rbGVpbi1jb21meWDvvIgzNiDmlofku7bvvIzpgJDpobnlrZfoioLkuIDoh7TvvInkuI4KYGNvbWZ5aWN1L0xUWC0yLjVg77yIMTcg5paH5Lu277yM6YCQ6aG55a2X6IqC5LiA6Ie077yJ77yM5Lik6ICFIGBnYXRlZD1GYWxzZWDjgIHljL/lkI0gMjA244CCCuimgeWIh+WbnuWumOaWueS7k+WwsSBgRkxVWDNfUkVQTz0uLi4gSEZfVE9LRU49aGZfeHh4IGJhc2ggZmV0Y2hfbW9kZWxzLnNoIC0tdGllciBmbHV4M2tgCu+8iExUWCDnlKggYExUWF9SRVBPPS4uLmDvvInjgIIqKuWIq+WcqOWunuS+i+mHjOeOsOafpeeOsOaUuSoq77yM6L+Z5Lqb6Lev5b6E5piv6YCQ5a2X6IqC5qC46L+H55qE44CCCgoqKkgzIOadg+mHjeeJiOacrOWQjeS4jeiDvemdoOeMnOOAgioqIOWunumZheaWh+S7tuWQjeaYrwpgbWluaW1heF9oM19mbDJ2YV9wcnVuZWRfaW50OF9jb252cm90LnNhZmV0ZW5zb3JzYO+8iDIwLjk3IEdC77yJ77yMCuaWh+acrOe8lueggeWZqOaYryBgcXdlbjN2bF8zMmJfbWluaW1heF9oM19udmZwNF9hd3Euc2FmZXRlbnNvcnNg77yIMTUuNjkgR0LvvInjgIIK5paH5qGj6YeM5Yeh5piv5YaZIGB1bXQ1YCDnmoTpg73mmK/ml6fnqL/vvIzlt7Lnu4/mlLnmjonkuobjgIIKCioqYFNFVFVQX0FSR1NgIOW/hemhu+WPguS4jiBjYWNoZSBrZXnjgIIqKiB3b3JrZmxvdyDph4wgYGNhY2hlLWZyb206IHR5cGU9Z2hhLHNjb3BlPTxmbGF2b3I+YArnmoQgc2NvcGUg5bCx5piv6L+Z5LmI5p2l55qEIOKAlOKAlCDkuI3liqDnmoTor50gc2xpbSDnmoQgbGF5ZXIg5Lya6KKrIGZ1bGwg5aSN55So77yM6KOF5Ye65Liq5Y2K5oiq546v5aKD44CCCgoqKkdpdEh1YiBBY3Rpb25zIOeahCBydW5uZXIg5Y+q5pyJIH4xNCBHQiDnqbrpl7Lnm5jjgIIqKiB3b3JrZmxvdyDph4zpgqPmrrUgYEZyZWUgZGlzayBzcGFjZWAK5Yig5o6JIGRvdG5ldC9hbmRyb2lkL2doYyDog73ohb7lh7ogfjMwIEdC44CC5Yig5o6J5a6D77yMZnVsbCDkvJrlnKjoo4XliLDnrKzlha3lpZcgdG9yY2gg5pe2CmBObyBzcGFjZSBsZWZ0IG9uIGRldmljZWDjgIIKCioq5Yir5Zyo5LqR5Li75py66YeMIGJ1aWxk44CCKiog5YWx57up5a655Zmo56aBIERpbkTvvIxgZG9ja2VyYCDlkb3ku6TmoLnmnKzkuI3lrZjlnKjjgIIKCioqV2luZG93cyDkuIrkuI3plIHmjaLooYznrKbvvIzplZzlg4/kvJogYnVpbGQg5aSx6LSl44CCKiog5pys5py6IGBjb3JlLmF1dG9jcmxmPXRydWVg77yM6ISa5pysCmNoZWNrb3V0IOaIkCBDUkxGIOS5i+WQjiBgYmFzaCBzY3JpcHRzL3NldHVwX2Vudi5zaGAg5oqlIGBccjogY29tbWFuZCBub3QgZm91bmRg44CCCmAuZ2l0YXR0cmlidXRlc2Ag6YeM5bey57uP5oqKIGAqLnNoYCAvIGBEb2NrZXJmaWxlYCDlhajpg6jpkonmiJAgYGVvbD1sZmAg5LqG77yM5Yir5Yig5a6D44CCCuiHquafpeeUqCBgZ2l0IGxzLWZpbGVzIC0tZW9sYO+8jOeciyBpbmRleCDliJfmmK/kuI3mmK8gYGkvbGZg44CCCgoqKmdoY3Ig55qE5YyF6buY6K6k5pivIHByaXZhdGXjgIIqKiDlubPlj7DljL/lkI3mi4nkuI3liqjvvIzkvJrmiqUgYHVuYXV0aG9yaXplZGDjgIIKd29ya2Zsb3cg5pyA5ZCO5LiA5q2lIGBNYWtlIGdoY3IgcGFja2FnZSBwdWJsaWNgIOWwseaYr+eUqCBBUEkg5oqK5a6D5pS55oiQIHB1YmxpY++8jApgY29udGludWUtb24tZXJyb3I6IHRydWVgIOaYr+aAlee7hOe7h+i0puWPt+eahOadg+mZkOetlueVpeaLpuS4i+adpSDigJTigJQg55yf6KKr5oum5LqG5bCx5Y67CkdpdEh1YiDljIXpobXpnaLmiYvliqjngrnkuIDmrKEgKipQYWNrYWdlIHNldHRpbmdzIOKGkiBDaGFuZ2UgdmlzaWJpbGl0eSDihpIgUHVibGljKirjgIIKCi0tLQoKIyMgOC4g5LiA5Y+l6K+dCgrlhYjnlKggwqcxIOi3kemAmueJh+WtkO+8jOWGjeeUqCDCpzIg5oqK546v5aKD5Zu65YyW44CC6ZWc5YOP5Y+q6Kej5YazIuavj+asoeaWsOWunuS+i+ecgSAyMCDliIbpkp8i77yMCuS4jeino+WGsyLmqKHlnovpgInlr7nmsqHpgInlr7kiIOKAlOKAlCDlkI7ogIXnnIsgYGRvY3MvZnJvbnRpZXItMjAyNi0xMC0yMi5tZGDjgIIK
+# 自建镜像：从"没有 Docker"到"平台里点一下就能跑"
+
+> 2026-10-22。本机没有 Docker / Podman / Buildah / WSL，也不是管理员；
+> 共绩的 GPU 容器里禁 DinD（`docker build` 在云主机里跑不起来）。
+> 所以镜像必须在**别处**构建，然后推到某个平台能拉的仓库。
+
+---
+
+## 0. 先选路线
+
+| 路线 | 要什么 | 多久 | 适合 |
+|---|---|---|---|
+| **D. 不用镜像**（先验证） | 只要平台账号 | 立刻 | 现在就想跑通 H3 出片 |
+| **A. ghcr.io**（零 secret） | 只要一个 GitHub 账号 | 首次 25–40 min | 长期用，公开镜像，平台直填 |
+| **B. 共绩 Harbor** | GitHub 账号 + 平台镜像仓库凭证 | 首次 25–40 min | 长期用，私有，国内拉取快 |
+| **C. 借一台有 Docker 的机器** | 任何 x86 Linux + Docker | 20–40 min | 有朋友/有服务器 |
+
+**建议顺序：先走 D 把片子跑出来，同时后台走 A 建镜像。** D 不阻塞任何事。
+A 不需要 Docker Hub、不需要配 secret —— Actions 自带的 token 就能推 ghcr。
+
+---
+
+## 1. 路线 D：不建镜像，直接跑（零成本验证）
+
+平台预制镜像里有 **MiniMax-H3**（端口 8188 ComfyUI + 3000 API），已经含 ComfyUI
+和 H3 节点。缺的只是本项目自己的 VoxCPM2 / 脚本 / 工作流。
+
+1. 弹性部署 → 新建 → **预制服务** tab → 选 `MiniMax-H3`
+2. 机型 **4090-48G**，启动命令改成：
+
+   ```bash
+   bash -lc 'cd /root && (git clone --depth 1 https://ghproxy.net/https://github.com/<你的仓库>.git gongji-4090-48g 2>/dev/null || true) && bash /root/gongji-4090-48g/scripts/boot.sh'
+   ```
+
+   没有仓库就把项目打包上传（平台支持挂对象存储）。仓库还没建的话，见 §2.1 —— 建仓库
+   本来也是路线 A/B 的前置步骤。
+
+3. 端口填 `8188`
+4. 进容器后跑一次（只需一次，容器释放即丢，所以每次新实例都要跑）：
+
+   ```bash
+   bash /root/gongji-4090-48g/scripts/setup_env.sh --min    # 装 VoxCPM2 等，约 15–25 min
+   bash /root/gongji-4090-48g/scripts/fetch_models.sh --tier h3 --tier vox
+   ```
+
+**这条路的问题**：每次新开实例都要重装 15–25 分钟（弹性部署无状态，容器释放即丢）。
+跑通一次、确认片子能出来之后，就该走 A/B 把环境固化进镜像。
+
+---
+
+## 2. 路线 A：GitHub Actions → ghcr.io（零 secret，推荐）
+
+> 这是整份文档最短的路径：**不需要 Docker Hub 账号，不需要 Harbor，不需要在
+> GitHub 配任何 secret。** Actions 自带的 `GITHUB_TOKEN` 就能推
+> `ghcr.io/<你的账号>/gongji-4090-48g:slim`。workflow 里最后一步会把包可见性
+> 自动改成 public —— ghcr 默认私有，匿名拉不动，这一步不能省。
+
+### 2.1 一条命令
+
+本地仓库已经 `git init` 并有 commit `082aa02`（45 个文件），只差推到远端：
+
+```powershell
+cd C:\Users\zhang\Documents\deepseek-harness\default-workspace\gongji-4090-48g
+.\scripts\deploy-image.ps1 -Token ghp_xxxxxxxxxxxx -Flavor slim
+```
+
+脚本依次做五件事，中间任何一步失败就停在那一步并打印原因：
+
+1. `GET /user` 验 token，读 `X-OAuth-Scopes` 响应头，缺 `repo` / `workflow` 会直接告诉你
+2. 建或复用同名 public 仓库
+3. `git push https://x-access-token:$Token@github.com/... HEAD:main`
+4. `POST .../actions/workflows/build-image.yml/dispatches` 触发构建
+5. 每 30 秒轮询 `actions/runs`，最多等 2 小时，最后打印镜像地址
+
+跑完输出：
+
+```
+镜像地址（填到平台）：
+  ghcr.io/<owner>/gongji-4090-48g:slim
+```
+
+**token 怎么来**：GitHub → 头像 → Settings → Developer settings →
+Personal access tokens → **Tokens (classic)** → Generate new token (classic)
+→ 勾 `repo` 和 `workflow` → 复制（只显示一次）。
+
+> `-DryRun` 只打印计划，不碰 GitHub。
+> token 只在 push 那一次命令里出现，**不会写进 `.git/config`**，也不会进任何文件。
+> 想要 full 版（TTS 全家桶，~22 GB）就 `-Flavor full`，两个都要 `-Flavor both`。
+
+### 2.2 手动版（不想让脚本碰你的账号）
+
+1. GitHub 网页 **New repository** → 名字 `gongji-4090-48g` → **Public** → 不勾任何初始化文件
+2. 本地：
+
+```bash
+cd C:\Users\zhang\Documents\deepseek-harness\default-workspace\gongji-4090-48g
+git remote add origin https://github.com/<你的账号>/gongji-4090-48g.git
+git push -u origin main
+```
+
+3. 仓库页 **Actions** → 左侧 `build-image` → **Run workflow** → `flavor` 选 `slim` → Run
+
+### 2.3 平台里填
+
+弹性部署 → 新建 → **自定义服务** → 镜像地址填 `ghcr.io/<owner>/gongji-4090-48g:slim`
+→ 端口 `8188` → 机型 `4090-48G` → 启动命令 `bash /root/scripts/boot.sh`。
+
+镜像里的脚本在 `/root/scripts/`，项目在 `/root/gongji-4090-48g/`，两个路径都能用。
+
+### 2.4 想换成 Docker Hub / 自己的 registry
+
+workflow 里预留了开关：仓库 **Settings → Variables** 加三个 variable
+
+| Variable | Value |
+|---|---|
+| `REGISTRY` | `docker.io` |
+| `REGISTRY_NAMESPACE` | 你的 Docker Hub 用户名（小写） |
+| `REGISTRY_USER` | 同上 |
+
+再加一个 secret `REGISTRY_PASSWORD`（Docker Hub → Account settings →
+Personal access tokens，权限 Read & Write）。不设这些变量时默认就是 ghcr，
+一个 secret 都不用配。
+
+---
+
+## 3. 路线 B：GitHub Actions → 共绩 Harbor
+
+和 A 只差 secret 的值（workflow 文件完全一样）：
+
+| Name | Value |
+|---|---|
+| `REGISTRY` | `harbor.suanleme.cn` |
+| `REGISTRY_NAMESPACE` | 控制台「镜像仓库」左侧的项目名 |
+| `REGISTRY_USER` | 「镜像仓库 → 访问凭证」的用户名 |
+| `REGISTRY_PASSWORD` | 同一处的密码 |
+
+> Harbor 的凭证和平台登录账号**不互通** —— 是单独生成的一对。
+> 镜像地址变成 `harbor.suanleme.cn/<项目>/gongji-4090-48g:slim`。
+> 平台拉 Harbor 用 `harborpull.suanleme.cn` 这个 pull 专用域，填地址时不用改，平台自己转。
+
+---
+
+## 4. 路线 C：借一台有 Docker 的机器
+
+```bash
+git clone <你的仓库> && cd gongji-4090-48g
+
+# slim（推荐，~9 GB）
+docker build -t <hub-user>/gongji-4090-48g:slim .
+
+# full（TTS 全家桶，~22 GB）
+docker build --build-arg SETUP_ARGS= -t <hub-user>/gongji-4090-48g:full .
+
+docker login
+docker push <hub-user>/gongji-4090-48g:slim
+```
+
+必须是 x86_64 机器（`uname -m` = `x86_64`）。Apple Silicon 上要
+`--platform linux/amd64`，会慢 5–10 倍。
+
+---
+
+## 5. 镜像里到底装了什么
+
+**没有模型权重。** 权重几十上百 GB，塞不进 80 GB 系统盘，由 `fetch_models.sh` 在实例里下。
+
+### slim（`SETUP_ARGS=--min`，约 9 GB）
+
+| 组件 | 用途 | 位置 |
+|---|---|---|
+| ComfyUI + 自定义节点 | 出图/出片主界面 | `:8188` |
+| **VoxCPM2** 2B | 因幡巡日语克隆主力，48 kHz | `:9883` |
+| Qwen3-TTS 1.7B | 10 语种备胎 | `:9880` |
+| faster-whisper large-v3 | 字幕/对轴 | 脚本调用 |
+
+> VoxCPM2 在 `setup_env.sh` 里被放在 `--min` 判断**之外** —— 它是主力，不是可选件。
+> Dockerfile 末尾还有一道独立自检 `test -x /root/venvs/vox/bin/python`，装不上就让
+> build 失败，不留残废镜像。
+
+### full（`SETUP_ARGS=` 传空，约 22 GB）
+
+slim 的全部 + IndexTTS-2.5（中文情感控制）+ MegaTTS3 + GPT-SoVITS + Ming-3.0-tts
+（`:9881`）+ VITS/MoeGoe（`:9882`，因幡巡成品声库）。
+
+**大多数情况 slim 就够。** full 的价值只在"想横向对比几个 TTS 谁配因幡巡更像"。
+
+### 权重拉取对照
+
+| 做什么 | 命令 | 体积 |
+|---|---|---|
+| 图像两代主力 | `fetch_models.sh --tier image` | ~28 GB |
+| 视频（H3 + LTX + Wan） | `--tier video` | ~120 GB |
+| 配音全套 | `--tier voice` | ~31 GB |
+| 只 H3 | `--tier h3` | ~39 GB |
+| 只 VoxCPM2 | `--tier vox` | ~5 GB |
+
+---
+
+## 6. 建成之后验什么
+
+```bash
+bash /root/scripts/doctor.sh          # 环境自检
+
+# VoxCPM2 活着？（未加载模型时 loaded=false 是正常的，懒加载）
+curl -s localhost:9883/health | jq .
+
+# 真出一句日语，确认 48 kHz
+curl -s -X POST localhost:9883/clone \
+  -H 'Content-Type: application/json' \
+  -d '{"text":"こんにちは、因幡めぐるです。","reference_wav_path":"/root/data/voice-prompts/meguru_ref.wav"}' \
+  -o /root/data/output/test_vox.wav
+ffprobe -v error -show_entries stream=sample_rate,channels -of csv=p=0 /root/data/output/test_vox.wav
+# 期望：48000,1
+```
+
+ComfyUI 那边：打开 `http://<公网地址>/` → 拖入 `workflows/h3_t2va.json` → 检查
+`Load Diffusion Model` 指向的 `minimax_h3_fl2va_pruned_int8_convrot.safetensors`
+和 `CLIPLoader` 指向的 `qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors` 都能在下拉里选到
+（选不到说明 `extra_model_paths.yaml` 没生效，看 boot.sh 第 2 步的日志）。
+
+---
+
+## 7. 已经踩过的坑
+
+**`hf.co` 直连不通。** 镜像里 `HF_ENDPOINT=https://hf-mirror.com` 已设死，
+`fetch_models.sh` 也只走 hf-mirror。不要改成官方域名，会 21 秒超时后失败。
+
+**两个官方权重仓是 gated，匿名下会 403。** 2026-10-22 逐个 URL 实测：
+`black-forest-labs/flux-3-image-klein-comfy` 与 `Lightricks/LTX-2.5` 都是 `gated=auto`，
+不带 token 一律 403。脚本已默认改走等价的非 gated 镜像仓 ——
+`ml-resources/flux-3-image-klein-comfy`（36 文件，逐项字节一致）与
+`comfyicu/LTX-2.5`（17 文件，逐项字节一致），两者 `gated=False`、匿名 206。
+要切回官方仓就 `FLUX3_REPO=... HF_TOKEN=hf_xxx bash fetch_models.sh --tier flux3k`
+（LTX 用 `LTX_REPO=...`）。**别在实例里现查现改**，这些路径是逐字节核过的。
+
+**H3 权重版本名不能靠猜。** 实际文件名是
+`minimax_h3_fl2va_pruned_int8_convrot.safetensors`（20.97 GB），
+文本编码器是 `qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors`（15.69 GB）。
+文档里凡是写 `umt5` 的都是旧稿，已经改掉了。
+
+**`SETUP_ARGS` 必须参与 cache key。** workflow 里 `cache-from: type=gha,scope=<flavor>`
+的 scope 就是这么来的 —— 不加的话 slim 的 layer 会被 full 复用，装出个半截环境。
+
+**GitHub Actions 的 runner 只有 ~14 GB 空闲盘。** workflow 里那段 `Free disk space`
+删掉 dotnet/android/ghc 能腾出 ~30 GB。删掉它，full 会在装到第六套 torch 时
+`No space left on device`。
+
+**别在云主机里 build。** 共绩容器禁 DinD，`docker` 命令根本不存在。
+
+**Windows 上不锁换行符，镜像会 build 失败。** 本机 `core.autocrlf=true`，脚本
+checkout 成 CRLF 之后 `bash scripts/setup_env.sh` 报 `\r: command not found`。
+`.gitattributes` 里已经把 `*.sh` / `Dockerfile` 全部钉成 `eol=lf` 了，别删它。
+自查用 `git ls-files --eol`，看 index 列是不是 `i/lf`。
+
+**ghcr 的包默认是 private。** 平台匿名拉不动，会报 `unauthorized`。
+workflow 最后一步 `Make ghcr package public` 就是用 API 把它改成 public，
+`continue-on-error: true` 是怕组织账号的权限策略拦下来 —— 真被拦了就去
+GitHub 包页面手动点一次 **Package settings → Change visibility → Public**。
+
+---
+
+## 8. 一句话
+
+先用 §1 跑通片子，再用 §2 把环境固化。镜像只解决"每次新实例省 20 分钟"，
+不解决"模型选对没选对" —— 后者看 `docs/frontier-2026-10-22.md`。

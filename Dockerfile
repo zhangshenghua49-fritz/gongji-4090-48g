@@ -1,1 +1,72 @@
-IyDlhbHnu6nnrpflipsgwrcgNDA5MCA0OEcgwrcg546v5aKD5bGC6ZWc5YOPCiMKIyDov5nkuKrplZzlg4/ph4zjgJDmsqHmnInmqKHlnovmnYPph43jgJHjgILmnYPph43lh6DljYHkuIrnmb4gR0LvvIzloZ7kuI3ov5sgODBHQiDns7vnu5/nm5jvvIwKIyDlubPlj7DlrpjmlrnkuZ/mmK/orqnmnYPph43mlL7lr7nosaHlrZjlgqgv5YWx5Lqr5a2Y5YKo5Y2344CB5Y+q6K+75oyC5YiwIC9yb290L2RhdGEvbW9kZWxz44CCCiMg5omA5Lul6ZWc5YOP5Y+q6LSf6LSjIui/m+WOu+WwseiDvei3kSLvvIzmnYPph43nlLEgZmV0Y2hfbW9kZWxzLnNoIOWcqOWunuS+i+mHjOS4i+OAggojCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg5p6E5bu677yI5pys5py65rKhIERvY2tlciDml7botbAgR2l0SHViIEFjdGlvbnPvvIzop4EgLmdpdGh1Yi93b3JrZmxvd3MvZG9ja2VyLnltbO+8iQojICAgZG9ja2VyIGJ1aWxkIC10IDxodWItdXNlcj4vZ29uZ2ppLTQwOTAtNDhnOnNsaW0gLiAgICAgICAgICAgICAgICAgIyDpu5jorqQKIyAgIGRvY2tlciBidWlsZCAtLWJ1aWxkLWFyZyBTRVRVUF9BUkdTPSAtdCA8aHViLXVzZXI+L2dvbmdqaS00MDkwLTQ4ZzpmdWxsIC4KIyDlm73lhoXmi4nkuI3liqggbnZpZGlhL2N1ZGEg5bCx57uZIERvY2tlciDphY3plZzlg4/liqDpgJ/vvIzmiJbmiorkuIvpnaIgRlJPTSDmjaLmiJDog73orr/pl67nmoTplZzlg4/mupDlnLDlnYDjgIIKIwojIOS4pOS4qiBmbGF2b3Ig55qE5beu5Yir5Y+q5Zyo44CMVFRTIOWkh+iDjuijheS4jeijheOAje+8mgojICAgc2xpbe+8iOm7mOiupO+8jFNFVFVQX0FSR1M9LS1taW7vvIkgQ29tZnlVSSArIOiKgueCuSArIFZveENQTTIgKyBRd2VuMy1UVFMgKyB3aGlzcGVyCiMgICBmdWxs77yIU0VUVVBfQVJHUz3vvIkgICAgICAgICAgIOWGjeWKoCBJbmRleFRUUy0yLjUgLyBNZWdhVFRTMyAvIEdQVC1Tb1ZJVFMgLyBNaW5nIC8gVklUUwojIOazqOaEjyBWb3hDUE0yIOWcqCBzZXR1cF9lbnYuc2gg6YeM6KKr5pS+5ZyoIC0tbWluIOWIpOaWrSoq5LmL5aSWKirvvJrlroPlm6DluaHlt6HphY3pn7PnmoTkuLvlipvvvIwKIyDkuI3mmK/lj6/pgInku7bjgIIKIwojIOmVnOWDj+iHquW4puiDveWKm++8iDIwMjYtMTAtMjIg54mI77yJ77yaCiMgICDlm77lg48gIENvbWZ5VUkgKyBRd2VuLUltYWdlLTIuMShGUDgpICsgRkxVWCAzIGtsZWluICsgWi1JbWFnZS1UdXJibwojICAg6KeG6aKRICBDb21meVVJICsgTWluaU1heC1IMyhwcnVuZWRfaW50OC9udmZwNCBURSkgKyBMVFgtMi41KGludDgpICsgV2FuMi4yCiMgICDlo7Dpn7MgIFZveENQTTIgOjk4ODMgLyBRd2VuMy1UVFMgOjk4ODAgLyBNaW5nIDo5ODgxIC8gVklUUyA6OTg4MiAvIEluZGV4VFRTLTIuNQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKRlJPTSBudmlkaWEvY3VkYToxMi44LjEtY3Vkbm4tcnVudGltZS11YnVudHUyMi4wNAoKTEFCRUwgb3JnLm9wZW5jb250YWluZXJzLmltYWdlLnRpdGxlPSJnb25namktNDA5MC00OGciIFwKICAgICAgb3JnLm9wZW5jb250YWluZXJzLmltYWdlLmRlc2NyaXB0aW9uPSJDb21meVVJICsgTWluaU1heC1IMyArIFF3ZW4tSW1hZ2UtMi4xICsgRkxVWDMga2xlaW4gKyBWb3hDUE0yIGZvciBSVFggNDA5MCA0OEciIFwKICAgICAgb3JnLm9wZW5jb250YWluZXJzLmltYWdlLnZlcnNpb249IjIwMjYuMTAuMjIiIFwKICAgICAgb3JnLm9wZW5jb250YWluZXJzLmltYWdlLnNvdXJjZT0iaHR0cHM6Ly9naXRodWIuY29tL3JhbnhpYW5nbGVpL2dvbmdqaS00MDkwLTQ4ZyIKCkFSRyBTRVRVUF9BUkdTPSItLW1pbiIKCkVOViBERUJJQU5fRlJPTlRFTkQ9bm9uaW50ZXJhY3RpdmUgXAogICAgUFlUSE9OVU5CVUZGRVJFRD0xIFwKICAgIFRaPUFzaWEvU2hhbmdoYWkgXAogICAgSEZfRU5EUE9JTlQ9aHR0cHM6Ly9oZi1taXJyb3IuY29tIFwKICAgIFBJUF9JTkRFWF9VUkw9aHR0cHM6Ly9weXBpLnR1bmEudHNpbmdodWEuZWR1LmNuL3NpbXBsZSBcCiAgICBVVl9ERUZBVUxUX0lOREVYPWh0dHBzOi8vcHlwaS50dW5hLnRzaW5naHVhLmVkdS5jbi9zaW1wbGUgXAogICAgUEFUSD0vcm9vdC9iaW46L3Jvb3QvLmxvY2FsL2JpbjovdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4KClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgLS1uby1pbnN0YWxsLXJlY29tbWVuZHMgXAogICAgICAgIHB5dGhvbjMgcHl0aG9uMy12ZW52IHB5dGhvbjMtcGlwIFwKICAgICAgICBnaXQgY3VybCB3Z2V0IGNhLWNlcnRpZmljYXRlcyBhcmlhMiBqcSBcCiAgICAgICAgZmZtcGVnIGxpYnNuZGZpbGUxIGxpYmdsMSBsaWJnbGliMi4wLTAgbGliZ29tcDEgXAogICAgICAgIGJ1aWxkLWVzc2VudGlhbCBlc3BlYWstbmcgXAogICAgICAgIGZvbnRzLW5vdG8tY2prIGZvbnRzLW5vdG8tY2prLWV4dHJhIFwKICAgICAgICBvcGVuc3NoLXNlcnZlciBzdXBlcnZpc29yIFwKICAgICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAmJiBsbiAtc2YgL3Vzci9zaGFyZS96b25laW5mby9Bc2lhL1NoYW5naGFpIC9ldGMvbG9jYWx0aW1lCgpDT1BZIC4gL3Jvb3QvZ29uZ2ppLTQwOTAtNDhnCldPUktESVIgL3Jvb3QvZ29uZ2ppLTQwOTAtNDhnCgojIOWFqOeoi+WPqui1sCBwaXDvvIxidWlsZCDpmLbmrrXkuI3pnIDopoHmmL7ljaHjgIIKIyDnvZHnu5zmipbliqjpnaAgMyDmrKHph43or5XlhZzkvY/vvJvph43or5Xlrozku43nvLogQ29tZnlVSSDlsLHorqkgYnVpbGQg55u05o6l5aSx6LSlIOKAlOKAlCDplZzlg4/ph4zluKbkuIDkuKrmrovlup/njq/looMKIyDmr5QgYnVpbGQg5aSx6LSl5pu05Z2R77yM5L2g5Lya5Lul5Li66KOF5aW95LqG44CCClJVTiBmb3IgaSBpbiAxIDIgMzsgZG8gXAogICAgICAgIGJhc2ggc2NyaXB0cy9zZXR1cF9lbnYuc2ggJFNFVFVQX0FSR1MgJiYgYnJlYWs7IFwKICAgICAgICBlY2hvICJbcmV0cnkgJGldIHNldHVwX2Vudi5zaCDlpLHotKXvvIwxMCDnp5LlkI7ph43or5UiOyBzbGVlcCAxMDsgXAogICAgZG9uZTsgdGVzdCAteCAvcm9vdC9iaW4vY29tZnl1aSAmJiB0ZXN0IC1mIC9yb290L0NvbWZ5VUkvbWFpbi5weQoKIyBWb3hDUE0yIOaYr+WboOW5oeW3oemFjemfs+S4u+WKm++8jOW/hemhu+ijheaIkCDigJTigJQg5Y2V54us5LiA6YGT6Ze477yM5Yir6KKr5LiK6Z2i5Lu75L2V5LiA5q2l55qEIHdhcm4g5bim6L+H44CCClJVTiB0ZXN0IC14IC9yb290L3ZlbnZzL3ZveC9iaW4vcHl0aG9uIFwKICAgIHx8IChlY2hvICJWb3hDUE0yIHZlbnYg57y65aSx77yM6YeN6K+V5LiA5qyhIiAmJiBiYXNoIHNjcmlwdHMvc2V0dXBfZW52LnNoICRTRVRVUF9BUkdTKTsgXAogICAgdGVzdCAteCAvcm9vdC92ZW52cy92b3gvYmluL3B5dGhvbgoKRU5WIENPTUZZX0RJUj0vcm9vdC9Db21meVVJIFwKICAgIFZPWF9NT0RFTFM9L3Jvb3QvZGF0YS9tb2RlbHMvdm94Y3BtMgpFWFBPU0UgODE4OCA4ODg4IDk4ODAgOTg4MSA5ODgyIDk4ODMKV09SS0RJUiAvcm9vdApDTUQgWyJiYXNoIl0K
+# 共绩算力 · 4090 48G · 环境层镜像
+#
+# 这个镜像里【没有模型权重】。权重几十上百 GB，塞不进 80GB 系统盘，
+# 平台官方也是让权重放对象存储/共享存储卷、只读挂到 /root/data/models。
+# 所以镜像只负责"进去就能跑"，权重由 fetch_models.sh 在实例里下。
+#
+# ---------------------------------------------------------------------------
+# 构建（本机没 Docker 时走 GitHub Actions，见 .github/workflows/docker.yml）
+#   docker build -t <hub-user>/gongji-4090-48g:slim .                 # 默认
+#   docker build --build-arg SETUP_ARGS= -t <hub-user>/gongji-4090-48g:full .
+# 国内拉不动 nvidia/cuda 就给 Docker 配镜像加速，或把下面 FROM 换成能访问的镜像源地址。
+#
+# 两个 flavor 的差别只在「TTS 备胎装不装」：
+#   slim（默认，SETUP_ARGS=--min） ComfyUI + 节点 + VoxCPM2 + Qwen3-TTS + whisper
+#   full（SETUP_ARGS=）           再加 IndexTTS-2.5 / MegaTTS3 / GPT-SoVITS / Ming / VITS
+# 注意 VoxCPM2 在 setup_env.sh 里被放在 --min 判断**之外**：它因幡巡配音的主力，
+# 不是可选件。
+#
+# 镜像自带能力（2026-10-22 版）：
+#   图像  ComfyUI + Qwen-Image-2.1(FP8) + FLUX 3 klein + Z-Image-Turbo
+#   视频  ComfyUI + MiniMax-H3(pruned_int8/nvfp4 TE) + LTX-2.5(int8) + Wan2.2
+#   声音  VoxCPM2 :9883 / Qwen3-TTS :9880 / Ming :9881 / VITS :9882 / IndexTTS-2.5
+# ---------------------------------------------------------------------------
+
+FROM nvidia/cuda:12.8.1-cudnn-runtime-ubuntu22.04
+
+LABEL org.opencontainers.image.title="gongji-4090-48g" \
+      org.opencontainers.image.description="ComfyUI + MiniMax-H3 + Qwen-Image-2.1 + FLUX3 klein + VoxCPM2 for RTX 4090 48G" \
+      org.opencontainers.image.version="2026.10.22" \
+      org.opencontainers.image.source="https://github.com/ranxianglei/gongji-4090-48g"
+
+ARG SETUP_ARGS="--min"
+
+ENV DEBIAN_FRONTEND=noninteractive \
+    PYTHONUNBUFFERED=1 \
+    TZ=Asia/Shanghai \
+    HF_ENDPOINT=https://hf-mirror.com \
+    PIP_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple \
+    UV_DEFAULT_INDEX=https://pypi.tuna.tsinghua.edu.cn/simple \
+    PATH=/root/bin:/root/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+        python3 python3-venv python3-pip \
+        git curl wget ca-certificates aria2 jq \
+        ffmpeg libsndfile1 libgl1 libglib2.0-0 libgomp1 \
+        build-essential espeak-ng \
+        fonts-noto-cjk fonts-noto-cjk-extra \
+        openssh-server supervisor \
+    && rm -rf /var/lib/apt/lists/* \
+    && ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+
+COPY . /root/gongji-4090-48g
+WORKDIR /root/gongji-4090-48g
+
+# 全程只走 pip，build 阶段不需要显卡。
+# 网络抖动靠 3 次重试兜住；重试完仍缺 ComfyUI 就让 build 直接失败 —— 镜像里带一个残废环境
+# 比 build 失败更坑，你会以为装好了。
+RUN for i in 1 2 3; do \
+        bash scripts/setup_env.sh $SETUP_ARGS && break; \
+        echo "[retry $i] setup_env.sh 失败，10 秒后重试"; sleep 10; \
+    done; test -x /root/bin/comfyui && test -f /root/ComfyUI/main.py
+
+# VoxCPM2 是因幡巡配音主力，必须装成 —— 单独一道闸，别被上面任何一步的 warn 带过。
+RUN test -x /root/venvs/vox/bin/python \
+    || (echo "VoxCPM2 venv 缺失，重试一次" && bash scripts/setup_env.sh $SETUP_ARGS); \
+    test -x /root/venvs/vox/bin/python
+
+ENV COMFY_DIR=/root/ComfyUI \
+    VOX_MODELS=/root/data/models/voxcpm2
+EXPOSE 8188 8888 9880 9881 9882 9883
+WORKDIR /root
+CMD ["bash"]

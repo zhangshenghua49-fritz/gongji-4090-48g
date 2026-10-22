@@ -1,1 +1,105 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOacrOacuuS4gOmUru+8muijhSBXU0wyICsgVWJ1bnR1IOKGkiDlnKggVWJ1bnR1IOmHjCBidWlsZCDihpIgcHVzaCDliLDlhbHnu6kgSGFyYm9y44CCCiMKIyDliY3mj5DvvJpXaW5kb3dzIDEwIDIwMDQrIC8gV2luZG93cyAxMe+8jEJJT1Mg6YeM6Jma5ouf5YyW5bey5byA44CCCiMg5Luj5Lu377ya6ZyA6KaB6YeN5ZCv5LiA5qyh55S16ISR77yIV1NMIOWGheaguOijheWujOimgemHjeWQr+aJjeeUn+aViO+8ieOAggojCiMg55So5rOV77yI5Zyo5pys55uu5b2V55SoIEdpdCBCYXNoIOi3ke+8ie+8mgojICAgYmFzaCBzY3JpcHRzL3dzbF9idWlsZC5zaCAgICAgICAgICAgICMg5Y+q6KOFIFdTTCArIFVidW50de+8jOS4jSBidWlsZAojICAgYmFzaCBzY3JpcHRzL3dzbF9idWlsZC5zaCAtLWJ1aWxkICAgICMg6KOF5a6M6aG65omLIGJ1aWxkICsgcHVzaAojCiMgSGFyYm9yIOWHreaNruivu+eOr+Wig+WPmOmHj++8jOaIluWcqCBydW50aW1lLmVudiDph4zlhpnvvJoKIyAgIEhBUkJPUl9SRUdJU1RSWT1oYXJib3Iuc3VhbmxlbWUuY24KIyAgIEhBUkJPUl9QUk9KRUNUPeS9oOeahOmhueebruWQjQojICAgSEFSQk9SX1VTRVI9Li4uCiMgICBIQVJCT1JfUEFTUz0uLi4Kc2V0IC1ldW8gcGlwZWZhaWwKCkhFUkU9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKS8uLiIgJiYgcHdkKSIKRE9fQlVJTEQ9MApbWyAiJHsxOi19IiA9PSAiLS1idWlsZCIgXV0gJiYgRE9fQlVJTEQ9MQoKc2F5KCkgeyBwcmludGYgJ1xuXDAzM1szNm09PSAlc1wwMzNbMG1cbicgIiQqIjsgfQpkaWUoKSB7IHByaW50ZiAnXDAzM1szMW1bZXJyXSAlc1wwMzNbMG1cbicgIiQqIiA+JjI7IGV4aXQgMTsgfQoKIyAtLS0tLS0tLS0tIDEuIOajgOafpSAtLS0tLS0tLS0tCnNheSAi5qOA5p+lIFdTTCDnirbmgIEiCmlmIHdzbC5leGUgLS1zdGF0dXMgPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgICBlY2hvICJXU0wg5bey5a6J6KOFIgogICAgV1NMX09LPTEKZWxzZQogICAgZWNobyAiV1NMIOacquWuieijhSIKICAgIFdTTF9PSz0wCmZpCgppZiBbWyAkV1NMX09LIC1lcSAwIF1dOyB0aGVuCiAgICBzYXkgIuWuieijhSBXU0wyICsgVWJ1bnR177yI5Lya5by5IFVBQ++8jOivt+eCueOAjOaYr+OAje+8iSIKICAgICMgLS1uby1sYXVuY2jvvJroo4XlrozkuI3ov5sgVWJ1bnR1IOS6pOS6kueVjOmdou+8jOmBv+WFjeiEmuacrOWNoeS9jwogICAgcG93ZXJzaGVsbC5leGUgLU5vUHJvZmlsZSAtQ29tbWFuZCBcCiAgICAgICAgIlN0YXJ0LVByb2Nlc3Mgd3NsLmV4ZSAtQXJndW1lbnRMaXN0ICctLWluc3RhbGwnLCctZCcsJ1VidW50dScsJy0tbm8tbGF1bmNoJyAtVmVyYiBSdW5BcyAtV2FpdCIgXAogICAgICAgIHx8IGRpZSAiV1NMIOWuieijheWksei0peOAguaJi+WKqOWcqOeuoeeQhuWRmCBQb3dlclNoZWxsIOmHjOi3ke+8mndzbCAtLWluc3RhbGwgLWQgVWJ1bnR1IC0tbm8tbGF1bmNoIgogICAgY2F0IDw8J0VPRicKClshXSBXU0wg5bey5o+Q5Lqk5a6J6KOF77yM5L2G6ZyA6KaB44CQ6YeN5ZCv55S16ISR44CR5omN55Sf5pWI44CCCgrph43lkK/lkI7mjInpobrluo/vvJoKICAxLiDmiZPlvIDjgIxVYnVudHXjgI3lupTnlKjvvIjmiJYgUG93ZXJTaGVsbCDot5Egd3Ns77yJ77yM6K6+5LiA5Liq55So5oi35ZCN5a+G56CBCiAgMi4g5Zue5YiwIEdpdCBCYXNo77yM6YeN6LeR77yaYmFzaCBzY3JpcHRzL3dzbF9idWlsZC5zaCAtLWJ1aWxkCgpFT0YKICAgIGV4aXQgMApmaQoKIyAtLS0tLS0tLS0tIDIuIFVidW50dSDph4zoo4UgZG9ja2VyIC0tLS0tLS0tLS0Kc2F5ICLlnKggVWJ1bnR1IOWGheWuieijhSBkb2NrZXIgKyBidWlsZHgiCndzbC5leGUgLWQgVWJ1bnR1IC0tIGJhc2ggLWxjICcKc2V0IC1lCmlmICEgY29tbWFuZCAtdiBkb2NrZXIgPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgICBzdWRvIGFwdC1nZXQgdXBkYXRlIC1xcQogICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgLXFxIGRvY2tlci5pbyBkb2NrZXItYnVpbGR4ID4vZGV2L251bGwKZmkKc3VkbyB1c2VybW9kIC1hRyBkb2NrZXIgIiRVU0VSIiB8fCB0cnVlCmRvY2tlciAtLXZlcnNpb24KJyB8fCBkaWUgIlVidW50dSDlhoUgZG9ja2VyIOWuieijheWksei0pSIKCiMgLS0tLS0tLS0tLSAzLiDlh63mja4gLS0tLS0tLS0tLQppZiBbWyAtZiAiJEhFUkUvcnVudGltZS5lbnYiIF1dOyB0aGVuCiAgICAjIHNoZWxsY2hlY2sgZGlzYWJsZT1TQzEwOTEKICAgIHNvdXJjZSAiJEhFUkUvcnVudGltZS5lbnYiCmZpCjogIiR7SEFSQk9SX1JFR0lTVFJZOj1oYXJib3Iuc3VhbmxlbWUuY259Igo6ICIke0hBUkJPUl9QUk9KRUNUOj/or7forr7nva4gSEFSQk9SX1BST0pFQ1TvvIjmjqfliLblj7DjgIzplZzlg4/ku5PlupPjgI3ph4znmoTpobnnm67lkI3vvIl9Igo6ICIke0hBUkJPUl9VU0VSOj/or7forr7nva4gSEFSQk9SX1VTRVLvvIjmjqfliLblj7DjgIzplZzlg4/ku5PlupMg4oaSIOiuv+mXruWHreivgeOAje+8iX0iCjogIiR7SEFSQk9SX1BBU1M6P+ivt+iuvue9riBIQVJCT1JfUEFTU30iClRBRz0iJHtUQUc6LXYxfSIKSU1BR0U9IiRIQVJCT1JfUkVHSVNUUlkvJEhBUkJPUl9QUk9KRUNUL2dvbmdqaS00MDkwLTQ4ZzokVEFHIgoKaWYgW1sgJERPX0JVSUxEIC1lcSAwIF1dOyB0aGVuCiAgICBzYXkgIldTTCDlsLHnu6rjgILliqAgLS1idWlsZCDmiY3kvJrmnoTlu7rjgILnm67moIfplZzlg4/vvJokSU1BR0UiCiAgICBleGl0IDAKZmkKCiMgLS0tLS0tLS0tLSA0LiBidWlsZCArIHB1c2ggLS0tLS0tLS0tLQpzYXkgIuaehOW7uiAkSU1BR0XvvIjpppbmrKEgMjB+NDAg5YiG6ZKf77yM5Y+W5Yaz5LqO572R6YCf77yJIgojIFdpbmRvd3Mg6Lev5b6E6L2sIFdTTCDot6/lvoQKV1NMX1BBVEg9IiQod3NsLmV4ZSAtZCBVYnVudHUgLS0gd3NscGF0aCAtYSAiJEhFUkUiIHwgdHIgLWQgJ1xyJykiCmVjaG8gIldTTCDlt6XkvZznm67lvZU6ICRXU0xfUEFUSCIKCndzbC5leGUgLWQgVWJ1bnR1IC0tIGJhc2ggLWxjICIKc2V0IC1lCmNkICckV1NMX1BBVEgnCmVjaG8gJyRIQVJCT1JfUEFTUycgfCBzdWRvIGRvY2tlciBsb2dpbiAnJEhBUkJPUl9SRUdJU1RSWScgLXUgJyRIQVJCT1JfVVNFUicgLS1wYXNzd29yZC1zdGRpbgpzdWRvIGRvY2tlciBidWlsZCAtLXBsYXRmb3JtIGxpbnV4L2FtZDY0IC10ICckSU1BR0UnIC4Kc3VkbyBkb2NrZXIgcHVzaCAnJElNQUdFJwoiCgpzYXkgIuWujOaIkCIKY2F0IDw8RU9GCgrplZzlg4/lnLDlnYDvvIjloavov5vkupHkuLvmnLrliJvlu7rpobXnmoTjgIzmiJHnmoTplZzlg4/jgI3vvInvvJoKCiAgJElNQUdFCgrku6XlkI7lvIDmnLogMX4zIOWIhumSn+WwseaYr+ijheWlveeahOeOr+Wig++8jOS4jemcgOimgeWGjei/m+WuueWZqOijheS7u+S9leS4nOilv+OAggoKRU9GCg==
+#!/usr/bin/env bash
+# 本机一键：装 WSL2 + Ubuntu → 在 Ubuntu 里 build → push 到共绩 Harbor。
+#
+# 前提：Windows 10 2004+ / Windows 11，BIOS 里虚拟化已开。
+# 代价：需要重启一次电脑（WSL 内核装完要重启才生效）。
+#
+# 用法（在本目录用 Git Bash 跑）：
+#   bash scripts/wsl_build.sh            # 只装 WSL + Ubuntu，不 build
+#   bash scripts/wsl_build.sh --build    # 装完顺手 build + push
+#
+# Harbor 凭据读环境变量，或在 runtime.env 里写：
+#   HARBOR_REGISTRY=harbor.suanleme.cn
+#   HARBOR_PROJECT=你的项目名
+#   HARBOR_USER=...
+#   HARBOR_PASS=...
+set -euo pipefail
+
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+DO_BUILD=0
+[[ "${1:-}" == "--build" ]] && DO_BUILD=1
+
+say() { printf '\n\033[36m== %s\033[0m\n' "$*"; }
+die() { printf '\033[31m[err] %s\033[0m\n' "$*" >&2; exit 1; }
+
+# ---------- 1. 检查 ----------
+say "检查 WSL 状态"
+if wsl.exe --status >/dev/null 2>&1; then
+    echo "WSL 已安装"
+    WSL_OK=1
+else
+    echo "WSL 未安装"
+    WSL_OK=0
+fi
+
+if [[ $WSL_OK -eq 0 ]]; then
+    say "安装 WSL2 + Ubuntu（会弹 UAC，请点「是」）"
+    # --no-launch：装完不进 Ubuntu 交互界面，避免脚本卡住
+    powershell.exe -NoProfile -Command \
+        "Start-Process wsl.exe -ArgumentList '--install','-d','Ubuntu','--no-launch' -Verb RunAs -Wait" \
+        || die "WSL 安装失败。手动在管理员 PowerShell 里跑：wsl --install -d Ubuntu --no-launch"
+    cat <<'EOF'
+
+[!] WSL 已提交安装，但需要【重启电脑】才生效。
+
+重启后按顺序：
+  1. 打开「Ubuntu」应用（或 PowerShell 跑 wsl），设一个用户名密码
+  2. 回到 Git Bash，重跑：bash scripts/wsl_build.sh --build
+
+EOF
+    exit 0
+fi
+
+# ---------- 2. Ubuntu 里装 docker ----------
+say "在 Ubuntu 内安装 docker + buildx"
+wsl.exe -d Ubuntu -- bash -lc '
+set -e
+if ! command -v docker >/dev/null 2>&1; then
+    sudo apt-get update -qq
+    sudo apt-get install -y -qq docker.io docker-buildx >/dev/null
+fi
+sudo usermod -aG docker "$USER" || true
+docker --version
+' || die "Ubuntu 内 docker 安装失败"
+
+# ---------- 3. 凭据 ----------
+if [[ -f "$HERE/runtime.env" ]]; then
+    # shellcheck disable=SC1091
+    source "$HERE/runtime.env"
+fi
+: "${HARBOR_REGISTRY:=harbor.suanleme.cn}"
+: "${HARBOR_PROJECT:?请设置 HARBOR_PROJECT（控制台「镜像仓库」里的项目名）}"
+: "${HARBOR_USER:?请设置 HARBOR_USER（控制台「镜像仓库 → 访问凭证」）}"
+: "${HARBOR_PASS:?请设置 HARBOR_PASS}"
+TAG="${TAG:-v1}"
+IMAGE="$HARBOR_REGISTRY/$HARBOR_PROJECT/gongji-4090-48g:$TAG"
+
+if [[ $DO_BUILD -eq 0 ]]; then
+    say "WSL 就绪。加 --build 才会构建。目标镜像：$IMAGE"
+    exit 0
+fi
+
+# ---------- 4. build + push ----------
+say "构建 $IMAGE（首次 20~40 分钟，取决于网速）"
+# Windows 路径转 WSL 路径
+WSL_PATH="$(wsl.exe -d Ubuntu -- wslpath -a "$HERE" | tr -d '\r')"
+echo "WSL 工作目录: $WSL_PATH"
+
+wsl.exe -d Ubuntu -- bash -lc "
+set -e
+cd '$WSL_PATH'
+echo '$HARBOR_PASS' | sudo docker login '$HARBOR_REGISTRY' -u '$HARBOR_USER' --password-stdin
+sudo docker build --platform linux/amd64 -t '$IMAGE' .
+sudo docker push '$IMAGE'
+"
+
+say "完成"
+cat <<EOF
+
+镜像地址（填进云主机创建页的「我的镜像」）：
+
+  $IMAGE
+
+以后开机 1~3 分钟就是装好的环境，不需要再进容器装任何东西。
+
+EOF

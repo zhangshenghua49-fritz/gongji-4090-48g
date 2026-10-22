@@ -1,1 +1,319 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJWb3hDUE0yIEhUVFAg5pyN5YqhIOKAlOKAlCDlm6DluaHlt6Hml6Xor63phY3pn7PkuLvlipvvvIg6OTg4M++8iQoK5Li65LuA5LmI5pivIFZveENQTTIg6ICM5LiN5pivIE1pbmctMy4w77yaCiAg5pel6K+t6Zu25qC35pys6Z+z6Imy55u45Ly85bqmIDAuODI1IHZzIDAuNzY177yIU0lNIOi2iumrmOi2iuWDj+acrOS6uu+8ie+8jAogIOS4lOi+k+WHuiA0OCBrSHog55u05Ye677yIMTYga0h6IOWPguiAg+mfs+e7jyBBdWRpb1ZBRSBWMiDpnZ7lr7nnp7DnvJbop6PnoIHmlL7lpKfvvInvvIwKICDlr7njgIzmi7/kuIDmrrXlm6DluaHlt6Hljp/lo7DlhYvpmobjgIHlho3lv7XlsI/or7Tml4Hnmb3jgI3ov5nmnaHpk77ot6/mmK/lhrPlrprmgKfnmoTjgIIKICBNaW5nIOeahOmVv+WkhOaYryBNSVQgKyDoi7Hmlofnu7zlkIjliIYgKyA0NC4xIGtIeu+8jOeVmeWcqCA6OTg4MSDlvZPlr7nnhafnu4TjgIIKCuaYvuWtmOetlueVpe+8muaHkuWKoOi9vSArIC91bmxvYWQg56uL5Yi76IW+56m644CCSDMg5Ye654mH5pe25YWIIFBPU1QgL3VubG9hZO+8jArot5Hlrozlho3orqnkuIvkuIDmrKHor7fmsYLoh6rliqjliqDovb0g4oCU4oCUIDQwOTAgNDhHIOS4iiBIMyDlhajluLjpqbvopoEgNDIgR0LvvIzkuKTogIXkuI3og73lkIzml7bmjILnnYDjgIIKCuaOpeWPo++8iOS4jiBtaW5nX3R0c19zZXJ2ZXIucHkg5L+d5oyB5LiA6Ie077yM5pa55L6/5LiK5bGC6ISa5pys5YiH5o2i77yJ77yaCiAgR0VUICAvaGVhbHRoICAgICAgICAgIOWBpeW6tyArIOaYvuWtmCArIOaYr+WQpuW3suWKoOi9vQogIFBPU1QgL3VubG9hZCAgICAgICAgICDljbjovb3mqKHlnovjgIHmuIXnqbrmmL7lrZgKICBHRVQgIC9jYXBhYmlsaXRpZXMgICAg5pSv5oyB55qE6K+t6KiAL+iDveWKmy/ph4fmoLfnjocKICBQT1NUIC9jbG9uZSAgICAgICAgICAg5Y+C6ICD6Z+z5YWL6ZqG77yIcmVmZXJlbmNlX3dhdl9wYXRo77yJCiAgUE9TVCAvaGlmaV9jbG9uZSAgICAgIOe7reWGmeW8j+mrmOS/neecn+WFi+mahu+8iHByb21wdF93YXYgKyBwcm9tcHRfdGV4dO+8jOacgOWDj+acrOS6uu+8iQogIFBPU1QgL2Rlc2lnbiAgICAgICAgICDnuq/mloflrZfmj4/ov7DpgKDpn7PoibLvvIjml6Dlj4LogIPpn7PvvIkKICBQT1NUIC9zeW50aCAgICAgICAgICAg6YCP5Lyg5Y6f5aeL5Y+C5pWwCiAg57uf5LiA6L+U5ZueIGF1ZGlvL3dhdiDkuozov5vliLbmtYHjgIIKCueUqOazle+8mgogIHB5dGhvbiB2b3hfdHRzX3NlcnZlci5weSAtLW1vZGVscyAvcm9vdC9kYXRhL21vZGVscy92b3hjcG0yIC0tcG9ydCA5ODgzCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBiYXNlNjQKaW1wb3J0IGJpbmFzY2lpCmltcG9ydCBpbwppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHRlbXBmaWxlCmltcG9ydCB0aHJlYWRpbmcKaW1wb3J0IHRpbWUKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgT3B0aW9uYWwKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgc291bmRmaWxlIGFzIHNmCgp0cnk6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmnI3liqHog73otbfjgIHmqKHlnovkuI3lnKjkuZ/og73nu5kgL2hlYWx0aCDlm57or50KICAgIGZyb20gZmFzdGFwaSBpbXBvcnQgRmFzdEFQSSwgSFRUUEV4Y2VwdGlvbgogICAgZnJvbSBmYXN0YXBpLnJlc3BvbnNlcyBpbXBvcnQgUmVzcG9uc2UKICAgIGZyb20gcHlkYW50aWMgaW1wb3J0IEJhc2VNb2RlbCwgRmllbGQKICAgIGltcG9ydCB1dmljb3JuCmV4Y2VwdCBJbXBvcnRFcnJvciBhcyBleGM6ICAgICAgICAgICAgICAjIHByYWdtYTogbm8gY292ZXIKICAgIHJhaXNlIFN5c3RlbUV4aXQoZiLnvLrkvp3otZbvvJp7ZXhjfe+8iOmcgOimgSBmYXN0YXBpIHV2aWNvcm4gcHlkYW50aWMgc291bmRmaWxl77yJIikgZnJvbSBleGMKCmxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPLCBmb3JtYXQ9IiUoYXNjdGltZSlzICUobGV2ZWxuYW1lKXMgJShtZXNzYWdlKXMiKQpsb2cgPSBsb2dnaW5nLmdldExvZ2dlcigidm94Y3BtMiIpCgpTVEFURTogZGljdFtzdHIsIEFueV0gPSB7Im1vZGVsIjogTm9uZSwgInNyIjogNDgwMDAsICJsb2NrIjogdGhyZWFkaW5nLkxvY2soKSwgImxvYWRlZF9hdCI6IE5vbmV9CkFQUCA9IEZhc3RBUEkodGl0bGU9IlZveENQTTIgVFRTIiwgdmVyc2lvbj0iMi4wIikKQVJHUzogYXJncGFyc2UuTmFtZXNwYWNlCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyDmqKHlnovnlJ/lkb3lkajmnJ8KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIF9sb2FkKCk6CiAgICAiIiLmh5LliqDovb3jgILov5Tlm54gVm94Q1BNIOWunuS+i++8m+adg+mHjee8uuWkseaXtue7meWHuuiDveeci+aHgueahOaKpemUmeOAgiIiIgogICAgd2l0aCBTVEFURVsibG9jayJdOgogICAgICAgIGlmIFNUQVRFWyJtb2RlbCJdIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gU1RBVEVbIm1vZGVsIl0KICAgICAgICBwYXRoID0gQVJHUy5tb2RlbHMKICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcihwYXRoKToKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDAsIGYi5p2D6YeN55uu5b2V5LiN5a2Y5Zyo77yae3BhdGh977yI5YWI6LeRIGZldGNoX21vZGVscy5zaCAtLXRpZXIgdm9477yJIikKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyb20gdm94Y3BtIGltcG9ydCBWb3hDUE0KICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3IgYXMgZXhjOgogICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDUwMCwgZiJ2b3hjcG0g5pyq5a6J6KOF77yae2V4Y30iKSBmcm9tIGV4YwoKICAgICAgICB0MCA9IHRpbWUudGltZSgpCiAgICAgICAgbG9nLmluZm8oImxvYWRpbmcgVm94Q1BNMiBmcm9tICVzIChkZW5vaXNlcj0lcykiLCBwYXRoLCBBUkdTLmRlbm9pc2VyKQogICAgICAgIG1vZGVsID0gVm94Q1BNLmZyb21fcHJldHJhaW5lZChwYXRoLCBsb2FkX2Rlbm9pc2VyPUFSR1MuZGVub2lzZXIpCiAgICAgICAgIyDlrpjmlrnmlofmoaPvvJpzYW1wbGVfcmF0ZSDmjILlnKggdHRzX21vZGVsIOS4iu+8iDQ4IGtIeu+8iQogICAgICAgIHRyeToKICAgICAgICAgICAgU1RBVEVbInNyIl0gPSBpbnQobW9kZWwudHRzX21vZGVsLnNhbXBsZV9yYXRlKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIFNUQVRFWyJzciJdID0gNDgwMDAKICAgICAgICBTVEFURVsibW9kZWwiXSA9IG1vZGVsCiAgICAgICAgU1RBVEVbImxvYWRlZF9hdCJdID0gdGltZS50aW1lKCkKICAgICAgICBsb2cuaW5mbygibG9hZGVkIGluICUuMWZzLCBzYW1wbGVfcmF0ZT0lZCIsIHRpbWUudGltZSgpIC0gdDAsIFNUQVRFWyJzciJdKQogICAgICAgIHJldHVybiBtb2RlbAoKCmRlZiBfdW5sb2FkKCk6CiAgICB3aXRoIFNUQVRFWyJsb2NrIl06CiAgICAgICAgU1RBVEVbIm1vZGVsIl0gPSBOb25lCiAgICAgICAgU1RBVEVbImxvYWRlZF9hdCJdID0gTm9uZQogICAgdHJ5OgogICAgICAgIGltcG9ydCB0b3JjaAogICAgICAgIHRvcmNoLmN1ZGEuZW1wdHlfY2FjaGUoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCiAgICBsb2cuaW5mbygidW5sb2FkZWQiKQoKCmRlZiBfZ3B1KCkgLT4gZGljdDoKICAgIHRyeToKICAgICAgICBpbXBvcnQgdG9yY2gKICAgICAgICBpZiBub3QgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKToKICAgICAgICAgICAgcmV0dXJuIHsiYXZhaWxhYmxlIjogRmFsc2V9CiAgICAgICAgZnJlZSwgdG90YWwgPSB0b3JjaC5jdWRhLm1lbV9nZXRfaW5mbygpCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImF2YWlsYWJsZSI6IFRydWUsCiAgICAgICAgICAgICJkZXZpY2UiOiB0b3JjaC5jdWRhLmdldF9kZXZpY2VfbmFtZSgwKSwKICAgICAgICAgICAgImZyZWVfZ2IiOiByb3VuZChmcmVlIC8gMioqMzAsIDIpLAogICAgICAgICAgICAidG90YWxfZ2IiOiByb3VuZCh0b3RhbCAvIDIqKjMwLCAyKSwKICAgICAgICAgICAgImFsbG9jYXRlZF9nYiI6IHJvdW5kKHRvcmNoLmN1ZGEubWVtb3J5X2FsbG9jYXRlZCgpIC8gMioqMzAsIDIpLAogICAgICAgIH0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IEZhbHNlLCAiZXJyb3IiOiBzdHIoZXhjKX0KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOW3peWFtwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgX21hdGVyaWFsaXplX3JlZihyZWY6IHN0ciwgdGFnOiBzdHIpIC0+IHN0cjoKICAgICIiIuaKiuOAjOacrOWcsOi3r+W+hOOAjeaIluOAjGJhc2U2NCB3YXbjgI3nu5/kuIDokL3miJDkuIDkuKrkuLTml7Ygd2F2IOi3r+W+hOOAgiIiIgogICAgaWYgbm90IHJlZjoKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwMCwgZiJ7dGFnfSDkuLrnqboiKQogICAgaWYgb3MucGF0aC5leGlzdHMocmVmKToKICAgICAgICByZXR1cm4gcmVmCiAgICByYXcgPSByZWYuc3BsaXQoIiwiLCAxKVstMV0gaWYgcmVmLnN0YXJ0c3dpdGgoImRhdGE6IikgZWxzZSByZWYKICAgIHRyeToKICAgICAgICBibG9iID0gYmFzZTY0LmI2NGRlY29kZShyYXcsIHZhbGlkYXRlPVRydWUpCiAgICBleGNlcHQgKGJpbmFzY2lpLkVycm9yLCBWYWx1ZUVycm9yKSBhcyBleGM6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDAsIGYie3RhZ30g5pei5LiN5piv5a2Y5Zyo55qE6Lev5b6E5Lmf5LiN5piv5ZCI5rOVIGJhc2U2NCIpIGZyb20gZXhjCiAgICBmZCwgcGF0aCA9IHRlbXBmaWxlLm1rc3RlbXAoc3VmZml4PSIud2F2IiwgcHJlZml4PWYidm94X3t0YWd9XyIpCiAgICB3aXRoIG9zLmZkb3BlbihmZCwgIndiIikgYXMgZmg6CiAgICAgICAgZmgud3JpdGUoYmxvYikKICAgIHJldHVybiBwYXRoCgoKZGVmIF93YXYod2F2ZWZvcm0sIHNyOiBpbnQpIC0+IGJ5dGVzOgogICAgYXJyID0gbnAuYXNhcnJheSh3YXZlZm9ybSwgZHR5cGU9bnAuZmxvYXQzMikKICAgIGFyciA9IG5wLnNxdWVlemUoYXJyKQogICAgaWYgYXJyLm5kaW0gPiAxOgogICAgICAgIGFyciA9IGFyci5tZWFuKGF4aXM9MCkKICAgIHBlYWsgPSBmbG9hdChucC5tYXgobnAuYWJzKGFycikpKSBpZiBhcnIuc2l6ZSBlbHNlIDAuMAogICAgaWYgcGVhayA+IDEuMDoKICAgICAgICBhcnIgPSBhcnIgLyBwZWFrCiAgICBidWYgPSBpby5CeXRlc0lPKCkKICAgIHNmLndyaXRlKGJ1ZiwgYXJyLmFzdHlwZShucC5mbG9hdDMyKSwgc3IsIGZvcm1hdD0iV0FWIiwgc3VidHlwZT0iUENNXzE2IikKICAgIHJldHVybiBidWYuZ2V0dmFsdWUoKQoKCmRlZiBfZ2VuKCoqa3cpIC0+IGJ5dGVzOgogICAgbW9kZWwgPSBfbG9hZCgpCiAgICB0MCA9IHRpbWUudGltZSgpCiAgICB0cnk6CiAgICAgICAgd2F2ID0gbW9kZWwuZ2VuZXJhdGUoKiprdykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIGxvZy5leGNlcHRpb24oImdlbmVyYXRlIGZhaWxlZCIpCiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDAsIGYiZ2VuZXJhdGUg5aSx6LSlOiB7ZXhjfSIpIGZyb20gZXhjCiAgICBsb2cuaW5mbygiZ2VuZXJhdGUgb2sgaW4gJS4xZnMiLCB0aW1lLnRpbWUoKSAtIHQwKQogICAgcmV0dXJuIF93YXYod2F2LCBTVEFURVsic3IiXSkKCgpkZWYgX3Jlc3AoZGF0YTogYnl0ZXMpIC0+IFJlc3BvbnNlOgogICAgcmV0dXJuIFJlc3BvbnNlKGNvbnRlbnQ9ZGF0YSwgbWVkaWFfdHlwZT0iYXVkaW8vd2F2IiwKICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsiWC1TYW1wbGUtUmF0ZSI6IHN0cihTVEFURVsic3IiXSl9KQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg6K+35rGC5qih5Z6LCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmNsYXNzIENsb25lUmVxKEJhc2VNb2RlbCk6CiAgICB0ZXh0OiBzdHIKICAgIHJlZmVyZW5jZV93YXZfcGF0aDogc3RyID0gRmllbGQoLi4uLCBkZXNjcmlwdGlvbj0i5Y+C6ICD6Z+z6aKR77ya5pys5Zyw6Lev5b6E5oiWIGJhc2U2NCIpCiAgICBjZmdfdmFsdWU6IGZsb2F0ID0gMi4wCiAgICBpbmZlcmVuY2VfdGltZXN0ZXBzOiBpbnQgPSBGaWVsZCgxMCwgZ2U9MSwgbGU9NTApCiAgICBzZWVkOiBpbnQgPSA0MgogICAgIyDkuK3mlofph4zluLjop4HnmoTlhpnms5XlhbzlrrnvvJpyZWZfYXVkaW8gLyByZWZfYXVkaW9fcGF0aAogICAgcmVmX2F1ZGlvOiBPcHRpb25hbFtzdHJdID0gTm9uZQoKCmNsYXNzIEhpZmlDbG9uZVJlcShCYXNlTW9kZWwpOgogICAgdGV4dDogc3RyCiAgICBwcm9tcHRfd2F2X3BhdGg6IHN0ciA9IEZpZWxkKC4uLiwgZGVzY3JpcHRpb249IuWPguiAg+mfs+mike+8iOe7reWGmeW8j++8jOacgOWDj+acrOS6uu+8iSIpCiAgICBwcm9tcHRfdGV4dDogc3RyID0gRmllbGQoLi4uLCBkZXNjcmlwdGlvbj0i5Y+C6ICD6Z+z6aKR55qEKirnoa7liIcqKuaWh+acrO+8jOe8uuS6huaViOaenOS8muaOiSIpCiAgICByZWZlcmVuY2Vfd2F2X3BhdGg6IE9wdGlvbmFsW3N0cl0gPSBOb25lCiAgICBjZmdfdmFsdWU6IGZsb2F0ID0gMi4wCiAgICBpbmZlcmVuY2VfdGltZXN0ZXBzOiBpbnQgPSAxMAogICAgc2VlZDogaW50ID0gNDIKCgpjbGFzcyBEZXNpZ25SZXEoQmFzZU1vZGVsKToKICAgIHRleHQ6IHN0ciA9IEZpZWxkKC4uLiwgZGVzY3JpcHRpb249IuWQq+mfs+iJsuaPj+i/sOeahOaWh+acrO+8jOWmgiAoQSB5b3VuZyB3b21hbiwgZ2VudGxlIGFuZCBzd2VldCB2b2ljZSnigKYiKQogICAgY2ZnX3ZhbHVlOiBmbG9hdCA9IDIuMAogICAgaW5mZXJlbmNlX3RpbWVzdGVwczogaW50ID0gMTAKICAgIHNlZWQ6IGludCA9IDQyCgoKY2xhc3MgUmF3UmVxKEJhc2VNb2RlbCk6CiAgICB0ZXh0OiBzdHIKICAgIHJlZmVyZW5jZV93YXZfcGF0aDogT3B0aW9uYWxbc3RyXSA9IE5vbmUKICAgIHByb21wdF93YXZfcGF0aDogT3B0aW9uYWxbc3RyXSA9IE5vbmUKICAgIHByb21wdF90ZXh0OiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgY2ZnX3ZhbHVlOiBmbG9hdCA9IDIuMAogICAgaW5mZXJlbmNlX3RpbWVzdGVwczogaW50ID0gMTAKICAgIHNlZWQ6IGludCA9IDQyCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyDot6/nlLEKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQEFQUC5nZXQoIi9oZWFsdGgiKQpkZWYgaGVhbHRoKCk6CiAgICByZXR1cm4gewogICAgICAgICJvayI6IFRydWUsCiAgICAgICAgImVuZ2luZSI6ICJ2b3hjcG0yIiwKICAgICAgICAibG9hZGVkIjogU1RBVEVbIm1vZGVsIl0gaXMgbm90IE5vbmUsCiAgICAgICAgImxvYWRlZF9hdCI6IFNUQVRFWyJsb2FkZWRfYXQiXSwKICAgICAgICAic2FtcGxlX3JhdGUiOiBTVEFURVsic3IiXSwKICAgICAgICAibW9kZWxzIjogQVJHUy5tb2RlbHMsCiAgICAgICAgImRlbm9pc2VyIjogQVJHUy5kZW5vaXNlciwKICAgICAgICAiZ3B1IjogX2dwdSgpLAogICAgfQoKCkBBUFAucG9zdCgiL3VubG9hZCIpCmRlZiB1bmxvYWQoKToKICAgIF91bmxvYWQoKQogICAgcmV0dXJuIHsib2siOiBUcnVlLCAiZ3B1IjogX2dwdSgpfQoKCkBBUFAuZ2V0KCIvY2FwYWJpbGl0aWVzIikKZGVmIGNhcGFiaWxpdGllcygpOgogICAgcmV0dXJuIHsKICAgICAgICAiZW5naW5lIjogInZveGNwbTIiLAogICAgICAgICJwYXJhbXMiOiAiMkIiLAogICAgICAgICJzYW1wbGVfcmF0ZSI6IDQ4MDAwLAogICAgICAgICJsYW5ndWFnZXMiOiAzMCwKICAgICAgICAibW9kZXMiOiBbImNsb25lIiwgImhpZmlfY2xvbmUiLCAiZGVzaWduIl0sCiAgICAgICAgIm5vdGVzIjogWwogICAgICAgICAgICAicmVmZXJlbmNlX3dhdl9wYXRoIOi1sOmbtuagt+acrOWFi+mahu+8jOS4jemcgOimgeWPguiAg+aWh+acrCIsCiAgICAgICAgICAgICJwcm9tcHRfd2F2X3BhdGggKyBwcm9tcHRfdGV4dCDotbDnu63lhpnlvI/lhYvpmobvvIzkv53nlZnlhajpg6jpn7Xlvovnu4boioLvvIzmnIDlg4/mnKzkuroiLAogICAgICAgICAgICAiZGVzaWduIOaooeW8j+WPr+e6r+aWh+Wtl+aPj+i/sOmfs+iJsu+8jOaXoOmcgOWPguiAg+mfsyIsCiAgICAgICAgICAgICJSVEYgfjAuMyBvbiBSVFggNDA5MO+8iE5hbm8tdkxMTSDlj6/liLAgfjAuMTPvvIkiLAogICAgICAgIF0sCiAgICB9CgoKQEFQUC5wb3N0KCIvY2xvbmUiKQpkZWYgY2xvbmUocmVxOiBDbG9uZVJlcSk6CiAgICByZWYgPSByZXEucmVmZXJlbmNlX3dhdl9wYXRoIG9yIHJlcS5yZWZfYXVkaW8gb3IgIiIKICAgIHBhdGggPSBfbWF0ZXJpYWxpemVfcmVmKHJlZiwgInJlZmVyZW5jZV93YXZfcGF0aCIpCiAgICByZXR1cm4gX3Jlc3AoX2dlbigKICAgICAgICB0ZXh0PXJlcS50ZXh0LAogICAgICAgIHJlZmVyZW5jZV93YXZfcGF0aD1wYXRoLAogICAgICAgIGNmZ192YWx1ZT1yZXEuY2ZnX3ZhbHVlLAogICAgICAgIGluZmVyZW5jZV90aW1lc3RlcHM9cmVxLmluZmVyZW5jZV90aW1lc3RlcHMsCiAgICAgICAgc2VlZD1yZXEuc2VlZCwKICAgICkpCgoKQEFQUC5wb3N0KCIvaGlmaV9jbG9uZSIpCmRlZiBoaWZpX2Nsb25lKHJlcTogSGlmaUNsb25lUmVxKToKICAgIHByb21wdCA9IF9tYXRlcmlhbGl6ZV9yZWYocmVxLnByb21wdF93YXZfcGF0aCwgInByb21wdF93YXZfcGF0aCIpCiAgICBrdzogZGljdFtzdHIsIEFueV0gPSBkaWN0KAogICAgICAgIHRleHQ9cmVxLnRleHQsCiAgICAgICAgcHJvbXB0X3dhdl9wYXRoPXByb21wdCwKICAgICAgICBwcm9tcHRfdGV4dD1yZXEucHJvbXB0X3RleHQsCiAgICAgICAgY2ZnX3ZhbHVlPXJlcS5jZmdfdmFsdWUsCiAgICAgICAgaW5mZXJlbmNlX3RpbWVzdGVwcz1yZXEuaW5mZXJlbmNlX3RpbWVzdGVwcywKICAgICAgICBzZWVkPXJlcS5zZWVkLAogICAgKQogICAgaWYgcmVxLnJlZmVyZW5jZV93YXZfcGF0aDoKICAgICAgICBrd1sicmVmZXJlbmNlX3dhdl9wYXRoIl0gPSBfbWF0ZXJpYWxpemVfcmVmKHJlcS5yZWZlcmVuY2Vfd2F2X3BhdGgsICJyZWZlcmVuY2Vfd2F2X3BhdGgiKQogICAgcmV0dXJuIF9yZXNwKF9nZW4oKiprdykpCgoKQEFQUC5wb3N0KCIvZGVzaWduIikKZGVmIGRlc2lnbihyZXE6IERlc2lnblJlcSk6CiAgICByZXR1cm4gX3Jlc3AoX2dlbigKICAgICAgICB0ZXh0PXJlcS50ZXh0LAogICAgICAgIGNmZ192YWx1ZT1yZXEuY2ZnX3ZhbHVlLAogICAgICAgIGluZmVyZW5jZV90aW1lc3RlcHM9cmVxLmluZmVyZW5jZV90aW1lc3RlcHMsCiAgICAgICAgc2VlZD1yZXEuc2VlZCwKICAgICkpCgoKQEFQUC5wb3N0KCIvc3ludGgiKQpkZWYgc3ludGgocmVxOiBSYXdSZXEpOgogICAga3c6IGRpY3Rbc3RyLCBBbnldID0gZGljdCgKICAgICAgICB0ZXh0PXJlcS50ZXh0LAogICAgICAgIGNmZ192YWx1ZT1yZXEuY2ZnX3ZhbHVlLAogICAgICAgIGluZmVyZW5jZV90aW1lc3RlcHM9cmVxLmluZmVyZW5jZV90aW1lc3RlcHMsCiAgICAgICAgc2VlZD1yZXEuc2VlZCwKICAgICkKICAgIGlmIHJlcS5yZWZlcmVuY2Vfd2F2X3BhdGg6CiAgICAgICAga3dbInJlZmVyZW5jZV93YXZfcGF0aCJdID0gX21hdGVyaWFsaXplX3JlZihyZXEucmVmZXJlbmNlX3dhdl9wYXRoLCAicmVmZXJlbmNlX3dhdl9wYXRoIikKICAgIGlmIHJlcS5wcm9tcHRfd2F2X3BhdGg6CiAgICAgICAga3dbInByb21wdF93YXZfcGF0aCJdID0gX21hdGVyaWFsaXplX3JlZihyZXEucHJvbXB0X3dhdl9wYXRoLCAicHJvbXB0X3dhdl9wYXRoIikKICAgICAgICBpZiByZXEucHJvbXB0X3RleHQ6CiAgICAgICAgICAgIGt3WyJwcm9tcHRfdGV4dCJdID0gcmVxLnByb21wdF90ZXh0CiAgICByZXR1cm4gX3Jlc3AoX2dlbigqKmt3KSkKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBnbG9iYWwgQVJHUwogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0taG9zdCIsIGRlZmF1bHQ9IjAuMC4wLjAiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXBvcnQiLCB0eXBlPWludCwgZGVmYXVsdD05ODgzKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW1vZGVscyIsIGRlZmF1bHQ9b3MuZW52aXJvbi5nZXQoIlZPWF9NT0RFTFMiLCAiL3Jvb3QvZGF0YS9tb2RlbHMvdm94Y3BtMiIpLAogICAgICAgICAgICAgICAgICAgIGhlbHA9IlZveENQTTIg5p2D6YeN55uu5b2V77yIZmV0Y2hfbW9kZWxzLnNoIC0tdGllciB2b3gg6JC955qE6YKj5Liq77yJIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kZW5vaXNlciIsIGRlZmF1bHQ9b3MuZW52aXJvbi5nZXQoIlZPWF9ERU5PSVNFUiIsICIwIikgPT0gIjEiLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9IuWKoOi9vemZjeWZquWZqO+8iOabtOW5suWHgOS9huabtOaFouabtOWQg+aYvuWtmO+8iSIpCiAgICBBUkdTID0gYXAucGFyc2VfYXJncygpCiAgICBsb2cuaW5mbygiVm94Q1BNMiBzZXJ2ZXIgb24gOiVkICBtb2RlbHM9JXMiLCBBUkdTLnBvcnQsIEFSR1MubW9kZWxzKQogICAgdXZpY29ybi5ydW4oQVBQLCBob3N0PUFSR1MuaG9zdCwgcG9ydD1BUkdTLnBvcnQsIGxvZ19sZXZlbD0iaW5mbyIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""VoxCPM2 HTTP 服务 —— 因幡巡日语配音主力（:9883）
+
+为什么是 VoxCPM2 而不是 Ming-3.0：
+  日语零样本音色相似度 0.825 vs 0.765（SIM 越高越像本人），
+  且输出 48 kHz 直出（16 kHz 参考音经 AudioVAE V2 非对称编解码放大），
+  对「拿一段因幡巡原声克隆、再念小说旁白」这条链路是决定性的。
+  Ming 的长处是 MIT + 英文综合分 + 44.1 kHz，留在 :9881 当对照组。
+
+显存策略：懒加载 + /unload 立刻腾空。H3 出片时先 POST /unload，
+跑完再让下一次请求自动加载 —— 4090 48G 上 H3 全常驻要 42 GB，两者不能同时挂着。
+
+接口（与 ming_tts_server.py 保持一致，方便上层脚本切换）：
+  GET  /health          健康 + 显存 + 是否已加载
+  POST /unload          卸载模型、清空显存
+  GET  /capabilities    支持的语言/能力/采样率
+  POST /clone           参考音克隆（reference_wav_path）
+  POST /hifi_clone      续写式高保真克隆（prompt_wav + prompt_text，最像本人）
+  POST /design          纯文字描述造音色（无参考音）
+  POST /synth           透传原始参数
+  统一返回 audio/wav 二进制流。
+
+用法：
+  python vox_tts_server.py --models /root/data/models/voxcpm2 --port 9883
+"""
+
+from __future__ import annotations
+
+import argparse
+import base64
+import binascii
+import io
+import logging
+import os
+import tempfile
+import threading
+import time
+from typing import Any, Optional
+
+import numpy as np
+import soundfile as sf
+
+try:                                    # 服务能起、模型不在也能给 /health 回话
+    from fastapi import FastAPI, HTTPException
+    from fastapi.responses import Response
+    from pydantic import BaseModel, Field
+    import uvicorn
+except ImportError as exc:              # pragma: no cover
+    raise SystemExit(f"缺依赖：{exc}（需要 fastapi uvicorn pydantic soundfile）") from exc
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+log = logging.getLogger("voxcpm2")
+
+STATE: dict[str, Any] = {"model": None, "sr": 48000, "lock": threading.Lock(), "loaded_at": None}
+APP = FastAPI(title="VoxCPM2 TTS", version="2.0")
+ARGS: argparse.Namespace
+
+
+# ---------------------------------------------------------------------------
+# 模型生命周期
+# ---------------------------------------------------------------------------
+def _load():
+    """懒加载。返回 VoxCPM 实例；权重缺失时给出能看懂的报错。"""
+    with STATE["lock"]:
+        if STATE["model"] is not None:
+            return STATE["model"]
+        path = ARGS.models
+        if not os.path.isdir(path):
+            raise HTTPException(500, f"权重目录不存在：{path}（先跑 fetch_models.sh --tier vox）")
+        try:
+            from voxcpm import VoxCPM
+        except ImportError as exc:
+            raise HTTPException(500, f"voxcpm 未安装：{exc}") from exc
+
+        t0 = time.time()
+        log.info("loading VoxCPM2 from %s (denoiser=%s)", path, ARGS.denoiser)
+        model = VoxCPM.from_pretrained(path, load_denoiser=ARGS.denoiser)
+        # 官方文档：sample_rate 挂在 tts_model 上（48 kHz）
+        try:
+            STATE["sr"] = int(model.tts_model.sample_rate)
+        except Exception:
+            STATE["sr"] = 48000
+        STATE["model"] = model
+        STATE["loaded_at"] = time.time()
+        log.info("loaded in %.1fs, sample_rate=%d", time.time() - t0, STATE["sr"])
+        return model
+
+
+def _unload():
+    with STATE["lock"]:
+        STATE["model"] = None
+        STATE["loaded_at"] = None
+    try:
+        import torch
+        torch.cuda.empty_cache()
+    except Exception:
+        pass
+    log.info("unloaded")
+
+
+def _gpu() -> dict:
+    try:
+        import torch
+        if not torch.cuda.is_available():
+            return {"available": False}
+        free, total = torch.cuda.mem_get_info()
+        return {
+            "available": True,
+            "device": torch.cuda.get_device_name(0),
+            "free_gb": round(free / 2**30, 2),
+            "total_gb": round(total / 2**30, 2),
+            "allocated_gb": round(torch.cuda.memory_allocated() / 2**30, 2),
+        }
+    except Exception as exc:
+        return {"available": False, "error": str(exc)}
+
+
+# ---------------------------------------------------------------------------
+# 工具
+# ---------------------------------------------------------------------------
+def _materialize_ref(ref: str, tag: str) -> str:
+    """把「本地路径」或「base64 wav」统一落成一个临时 wav 路径。"""
+    if not ref:
+        raise HTTPException(400, f"{tag} 为空")
+    if os.path.exists(ref):
+        return ref
+    raw = ref.split(",", 1)[-1] if ref.startswith("data:") else ref
+    try:
+        blob = base64.b64decode(raw, validate=True)
+    except (binascii.Error, ValueError) as exc:
+        raise HTTPException(400, f"{tag} 既不是存在的路径也不是合法 base64") from exc
+    fd, path = tempfile.mkstemp(suffix=".wav", prefix=f"vox_{tag}_")
+    with os.fdopen(fd, "wb") as fh:
+        fh.write(blob)
+    return path
+
+
+def _wav(waveform, sr: int) -> bytes:
+    arr = np.asarray(waveform, dtype=np.float32)
+    arr = np.squeeze(arr)
+    if arr.ndim > 1:
+        arr = arr.mean(axis=0)
+    peak = float(np.max(np.abs(arr))) if arr.size else 0.0
+    if peak > 1.0:
+        arr = arr / peak
+    buf = io.BytesIO()
+    sf.write(buf, arr.astype(np.float32), sr, format="WAV", subtype="PCM_16")
+    return buf.getvalue()
+
+
+def _gen(**kw) -> bytes:
+    model = _load()
+    t0 = time.time()
+    try:
+        wav = model.generate(**kw)
+    except Exception as exc:
+        log.exception("generate failed")
+        raise HTTPException(500, f"generate 失败: {exc}") from exc
+    log.info("generate ok in %.1fs", time.time() - t0)
+    return _wav(wav, STATE["sr"])
+
+
+def _resp(data: bytes) -> Response:
+    return Response(content=data, media_type="audio/wav",
+                    headers={"X-Sample-Rate": str(STATE["sr"])})
+
+
+# ---------------------------------------------------------------------------
+# 请求模型
+# ---------------------------------------------------------------------------
+class CloneReq(BaseModel):
+    text: str
+    reference_wav_path: str = Field(..., description="参考音频：本地路径或 base64")
+    cfg_value: float = 2.0
+    inference_timesteps: int = Field(10, ge=1, le=50)
+    seed: int = 42
+    # 中文里常见的写法兼容：ref_audio / ref_audio_path
+    ref_audio: Optional[str] = None
+
+
+class HifiCloneReq(BaseModel):
+    text: str
+    prompt_wav_path: str = Field(..., description="参考音频（续写式，最像本人）")
+    prompt_text: str = Field(..., description="参考音频的**确切**文本，缺了效果会掉")
+    reference_wav_path: Optional[str] = None
+    cfg_value: float = 2.0
+    inference_timesteps: int = 10
+    seed: int = 42
+
+
+class DesignReq(BaseModel):
+    text: str = Field(..., description="含音色描述的文本，如 (A young woman, gentle and sweet voice)…")
+    cfg_value: float = 2.0
+    inference_timesteps: int = 10
+    seed: int = 42
+
+
+class RawReq(BaseModel):
+    text: str
+    reference_wav_path: Optional[str] = None
+    prompt_wav_path: Optional[str] = None
+    prompt_text: Optional[str] = None
+    cfg_value: float = 2.0
+    inference_timesteps: int = 10
+    seed: int = 42
+
+
+# ---------------------------------------------------------------------------
+# 路由
+# ---------------------------------------------------------------------------
+@APP.get("/health")
+def health():
+    return {
+        "ok": True,
+        "engine": "voxcpm2",
+        "loaded": STATE["model"] is not None,
+        "loaded_at": STATE["loaded_at"],
+        "sample_rate": STATE["sr"],
+        "models": ARGS.models,
+        "denoiser": ARGS.denoiser,
+        "gpu": _gpu(),
+    }
+
+
+@APP.post("/unload")
+def unload():
+    _unload()
+    return {"ok": True, "gpu": _gpu()}
+
+
+@APP.get("/capabilities")
+def capabilities():
+    return {
+        "engine": "voxcpm2",
+        "params": "2B",
+        "sample_rate": 48000,
+        "languages": 30,
+        "modes": ["clone", "hifi_clone", "design"],
+        "notes": [
+            "reference_wav_path 走零样本克隆，不需要参考文本",
+            "prompt_wav_path + prompt_text 走续写式克隆，保留全部韵律细节，最像本人",
+            "design 模式可纯文字描述音色，无需参考音",
+            "RTF ~0.3 on RTX 4090（Nano-vLLM 可到 ~0.13）",
+        ],
+    }
+
+
+@APP.post("/clone")
+def clone(req: CloneReq):
+    ref = req.reference_wav_path or req.ref_audio or ""
+    path = _materialize_ref(ref, "reference_wav_path")
+    return _resp(_gen(
+        text=req.text,
+        reference_wav_path=path,
+        cfg_value=req.cfg_value,
+        inference_timesteps=req.inference_timesteps,
+        seed=req.seed,
+    ))
+
+
+@APP.post("/hifi_clone")
+def hifi_clone(req: HifiCloneReq):
+    prompt = _materialize_ref(req.prompt_wav_path, "prompt_wav_path")
+    kw: dict[str, Any] = dict(
+        text=req.text,
+        prompt_wav_path=prompt,
+        prompt_text=req.prompt_text,
+        cfg_value=req.cfg_value,
+        inference_timesteps=req.inference_timesteps,
+        seed=req.seed,
+    )
+    if req.reference_wav_path:
+        kw["reference_wav_path"] = _materialize_ref(req.reference_wav_path, "reference_wav_path")
+    return _resp(_gen(**kw))
+
+
+@APP.post("/design")
+def design(req: DesignReq):
+    return _resp(_gen(
+        text=req.text,
+        cfg_value=req.cfg_value,
+        inference_timesteps=req.inference_timesteps,
+        seed=req.seed,
+    ))
+
+
+@APP.post("/synth")
+def synth(req: RawReq):
+    kw: dict[str, Any] = dict(
+        text=req.text,
+        cfg_value=req.cfg_value,
+        inference_timesteps=req.inference_timesteps,
+        seed=req.seed,
+    )
+    if req.reference_wav_path:
+        kw["reference_wav_path"] = _materialize_ref(req.reference_wav_path, "reference_wav_path")
+    if req.prompt_wav_path:
+        kw["prompt_wav_path"] = _materialize_ref(req.prompt_wav_path, "prompt_wav_path")
+        if req.prompt_text:
+            kw["prompt_text"] = req.prompt_text
+    return _resp(_gen(**kw))
+
+
+def main() -> None:
+    global ARGS
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--host", default="0.0.0.0")
+    ap.add_argument("--port", type=int, default=9883)
+    ap.add_argument("--models", default=os.environ.get("VOX_MODELS", "/root/data/models/voxcpm2"),
+                    help="VoxCPM2 权重目录（fetch_models.sh --tier vox 落的那个）")
+    ap.add_argument("--denoiser", default=os.environ.get("VOX_DENOISER", "0") == "1",
+                    action="store_true", help="加载降噪器（更干净但更慢更吃显存）")
+    ARGS = ap.parse_args()
+    log.info("VoxCPM2 server on :%d  models=%s", ARGS.port, ARGS.models)
+    uvicorn.run(APP, host=ARGS.host, port=ARGS.port, log_level="info")
+
+
+if __name__ == "__main__":
+    main()

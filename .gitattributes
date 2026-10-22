@@ -1,1 +1,28 @@
-IyDmjaLooYznrKblvZLkuIAg4oCU4oCUIOi/meS4quS7k+W6k+eahCBzaGVsbCDohJrmnKzlv4XpobvlnKjlrrnlmajph4znlKggTEYg5omn6KGM44CCCiMgV2luZG93cyDkuIogY29yZS5hdXRvY3JsZj10cnVlIOS8muaKiiBjaGVja291dCDlh7rmnaXnmoTkuIDliIflj5jmiJAgQ1JMRu+8jAojIOmCo+S8muiuqSBgYmFzaCBzY3JpcHQuc2hgIOaKpSAiXHI6IGNvbW1hbmQgbm90IGZvdW5kIu+8jERvY2tlcmZpbGUg6YeM55qECiMgUlVOIGJhc2ggc2NyaXB0cy9zZXR1cF9lbnYuc2gg5Lya55u05o6l5aSx6LSl44CC5omA5Lul6YCQ5Liq57G75Z6L6ZKJ5q2744CCCiogdGV4dD1hdXRvIGVvbD1sZgoKKi5zaCAgICB0ZXh0IGVvbD1sZgoqLnB5ICAgIHRleHQgZW9sPWxmCioucHMxICAgdGV4dCBlb2w9Y3JsZgoqLnltbCAgIHRleHQgZW9sPWxmCioueWFtbCAgdGV4dCBlb2w9bGYKKi5qc29uICB0ZXh0IGVvbD1sZgoqLm1kICAgIHRleHQgZW9sPWxmCkRvY2tlcmZpbGUgICAgICB0ZXh0IGVvbD1sZgouZG9ja2VyaWdub3JlICAgdGV4dCBlb2w9bGYKLmdpdGlnbm9yZSAgICAgIHRleHQgZW9sPWxmCi5naXRhdHRyaWJ1dGVzICB0ZXh0IGVvbD1sZgoKIyDkuozov5vliLbvvJrkuI3opoHlgZrku7vkvZXmjaLooYwv57yW56CB5aSE55CGCioucG5nICBiaW5hcnkKKi5qcGcgIGJpbmFyeQoqLmpwZWcgYmluYXJ5CioubXA0ICBiaW5hcnkKKi53YXYgIGJpbmFyeQoqLm1wMyAgYmluYXJ5CioucHRoICBiaW5hcnkKKi5vbm54IGJpbmFyeQoqLnNhZmV0ZW5zb3JzIGJpbmFyeQo=
+# 换行符归一 —— 这个仓库的 shell 脚本必须在容器里用 LF 执行。
+# Windows 上 core.autocrlf=true 会把 checkout 出来的一切变成 CRLF，
+# 那会让 `bash script.sh` 报 "\r: command not found"，Dockerfile 里的
+# RUN bash scripts/setup_env.sh 会直接失败。所以逐个类型钉死。
+* text=auto eol=lf
+
+*.sh    text eol=lf
+*.py    text eol=lf
+*.ps1   text eol=crlf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+Dockerfile      text eol=lf
+.dockerignore   text eol=lf
+.gitignore      text eol=lf
+.gitattributes  text eol=lf
+
+# 二进制：不要做任何换行/编码处理
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.mp4  binary
+*.wav  binary
+*.mp3  binary
+*.pth  binary
+*.onnx binary
+*.safetensors binary

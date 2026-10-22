@@ -1,1 +1,212 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJIMyBTdHVkaW8gZGVtbyBBUEkgY2xpZW50LgoKU3VibWl0cyB0MnYgLyBpMnYgLyBmbGYydiAvIHJlZjJ2IGpvYnMgdG8gYSBydW5uaW5nIOWFsee7qeW8ueaAp+mDqOe9siBIMyBTdHVkaW8gaW5zdGFuY2UsCnBvbGxzIHVudGlsIGZpbmlzaGVkLCBhbmQgZG93bmxvYWRzIHRoZSBwcm9kdWNlZCBtcDQuCgpXaHkgaGFuZC1yb2xsZWQgbXVsdGlwYXJ0OiB0aGUgcGxhdGZvcm0gY29udGFpbmVyIGhhcyBubyBgcmVxdWVzdHNgLCBhbmQgdGhpcyBmaWxlIGlzCmFsc28gdXNlZCBmcm9tIHRoZSBsb2NhbCBXaW5kb3dzIGJveCB3aGVyZSBvbmx5IHRoZSBidW5kbGVkIHB5dGhvbiBleGlzdHMuCgpFbnY6CiAgSDNfQkFTRSAgIGJhc2UgVVJMIG9mIHRoZSBkZXBsb3ltZW50LCBlLmcuIGh0dHBzOi8vZGVwbG95bWVudC14eHh4LTgwMDEuNTUwdy5saW5rCgpVc2FnZToKICBweXRob24gaDNfc3R1ZGlvLnB5IC0tcHJvbXB0ICIuLi4iIFstLWR1cmF0aW9uIDVdIFstLXF1YWxpdHkgMC40XSBbLS1hc3BlY3QgIjE2OjkgKFdpZGVzY3JlZW4pIl0KICBweXRob24gaDNfc3R1ZGlvLnB5IC0tcHJvbXB0ICIuLi4iIC0tZmlyc3QgZnJhbWUucG5nCiAgcHl0aG9uIGgzX3N0dWRpby5weSAtLXByb21wdCAiLi4uIiAtLWZpcnN0IGEucG5nIC0tbGFzdCBiLnBuZwogIHB5dGhvbiBoM19zdHVkaW8ucHkgLS1saXN0CiIiIgoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBtaW1ldHlwZXMKaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCB1dWlkCgpCQVNFID0gb3MuZW52aXJvbi5nZXQoIkgzX0JBU0UiLCAiIikucnN0cmlwKCIvIikKCkFTUEVDVFMgPSBbCiAgICAiMTY6OSAoV2lkZXNjcmVlbikiLAogICAgIjk6MTYgKFBvcnRyYWl0KSIsCiAgICAiMToxIChTcXVhcmUpIiwKICAgICI0OjMgKFN0YW5kYXJkKSIsCiAgICAiMzo0IChQb3J0cmFpdCkiLAogICAgIjIxOjkgKFVsdHJhd2lkZSkiLApdCgojIHF1YWxpdHkgLT4gKHdpZHRoLCBoZWlnaHQpOyAwLjk4IGlzIHRoZSBvZmZpY2lhbCA3NjhwIHByZXNldApRVUFMSVRZX1NJWkVTID0gWwogICAgKDAuMiwgIjYwOHgzNTIiKSwgKDAuMywgIjczNng0MTYiKSwgKDAuNCwgIjg2NHg0ODAiKSwKICAgICgwLjUsICI5NjB4NTQ0IiksICgwLjYsICIxMDU2eDYwOCIpLCAoMC43LCAiMTE1Mng2NDAiKSwKICAgICgwLjgsICIxMjE2eDY3MiIpLCAoMC45LCAiMTI4MHg3MzYiKSwgKDAuOTgsICIxMzQ0eDc2OCIpLApdCgpNQVhfRFVSQVRJT04gPSAxNQpNSU5fRFVSQVRJT04gPSA1CgoKZGVmIF9yZXF1aXJlX2Jhc2UoKToKICAgIGlmIG5vdCBCQVNFOgogICAgICAgIHN5cy5leGl0KCJIM19CQVNFIGlzIG5vdCBzZXQsIGUuZy4gZXhwb3J0IEgzX0JBU0U9aHR0cHM6Ly9kZXBsb3ltZW50LXh4eC04MDAxLjU1MHcubGluayIpCgoKZGVmIF9tdWx0aXBhcnQoZmllbGRzLCBmaWxlcyk6CiAgICBib3VuZGFyeSA9ICItLS0taDNzdHVkaW8iICsgdXVpZC51dWlkNCgpLmhleAogICAgYnVmID0gYnl0ZWFycmF5KCkKICAgIGZvciBrZXksIHZhbHVlIGluIGZpZWxkcy5pdGVtcygpOgogICAgICAgIGJ1ZiArPSBmJy0te2JvdW5kYXJ5fVxyXG5Db250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9IntrZXl9IlxyXG5cclxuJy5lbmNvZGUoKQogICAgICAgIGJ1ZiArPSB2YWx1ZS5lbmNvZGUoInV0Zi04IikgKyBiIlxyXG4iCiAgICBmb3Iga2V5LCAoZmlsZW5hbWUsIGJsb2IsIGN0eXBlKSBpbiBmaWxlcy5pdGVtcygpOgogICAgICAgIGJ1ZiArPSAoCiAgICAgICAgICAgIGYnLS17Ym91bmRhcnl9XHJcbkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ie2tleX0iOyAnCiAgICAgICAgICAgIGYnZmlsZW5hbWU9IntmaWxlbmFtZX0iXHJcbkNvbnRlbnQtVHlwZToge2N0eXBlfVxyXG5cclxuJwogICAgICAgICkuZW5jb2RlKCkKICAgICAgICBidWYgKz0gYmxvYiArIGIiXHJcbiIKICAgIGJ1ZiArPSBmIi0te2JvdW5kYXJ5fS0tXHJcbiIuZW5jb2RlKCkKICAgIHJldHVybiBieXRlcyhidWYpLCBmIm11bHRpcGFydC9mb3JtLWRhdGE7IGJvdW5kYXJ5PXtib3VuZGFyeX0iCgoKZGVmIF9jYWxsKHBhdGgsIGJvZHk9Tm9uZSwgY29udGVudF90eXBlPU5vbmUsIG1ldGhvZD1Ob25lKToKICAgIF9yZXF1aXJlX2Jhc2UoKQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICBCQVNFICsgcGF0aCwKICAgICAgICBkYXRhPWJvZHksCiAgICAgICAgbWV0aG9kPW1ldGhvZCBvciAoIlBPU1QiIGlmIGJvZHkgZWxzZSAiR0VUIiksCiAgICApCiAgICBpZiBjb250ZW50X3R5cGU6CiAgICAgICAgcmVxLmFkZF9oZWFkZXIoIkNvbnRlbnQtVHlwZSIsIGNvbnRlbnRfdHlwZSkKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MTgwKSBhcyByZXNwOgogICAgICAgIHJhdyA9IHJlc3AucmVhZCgpCiAgICByZXR1cm4ganNvbi5sb2FkcyhyYXcuZGVjb2RlKCJ1dGYtOCIpKSBpZiByYXcgZWxzZSBOb25lCgoKZGVmIGxpc3Rfam9icygpOgogICAgcmV0dXJuIF9jYWxsKCIvZGVtby1hcGkvam9icyIpIG9yIFtdCgoKZGVmIHN1Ym1pdChtb2RlLCBzZWdtZW50cywgZHVyYXRpb24sIGFzcGVjdCwgcXVhbGl0eSwgYXNzZXRzPSgpKToKICAgICIiImFzc2V0czogaXRlcmFibGUgb2YgbG9jYWwgZmlsZSBwYXRoczsgdXBsb2FkZWQgYXMgYXNzZXQ6PHV1aWQ+LiIiIgogICAgYXNzZXRfaWRzID0gW10KICAgIGZpbGVzID0ge30KICAgIGZvciBwYXRoIGluIGFzc2V0czoKICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgICAgIHN5cy5leGl0KGYiYXNzZXQgbm90IGZvdW5kOiB7cGF0aH0iKQogICAgICAgIGFpZCA9IHN0cih1dWlkLnV1aWQ0KCkpCiAgICAgICAgY3R5cGUgPSBtaW1ldHlwZXMuZ3Vlc3NfdHlwZShwYXRoKVswXSBvciAiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIgogICAgICAgIHdpdGggb3BlbihwYXRoLCAicmIiKSBhcyBmaDoKICAgICAgICAgICAgZmlsZXNbZiJhc3NldDp7YWlkfSJdID0gKG9zLnBhdGguYmFzZW5hbWUocGF0aCksIGZoLnJlYWQoKSwgY3R5cGUpCiAgICAgICAgYXNzZXRfaWRzLmFwcGVuZChhaWQpCgogICAgY29tcCA9IHsKICAgICAgICAibW9kZSI6IG1vZGUsCiAgICAgICAgInNlZ21lbnRzIjogc2VnbWVudHMsCiAgICAgICAgImFzc2V0SWRzIjogYXNzZXRfaWRzLAogICAgICAgICJkdXJhdGlvbiI6IGR1cmF0aW9uLAogICAgICAgICJhc3BlY3QiOiBhc3BlY3QsCiAgICAgICAgInF1YWxpdHkiOiBxdWFsaXR5LAogICAgfQogICAgZmllbGRzID0geyJpZCI6IHN0cih1dWlkLnV1aWQ0KCkpLCAiY29tcG9zaXRpb24iOiBqc29uLmR1bXBzKGNvbXAsIGVuc3VyZV9hc2NpaT1GYWxzZSl9CiAgICBib2R5LCBjdHlwZSA9IF9tdWx0aXBhcnQoZmllbGRzLCBmaWxlcykKICAgIHJldHVybiBfY2FsbCgiL2RlbW8tYXBpL2pvYnMiLCBib2R5LCBjdHlwZSkKCgpkZWYgd2FpdChqb2JfaWQsIGludGVydmFsPTEwLCB0aW1lb3V0PTI0MDAsIHF1aWV0PUZhbHNlKToKICAgIGRlYWRsaW5lID0gdGltZS50aW1lKCkgKyB0aW1lb3V0CiAgICBsYXN0ID0gTm9uZQogICAgd2hpbGUgdGltZS50aW1lKCkgPCBkZWFkbGluZToKICAgICAgICBqb2JzID0gbGlzdF9qb2JzKCkKICAgICAgICBqb2IgPSBuZXh0KChqIGZvciBqIGluIGpvYnMgaWYgai5nZXQoImlkIikgPT0gam9iX2lkKSwgTm9uZSkKICAgICAgICBpZiBqb2IgaXMgTm9uZToKICAgICAgICAgICAgc3lzLmV4aXQoZiJqb2Ige2pvYl9pZH0gZGlzYXBwZWFyZWQgZnJvbSB0aGUgbGlzdCIpCiAgICAgICAgc3RhdHVzID0gam9iLmdldCgic3RhdHVzIikKICAgICAgICBpZiBzdGF0dXMgIT0gbGFzdCBhbmQgbm90IHF1aWV0OgogICAgICAgICAgICBwcmludChmIlt7dGltZS5zdHJmdGltZSgnJUg6JU06JVMnKX1dIHtzdGF0dXN9IiwgZmx1c2g9VHJ1ZSkKICAgICAgICAgICAgbGFzdCA9IHN0YXR1cwogICAgICAgIGlmIHN0YXR1cyBpbiAoInN1Y2NlZWRlZCIsICJzdWNjZXNzIiwgImRvbmUiLCAiY29tcGxldGVkIiwgImZhaWxlZCIsICJlcnJvciIpOgogICAgICAgICAgICByZXR1cm4gam9iCiAgICAgICAgdGltZS5zbGVlcChpbnRlcnZhbCkKICAgIHN5cy5leGl0KGYidGltZWQgb3V0IGFmdGVyIHt0aW1lb3V0fXMgd2FpdGluZyBmb3Ige2pvYl9pZH0iKQoKCmRlZiBkb3dubG9hZChqb2IsIG91dF9wYXRoKToKICAgIHVybHMgPSBbXQogICAgZm9yIGl0ZW0gaW4gam9iLmdldCgib3V0cHV0cyIpIG9yIFtdOgogICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbSwgc3RyKToKICAgICAgICAgICAgdXJscy5hcHBlbmQoaXRlbSkKICAgICAgICBlbGlmIGlzaW5zdGFuY2UoaXRlbSwgZGljdCk6CiAgICAgICAgICAgIGZvciBrZXkgaW4gKCJ1cmwiLCAicGF0aCIsICJzcmMiKToKICAgICAgICAgICAgICAgIGlmIGl0ZW0uZ2V0KGtleSk6CiAgICAgICAgICAgICAgICAgICAgdXJscy5hcHBlbmQoaXRlbVtrZXldKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICBpZiBub3QgdXJsczoKICAgICAgICBwcmludChqc29uLmR1bXBzKGpvYiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICAgICAgc3lzLmV4aXQoIm5vIGRvd25sb2FkYWJsZSBvdXRwdXQgaW4gam9iIHBheWxvYWQiKQogICAgdXJsID0gdXJsc1swXQogICAgaWYgdXJsLnN0YXJ0c3dpdGgoIi8iKToKICAgICAgICB1cmwgPSBCQVNFICsgdXJsCiAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4odXJsLCB0aW1lb3V0PTMwMCkgYXMgcmVzcCwgb3BlbihvdXRfcGF0aCwgIndiIikgYXMgZmg6CiAgICAgICAgZmgud3JpdGUocmVzcC5yZWFkKCkpCiAgICByZXR1cm4gb3V0X3BhdGgKCgpkZWYgbWFpbigpOgogICAgIyBXaW5kb3dzIGNvbnNvbGVzIGRlZmF1bHQgdG8gR0JLOyBwcm9tcHRzIGFuZCBqb2IgcGF5bG9hZHMgYXJlIFVURi04LgogICAgdHJ5OgogICAgICAgIHN5cy5zdGRvdXQucmVjb25maWd1cmUoZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBzeXMuc3RkZXJyLnJlY29uZmlndXJlKGVuY29kaW5nPSJ1dGYtOCIpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHBhc3MKCiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJIMyBTdHVkaW8gZGVtbyBBUEkgY2xpZW50IikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1wcm9tcHQiLCBoZWxwPSJ0ZXh0IHByb21wdCAoQ2hpbmVzZS9FbmdsaXNoIGJvdGggZmluZSkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXByb21wdC1maWxlIiwgaGVscD0icmVhZCB0aGUgcHJvbXB0IGZyb20gYSBVVEYtOCBmaWxlIChhdm9pZHMgY29uc29sZSBjb2RlcGFnZSBpc3N1ZXMpIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1maXJzdCIsIGhlbHA9ImZpcnN0LWZyYW1lIGltYWdlIGZvciBpMnYgLyBmbGYydiIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbGFzdCIsIGhlbHA9Imxhc3QtZnJhbWUgaW1hZ2UgZm9yIGZsZjJ2IikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1yZWYiLCBhY3Rpb249ImFwcGVuZCIsIGRlZmF1bHQ9W10sIGhlbHA9InJlZmVyZW5jZSBhc3NldCBmb3IgcmVmMnYgKHJlcGVhdGFibGUpIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kdXJhdGlvbiIsIHR5cGU9aW50LCBkZWZhdWx0PTUsIGhlbHA9IjUtMTUgc2Vjb25kcyIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tYXNwZWN0IiwgZGVmYXVsdD1BU1BFQ1RTWzBdLCBjaG9pY2VzPUFTUEVDVFMpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcXVhbGl0eSIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9MC40LCBoZWxwPSIwLjItMC45OCAoMC45OCA9IDEzNDR4NzY4KSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tb3V0IiwgZGVmYXVsdD0ib3V0Lm1wNCIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbGlzdCIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9InByaW50IGV4aXN0aW5nIGpvYnMgYW5kIGV4aXQiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW5vLXdhaXQiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJzdWJtaXQgYW5kIHJldHVybiBpbW1lZGlhdGVseSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0taW50ZXJ2YWwiLCB0eXBlPWludCwgZGVmYXVsdD0xMCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS10aW1lb3V0IiwgdHlwZT1pbnQsIGRlZmF1bHQ9MjQwMCkKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBpZiBhcmdzLmxpc3Q6CiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhsaXN0X2pvYnMoKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICAgICAgcmV0dXJuCgogICAgaWYgYXJncy5wcm9tcHRfZmlsZToKICAgICAgICB3aXRoIG9wZW4oYXJncy5wcm9tcHRfZmlsZSwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgICAgIGFyZ3MucHJvbXB0ID0gZmgucmVhZCgpLnN0cmlwKCkKICAgIGlmIG5vdCBhcmdzLnByb21wdDoKICAgICAgICBhcC5lcnJvcigiLS1wcm9tcHQgb3IgLS1wcm9tcHQtZmlsZSBpcyByZXF1aXJlZCB1bmxlc3MgLS1saXN0IGlzIGdpdmVuIikKICAgIGlmIG5vdCAoTUlOX0RVUkFUSU9OIDw9IGFyZ3MuZHVyYXRpb24gPD0gTUFYX0RVUkFUSU9OKToKICAgICAgICBhcC5lcnJvcihmIi0tZHVyYXRpb24gbXVzdCBiZSB7TUlOX0RVUkFUSU9OfS17TUFYX0RVUkFUSU9OfSIpCgogICAgaWYgYXJncy5maXJzdCBhbmQgYXJncy5sYXN0OgogICAgICAgIG1vZGUsIGFzc2V0cyA9ICJmbGYydiIsIFthcmdzLmZpcnN0LCBhcmdzLmxhc3RdCiAgICBlbGlmIGFyZ3MuZmlyc3Q6CiAgICAgICAgbW9kZSwgYXNzZXRzID0gImkydiIsIFthcmdzLmZpcnN0XQogICAgZWxpZiBhcmdzLnJlZjoKICAgICAgICBtb2RlLCBhc3NldHMgPSAicmVmMnYiLCBsaXN0KGFyZ3MucmVmKQogICAgZWxzZToKICAgICAgICBtb2RlLCBhc3NldHMgPSAidDJ2IiwgW10KCiAgICBqb2IgPSBzdWJtaXQobW9kZSwgW3sidHlwZSI6ICJ0ZXh0IiwgInRleHQiOiBhcmdzLnByb21wdH1dLCBhcmdzLmR1cmF0aW9uLCBhcmdzLmFzcGVjdCwgYXJncy5xdWFsaXR5LCBhc3NldHMpCiAgICBwcmludChqc29uLmR1bXBzKHsiaWQiOiBqb2IuZ2V0KCJpZCIpLCAic3RhdHVzIjogam9iLmdldCgic3RhdHVzIiksICJtb2RlIjogbW9kZX0sIGVuc3VyZV9hc2NpaT1GYWxzZSkpCiAgICBpZiBhcmdzLm5vX3dhaXQ6CiAgICAgICAgcmV0dXJuCgogICAgam9iID0gd2FpdChqb2JbImlkIl0sIGFyZ3MuaW50ZXJ2YWwsIGFyZ3MudGltZW91dCkKICAgIHByaW50KGpzb24uZHVtcHMoam9iLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKVs6MjAwMF0pCiAgICBpZiBqb2IuZ2V0KCJzdGF0dXMiKSBpbiAoInN1Y2NlZWRlZCIsICJzdWNjZXNzIiwgImRvbmUiLCAiY29tcGxldGVkIik6CiAgICAgICAgcHJpbnQoInNhdmVkOiIsIGRvd25sb2FkKGpvYiwgYXJncy5vdXQpKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""H3 Studio demo API client.
+
+Submits t2v / i2v / flf2v / ref2v jobs to a running 共绩弹性部署 H3 Studio instance,
+polls until finished, and downloads the produced mp4.
+
+Why hand-rolled multipart: the platform container has no `requests`, and this file is
+also used from the local Windows box where only the bundled python exists.
+
+Env:
+  H3_BASE   base URL of the deployment, e.g. https://deployment-xxxx-8001.550w.link
+
+Usage:
+  python h3_studio.py --prompt "..." [--duration 5] [--quality 0.4] [--aspect "16:9 (Widescreen)"]
+  python h3_studio.py --prompt "..." --first frame.png
+  python h3_studio.py --prompt "..." --first a.png --last b.png
+  python h3_studio.py --list
+"""
+
+import argparse
+import json
+import mimetypes
+import os
+import sys
+import time
+import urllib.request
+import uuid
+
+BASE = os.environ.get("H3_BASE", "").rstrip("/")
+
+ASPECTS = [
+    "16:9 (Widescreen)",
+    "9:16 (Portrait)",
+    "1:1 (Square)",
+    "4:3 (Standard)",
+    "3:4 (Portrait)",
+    "21:9 (Ultrawide)",
+]
+
+# quality -> (width, height); 0.98 is the official 768p preset
+QUALITY_SIZES = [
+    (0.2, "608x352"), (0.3, "736x416"), (0.4, "864x480"),
+    (0.5, "960x544"), (0.6, "1056x608"), (0.7, "1152x640"),
+    (0.8, "1216x672"), (0.9, "1280x736"), (0.98, "1344x768"),
+]
+
+MAX_DURATION = 15
+MIN_DURATION = 5
+
+
+def _require_base():
+    if not BASE:
+        sys.exit("H3_BASE is not set, e.g. export H3_BASE=https://deployment-xxx-8001.550w.link")
+
+
+def _multipart(fields, files):
+    boundary = "----h3studio" + uuid.uuid4().hex
+    buf = bytearray()
+    for key, value in fields.items():
+        buf += f'--{boundary}\r\nContent-Disposition: form-data; name="{key}"\r\n\r\n'.encode()
+        buf += value.encode("utf-8") + b"\r\n"
+    for key, (filename, blob, ctype) in files.items():
+        buf += (
+            f'--{boundary}\r\nContent-Disposition: form-data; name="{key}"; '
+            f'filename="{filename}"\r\nContent-Type: {ctype}\r\n\r\n'
+        ).encode()
+        buf += blob + b"\r\n"
+    buf += f"--{boundary}--\r\n".encode()
+    return bytes(buf), f"multipart/form-data; boundary={boundary}"
+
+
+def _call(path, body=None, content_type=None, method=None):
+    _require_base()
+    req = urllib.request.Request(
+        BASE + path,
+        data=body,
+        method=method or ("POST" if body else "GET"),
+    )
+    if content_type:
+        req.add_header("Content-Type", content_type)
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        raw = resp.read()
+    return json.loads(raw.decode("utf-8")) if raw else None
+
+
+def list_jobs():
+    return _call("/demo-api/jobs") or []
+
+
+def submit(mode, segments, duration, aspect, quality, assets=()):
+    """assets: iterable of local file paths; uploaded as asset:<uuid>."""
+    asset_ids = []
+    files = {}
+    for path in assets:
+        if not os.path.isfile(path):
+            sys.exit(f"asset not found: {path}")
+        aid = str(uuid.uuid4())
+        ctype = mimetypes.guess_type(path)[0] or "application/octet-stream"
+        with open(path, "rb") as fh:
+            files[f"asset:{aid}"] = (os.path.basename(path), fh.read(), ctype)
+        asset_ids.append(aid)
+
+    comp = {
+        "mode": mode,
+        "segments": segments,
+        "assetIds": asset_ids,
+        "duration": duration,
+        "aspect": aspect,
+        "quality": quality,
+    }
+    fields = {"id": str(uuid.uuid4()), "composition": json.dumps(comp, ensure_ascii=False)}
+    body, ctype = _multipart(fields, files)
+    return _call("/demo-api/jobs", body, ctype)
+
+
+def wait(job_id, interval=10, timeout=2400, quiet=False):
+    deadline = time.time() + timeout
+    last = None
+    while time.time() < deadline:
+        jobs = list_jobs()
+        job = next((j for j in jobs if j.get("id") == job_id), None)
+        if job is None:
+            sys.exit(f"job {job_id} disappeared from the list")
+        status = job.get("status")
+        if status != last and not quiet:
+            print(f"[{time.strftime('%H:%M:%S')}] {status}", flush=True)
+            last = status
+        if status in ("succeeded", "success", "done", "completed", "failed", "error"):
+            return job
+        time.sleep(interval)
+    sys.exit(f"timed out after {timeout}s waiting for {job_id}")
+
+
+def download(job, out_path):
+    urls = []
+    for item in job.get("outputs") or []:
+        if isinstance(item, str):
+            urls.append(item)
+        elif isinstance(item, dict):
+            for key in ("url", "path", "src"):
+                if item.get(key):
+                    urls.append(item[key])
+                    break
+    if not urls:
+        print(json.dumps(job, ensure_ascii=False, indent=2))
+        sys.exit("no downloadable output in job payload")
+    url = urls[0]
+    if url.startswith("/"):
+        url = BASE + url
+    with urllib.request.urlopen(url, timeout=300) as resp, open(out_path, "wb") as fh:
+        fh.write(resp.read())
+    return out_path
+
+
+def main():
+    # Windows consoles default to GBK; prompts and job payloads are UTF-8.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+    ap = argparse.ArgumentParser(description="H3 Studio demo API client")
+    ap.add_argument("--prompt", help="text prompt (Chinese/English both fine)")
+    ap.add_argument("--prompt-file", help="read the prompt from a UTF-8 file (avoids console codepage issues)")
+    ap.add_argument("--first", help="first-frame image for i2v / flf2v")
+    ap.add_argument("--last", help="last-frame image for flf2v")
+    ap.add_argument("--ref", action="append", default=[], help="reference asset for ref2v (repeatable)")
+    ap.add_argument("--duration", type=int, default=5, help="5-15 seconds")
+    ap.add_argument("--aspect", default=ASPECTS[0], choices=ASPECTS)
+    ap.add_argument("--quality", type=float, default=0.4, help="0.2-0.98 (0.98 = 1344x768)")
+    ap.add_argument("--out", default="out.mp4")
+    ap.add_argument("--list", action="store_true", help="print existing jobs and exit")
+    ap.add_argument("--no-wait", action="store_true", help="submit and return immediately")
+    ap.add_argument("--interval", type=int, default=10)
+    ap.add_argument("--timeout", type=int, default=2400)
+    args = ap.parse_args()
+
+    if args.list:
+        print(json.dumps(list_jobs(), ensure_ascii=False, indent=2))
+        return
+
+    if args.prompt_file:
+        with open(args.prompt_file, encoding="utf-8") as fh:
+            args.prompt = fh.read().strip()
+    if not args.prompt:
+        ap.error("--prompt or --prompt-file is required unless --list is given")
+    if not (MIN_DURATION <= args.duration <= MAX_DURATION):
+        ap.error(f"--duration must be {MIN_DURATION}-{MAX_DURATION}")
+
+    if args.first and args.last:
+        mode, assets = "flf2v", [args.first, args.last]
+    elif args.first:
+        mode, assets = "i2v", [args.first]
+    elif args.ref:
+        mode, assets = "ref2v", list(args.ref)
+    else:
+        mode, assets = "t2v", []
+
+    job = submit(mode, [{"type": "text", "text": args.prompt}], args.duration, args.aspect, args.quality, assets)
+    print(json.dumps({"id": job.get("id"), "status": job.get("status"), "mode": mode}, ensure_ascii=False))
+    if args.no_wait:
+        return
+
+    job = wait(job["id"], args.interval, args.timeout)
+    print(json.dumps(job, ensure_ascii=False, indent=2)[:2000])
+    if job.get("status") in ("succeeded", "success", "done", "completed"):
+        print("saved:", download(job, args.out))
+
+
+if __name__ == "__main__":
+    main()

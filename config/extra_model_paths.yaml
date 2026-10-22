@@ -1,1 +1,51 @@
-IyBleHRyYV9tb2RlbF9wYXRocy55YW1sIC0tIENvbWZ5VUkg5oyH5ZCR5YWx5Lqr5a2Y5YKo5Y23CiMKIyDkvZznlKjvvJpDb21meVVJIOS4jeaKiuadg+mHjeaUvuezu+e7n+ebmO+8jOWFqOmDqOivuyAvcm9vdC9kYXRhL21vZGVsc+OAggojIOi/meagt+OAjOS/neWtmOmVnOWDj+OAjeaJk+i/m+eahOmVnOWDj+WPquacieeOr+Wig++8iH4yMCBHQu+8ie+8jOadg+mHjeeVmeWcqOWFseS6q+WtmOWCqOWNt++8jAojIOaNouacuuWZqC/mjaLljaHlnovml7bmjILlkIzkuIDkuKrljbfljbPlj6/lpI3nlKjvvIzkuI3lv4Xph43miZPplZzlg4/jgIIKIwojIOeUn+aViOaWueW8j++8iOS7u+mAieWFtuS4gO+8jGJvb3Quc2gg5bey6Ieq5Yqo5YGa56ysIDEg56eN77yJ77yaCiMgICAxKSDlkK/liqjml7YgLS1leHRyYS1tb2RlbC1wYXRocy1jb25maWcgL3Jvb3QvQ29tZnlVSS9leHRyYV9tb2RlbF9wYXRocy55YW1sCiMgICAyKSDova/pk77vvJpsbiAtc2ZuIC9yb290L2RhdGEvbW9kZWxzLzxzdWI+IC9yb290L0NvbWZ5VUkvbW9kZWxzLzxzdWI+CiMKIyDnm67lvZXlkI3lv4XpobvkuI4gZmV0Y2hfbW9kZWxzLnNoIOiQveebmOebruW9leS4gOiHtO+8jOWQpuWImeiKgueCuemHjOeci+S4jeWIsOaooeWei+OAggoKY29tZnl1aToKICBiYXNlX3BhdGg6IC9yb290L2RhdGEvbW9kZWxzCiAgaXNfZGVmYXVsdDogdHJ1ZSAgICAgICMg57O757uf55uYIG1vZGVscy8g6YeM6Iul6L+Y5pyJ5ZCM5ZCN5paH5Lu277yM5LyY5YWI55So6L+Z6YeM55qECgogICMg5omp5pWj5Li75qih5Z6LCiAgZGlmZnVzaW9uX21vZGVsczogZGlmZnVzaW9uX21vZGVscwogIGNoZWNrcG9pbnRzOiBjaGVja3BvaW50cwoKICAjIOaWh+acrOe8lueggeWZqO+8iFF3ZW4zLVZMLTMyQiBmb3IgSDPjgIFnZW1tYTQtMTJiIGZvciBMVFgtMi4144CBcXdlbl8zXzRiIGZvciBaLUltYWdl77yJCiAgdGV4dF9lbmNvZGVyczogdGV4dF9lbmNvZGVycwogIGNsaXA6IHRleHRfZW5jb2RlcnMKCiAgIyBWQUXvvIjlkKsgSDMg55qEIGF1ZGlvX3ZhZeOAgUxUWCDnmoQgYXVkaW9fdmFl77yJCiAgdmFlOiB2YWUKCiAgIyBMb1JB77yISDMgdHVyYm8gOHN0ZXDjgIFXYW4gTGlnaHRYMlYgNHN0ZXDjgIFaLUltYWdlIGRpc3RpbGwgcGF0Y2jvvIkKICBsb3JhczogbG9yYXMKCiAgIyDmqKHlnovooaXkuIHvvIhIMyBGdW4gQ29udHJvbE5ldCBVbmlvbu+8iQogIG1vZGVsX3BhdGNoZXM6IG1vZGVsX3BhdGNoZXMKCiAgIyDpn7PpopHnvJbnoIHlmajvvIhXYW4gUzJWIOeahCB3YXYydmVjMu+8iQogIGF1ZGlvX2VuY29kZXJzOiBhdWRpb19lbmNvZGVycwoKICAjIOa9nOWcqOepuumXtOaUvuWkp+WZqO+8iExUWC0yLjUgc3BhdGlhbC90ZW1wb3JhbCB1cHNjYWxlcu+8iQogIGxhdGVudF91cHNjYWxlX21vZGVsczogbGF0ZW50X3Vwc2NhbGVfbW9kZWxzCgogICMg5Zu+5YOP5pS+5aSn5ZmoIC8g5Y+C6ICD5Zu+57yW56CBCiAgdXBzY2FsZV9tb2RlbHM6IHVwc2NhbGVfbW9kZWxzCiAgY2xpcF92aXNpb246IGNsaXBfdmlzaW9uCgogICMg5rOo5oSP5YqbL+e8luivkee8k+WtmOetieadgumhuQogIGNvbnRyb2xuZXQ6IGNvbnRyb2xuZXQKICBzdHlsZV9tb2RlbHM6IHN0eWxlX21vZGVscwogIGdsaWdlbjogZ2xpZ2VuCiAgZW1iZWRkaW5nczogZW1iZWRkaW5ncwogIGN1c3RvbV9ub2RlczogY3VzdG9tX25vZGVzCiAgaHlwZXJuZXR3b3JrczogaHlwZXJuZXR3b3JrcwogIHBob3RvbWFrZXI6IHBob3RvbWFrZXIK
+# extra_model_paths.yaml -- ComfyUI 指向共享存储卷
+#
+# 作用：ComfyUI 不把权重放系统盘，全部读 /root/data/models。
+# 这样「保存镜像」打进的镜像只有环境（~20 GB），权重留在共享存储卷，
+# 换机器/换卡型时挂同一个卷即可复用，不必重打镜像。
+#
+# 生效方式（任选其一，boot.sh 已自动做第 1 种）：
+#   1) 启动时 --extra-model-paths-config /root/ComfyUI/extra_model_paths.yaml
+#   2) 软链：ln -sfn /root/data/models/<sub> /root/ComfyUI/models/<sub>
+#
+# 目录名必须与 fetch_models.sh 落盘目录一致，否则节点里看不到模型。
+
+comfyui:
+  base_path: /root/data/models
+  is_default: true      # 系统盘 models/ 里若还有同名文件，优先用这里的
+
+  # 扩散主模型
+  diffusion_models: diffusion_models
+  checkpoints: checkpoints
+
+  # 文本编码器（Qwen3-VL-32B for H3、gemma4-12b for LTX-2.5、qwen_3_4b for Z-Image）
+  text_encoders: text_encoders
+  clip: text_encoders
+
+  # VAE（含 H3 的 audio_vae、LTX 的 audio_vae）
+  vae: vae
+
+  # LoRA（H3 turbo 8step、Wan LightX2V 4step、Z-Image distill patch）
+  loras: loras
+
+  # 模型补丁（H3 Fun ControlNet Union）
+  model_patches: model_patches
+
+  # 音频编码器（Wan S2V 的 wav2vec2）
+  audio_encoders: audio_encoders
+
+  # 潜在空间放大器（LTX-2.5 spatial/temporal upscaler）
+  latent_upscale_models: latent_upscale_models
+
+  # 图像放大器 / 参考图编码
+  upscale_models: upscale_models
+  clip_vision: clip_vision
+
+  # 注意力/编译缓存等杂项
+  controlnet: controlnet
+  style_models: style_models
+  gligen: gligen
+  embeddings: embeddings
+  custom_nodes: custom_nodes
+  hypernetworks: hypernetworks
+  photomaker: photomaker

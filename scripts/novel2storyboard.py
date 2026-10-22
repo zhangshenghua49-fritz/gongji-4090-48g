@@ -1,1 +1,227 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJub3ZlbDJzdG9yeWJvYXJkLnB5IOKAlCDlsI/or7TmraPmlocg4oaSIOWIhumVnOihqCArIE1pbmlNYXgtSDMg5o+Q56S66K+N6aqo5p62Cgrlj6rlgZrmnLrmorDlt6XkvZzvvJrliIflnLrmma/jgIHliIbplZzjgIHnrpfml7bplb/jgIHnvJblj7fjgIHlr7zlh7rpqqjmnrbjgIIK55S76Z2i5o+Q56S66K+N77yIcHJvbXB0IOWIl++8ieeVmeepuu+8jOeUseS6ui/kuIrlsYLmqKHlnovloavlhpnlkI4gSlNPTkwg55u05o6l5ZaC57uZIEgzIOW3peS9nOa1geOAggoK55So5rOVOgogIHB5dGhvbiBzY3JpcHRzL25vdmVsMnN0b3J5Ym9hcmQucHkg5q2j5paHLnR4dCAtbyBvdXQvCiAgcHl0aG9uIHNjcmlwdHMvbm92ZWwyc3Rvcnlib2FyZC5weSDmraPmlocudHh0IC0tY3BzIDQuMiAtLW1heC1zaG90IDggLS1taW4tc2hvdCAyCgrml7bplb/lj6PlvoQ6CiAg5Lit5paH5peB55m957qmIDQuMn40Ljgg5a2XL+enkuOAgum7mOiupCA0LjXjgIIKICBIMyDnmoTluKfmlbDnvZHmoLzmmK8gMTdrKzXvvIgyNGZwc++8ie+8jOiEmuacrOS8muaMieatpOaKiuenkuaVsOWvuem9kOWIsOWQiOazlSBsZW5ndGjjgIIKCuWIh+mVnOinhOWImToKICDlj6rlnKjjgIzlvJXlj7fphY3lubMgKyDlj6XmnKvmoIfngrnjgI3lpITmlq3lvIDvvIznu53kuI3miorkuIDlj6Xlj7Dor43liIfmiJDkuKTljYrjgIIKCui+k+WHujoKICA8b3V0Pi9zdG9yeWJvYXJkLmNzdiAgIOS6uuivu+WIhumVnOihqO+8iEV4Y2VsIOWPr+ebtOaOpeW8gO+8iQogIDxvdXQ+L3N0b3J5Ym9hcmQuanNvbmwg5py66K+777yM5q+P6KGM5LiA5Liq6ZWc5aS077yM5ZCrIEgzIOeahCBsZW5ndGgg5a2X5q61CiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGNzdgppbXBvcnQganNvbgppbXBvcnQgcmUKaW1wb3J0IHN5cwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCiMg56ug6IqC5qCH6aKYCkNIQVBURVIgPSByZS5jb21waWxlKHIiXlxzKuesrFxzKlswLTnkuIDkuozkuInlm5vkupTlha3kuIPlhavkuZ3ljYHnmb7ljYPkuKRdK1xzKlvnq6DoioLlm57ljbddXGIiKQojIOWcuuaZr+WIhumalOagh+iusApTQ0VORV9CUkVBSyA9IHJlLmNvbXBpbGUociJeXHMqKFwqezMsfXwtezMsfXxfezMsfXzigLsrfOKXhit84peHKylccyokIikKIyDlnLDngrkv5pe26Ze05o+Q56S66KGM77ya5ous5Y+354us5Y2g5LiA6KGMClNDRU5FX01BUksgPSByZS5jb21waWxlKHIiXlxzKlvvvIgoXFvjgJBdW17vvIkpXF3jgJFdezEsMzB9W++8iSlcXeOAkV1ccyokIikKIyDlr7nor53ooYwKRElBTE9HVUUgPSByZS5jb21waWxlKHIiW+OAjOOAjuKAnFwiXSIpCiMg5Y+l5pyr5qCH54K577yI5Y+v5L2c5YiH54K577yJClNFTlRfRU5EID0gIuOAgu+8ge+8n+KApiIKIyDlvJXlj7flr7kKUVVPVEVfT1BFTiA9ICLjgIzjgI7igJzigJjvvIgo44CK44CQWyIKUVVPVEVfQ0xPU0UgPSAi44CN44CP4oCd4oCZ77yJKe+8ieOAi+OAkV0iCgoKZGVmIGZvcmNlX3V0Zjhfc3Rkb3V0KCkgLT4gTm9uZToKICAgICIiIldpbmRvd3Mg5o6n5Yi25Y+w6buY6K6kIEdCS++8jOS4reaWh+S8muS5seeggeOAgiIiIgogICAgZm9yIHMgaW4gKHN5cy5zdGRvdXQsIHN5cy5zdGRlcnIpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcy5yZWNvbmZpZ3VyZShlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKSAgIyB0eXBlOiBpZ25vcmVbYXR0ci1kZWZpbmVkXQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKCgpkZWYgbm9ybV9saW5lcyh0ZXh0OiBzdHIpIC0+IGxpc3Rbc3RyXToKICAgIHRleHQgPSB0ZXh0LnJlcGxhY2UoIlxyXG4iLCAiXG4iKS5yZXBsYWNlKCJcciIsICJcbiIpLnJlcGxhY2UoIlx1MzAwMCIsICIgIikKICAgIHJldHVybiBbbG4ucnN0cmlwKCkgZm9yIGxuIGluIHRleHQuc3BsaXQoIlxuIildCgoKZGVmIHNwbGl0X3NjZW5lcyhsaW5lczogbGlzdFtzdHJdKSAtPiBsaXN0W3R1cGxlW3N0ciwgbGlzdFtzdHJdXV06CiAgICAiIiLov5Tlm54gWyjlnLrmma/lkI0sIFvlnZcuLi5dKSwgLi4uXeOAguWcuuaZr+WQjeWPluacgOi/keeahOaLrOWPt+aPkOekuuihjOOAgiIiIgogICAgc2NlbmVzOiBsaXN0W3R1cGxlW3N0ciwgbGlzdFtzdHJdXV0gPSBbXQogICAgY3VyOiBsaXN0W3N0cl0gPSBbXQogICAgbmFtZSA9ICIiCgogICAgZGVmIGZsdXNoKCkgLT4gTm9uZToKICAgICAgICBub25sb2NhbCBjdXIsIG5hbWUKICAgICAgICBpZiBjdXI6CiAgICAgICAgICAgIHNjZW5lcy5hcHBlbmQoKG5hbWUsIGN1cikpCiAgICAgICAgY3VyID0gW10KCiAgICBmb3IgbG4gaW4gbGluZXM6CiAgICAgICAgaWYgU0NFTkVfQlJFQUsubWF0Y2gobG4pOgogICAgICAgICAgICBmbHVzaCgpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgU0NFTkVfTUFSSy5tYXRjaChsbik6CiAgICAgICAgICAgIGZsdXNoKCkKICAgICAgICAgICAgbmFtZSA9IGxuLnN0cmlwKCkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBub3QgbG4uc3RyaXAoKToKICAgICAgICAgICAgaWYgY3VyIGFuZCBjdXJbLTFdICE9ICIiOgogICAgICAgICAgICAgICAgY3VyLmFwcGVuZCgiIikKICAgICAgICAgICAgY29udGludWUKICAgICAgICBjdXIuYXBwZW5kKGxuLnN0cmlwKCkpCiAgICBmbHVzaCgpCiAgICByZXR1cm4gc2NlbmVzCgoKZGVmIHNwbGl0X3BhcmFzKGJsb2NrczogbGlzdFtzdHJdKSAtPiBsaXN0W3N0cl06CiAgICBvdXQ6IGxpc3Rbc3RyXSA9IFtdCiAgICBidWY6IGxpc3Rbc3RyXSA9IFtdCiAgICBmb3IgYiBpbiBibG9ja3M6CiAgICAgICAgaWYgYiA9PSAiIjoKICAgICAgICAgICAgaWYgYnVmOgogICAgICAgICAgICAgICAgb3V0LmFwcGVuZCgiIi5qb2luKGJ1ZikpCiAgICAgICAgICAgICAgICBidWYgPSBbXQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGJ1Zi5hcHBlbmQoYikKICAgIGlmIGJ1ZjoKICAgICAgICBvdXQuYXBwZW5kKCIiLmpvaW4oYnVmKSkKICAgIHJldHVybiBvdXQKCgpkZWYgc2FmZV9jdXRfcG9pbnRzKHRleHQ6IHN0cikgLT4gbGlzdFtpbnRdOgogICAgIiIi6L+U5Zue5Y+v5a6J5YWo5pat5byA55qE5a2X56ym5LiL5qCH77yI5byV5Y+36YWN5bmz5LiU5piv5Y+l5pyr5qCH54K55LmL5ZCO77yJ44CCIiIiCiAgICBwdHM6IGxpc3RbaW50XSA9IFtdCiAgICBkZXB0aCA9IDAKICAgIGZvciBpLCBjaCBpbiBlbnVtZXJhdGUodGV4dCk6CiAgICAgICAgaWYgY2ggaW4gUVVPVEVfT1BFTjoKICAgICAgICAgICAgZGVwdGggKz0gMQogICAgICAgIGVsaWYgY2ggaW4gUVVPVEVfQ0xPU0U6CiAgICAgICAgICAgIGRlcHRoID0gbWF4KDAsIGRlcHRoIC0gMSkKICAgICAgICBlbGlmIGRlcHRoID09IDAgYW5kIGNoIGluIFNFTlRfRU5EOgogICAgICAgICAgICBwdHMuYXBwZW5kKGkgKyAxKQogICAgaWYgbm90IHB0cyBvciBwdHNbLTFdICE9IGxlbih0ZXh0KToKICAgICAgICBwdHMuYXBwZW5kKGxlbih0ZXh0KSkKICAgIHJldHVybiBwdHMKCgpkZWYgc3BsaXRfbG9uZyhwYXJhOiBzdHIsIGNwczogZmxvYXQsIG1heF9zaG90OiBmbG9hdCkgLT4gbGlzdFtzdHJdOgogICAgIiIi6ZW/5q616JC95oyJ5a6J5YWo5YiH54K55pat5byA77yM5Y2V6ZWc5LiN6LaF6L+HIG1heF9zaG90IOenkuOAgiIiIgogICAgaWYgbGVuKHBhcmEpIC8gY3BzIDw9IG1heF9zaG90OgogICAgICAgIHJldHVybiBbcGFyYV0KICAgIHB0cyA9IHNhZmVfY3V0X3BvaW50cyhwYXJhKQogICAgc2hvdHM6IGxpc3Rbc3RyXSA9IFtdCiAgICBzdGFydCA9IDAKICAgIHByZXYgPSAwCiAgICBmb3IgcCBpbiBwdHM6CiAgICAgICAgaWYgKHAgLSBzdGFydCkgLyBjcHMgPiBtYXhfc2hvdDoKICAgICAgICAgICAgIyDotoXml7bkuobvvIzpgIDlm57kuIrkuIDkuKrlronlhajliIfngrnmlq3lvIDvvJvoi6XkuIrkuIDlj6XmnKzouqvlsLHotoXplb/vvIzlj6rog73liIflnKggcAogICAgICAgICAgICBjdXQgPSBwcmV2IGlmIHByZXYgPiBzdGFydCBlbHNlIHAKICAgICAgICAgICAgc2hvdHMuYXBwZW5kKHBhcmFbc3RhcnQ6Y3V0XSkKICAgICAgICAgICAgc3RhcnQgPSBjdXQKICAgICAgICBwcmV2ID0gcAogICAgaWYgc3RhcnQgPCBsZW4ocGFyYSk6CiAgICAgICAgc2hvdHMuYXBwZW5kKHBhcmFbc3RhcnQ6XSkKICAgIHJldHVybiBbcyBmb3IgcyBpbiBzaG90cyBpZiBzXQoKCmRlZiBzbmFwX2xlbmd0aChzZWNvbmRzOiBmbG9hdCwgZnBzOiBpbnQgPSAyNCkgLT4gaW50OgogICAgIiIi5oqK56eS5pWw5a+56b2Q5YiwIEgzIOWQiOazleeahCBsZW5ndGjvvIgxN2srNe+8jOiuree7g+WMuumXtCAxMjR+MzYy77yJ44CCIiIiCiAgICB0YXJnZXQgPSBtYXgoNSwgcm91bmQoc2Vjb25kcyAqIGZwcykpCiAgICBrID0gbWF4KDAsIHJvdW5kKCh0YXJnZXQgLSA1KSAvIDE3KSkKICAgIHJldHVybiAxNyAqIGsgKyA1CgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBmb3JjZV91dGY4X3N0ZG91dCgpCiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgic3JjIiwgaGVscD0i5bCP6K+05q2j5paHIHR4dO+8iFVURi0477yJIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLW8iLCAiLS1vdXQiLCBkZWZhdWx0PSJvdXQiLCBoZWxwPSLovpPlh7rnm67lvZUiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWNwcyIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9NC41LCBoZWxwPSLkuK3mlofmnJfor7vpgJ/luqbvvIzlrZcv56eS77yI6buY6K6kIDQuNe+8iSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbWF4LXNob3QiLCB0eXBlPWZsb2F0LCBkZWZhdWx0PTguMCwgaGVscD0i5Y2V6ZWc5pyA6ZW/56eS5pWw77yI6buY6K6kIDjvvIkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW1pbi1zaG90IiwgdHlwZT1mbG9hdCwgZGVmYXVsdD0yLjAsIGhlbHA9IuWNlemVnOacgOefreenkuaVsO+8jOi/h+efreWQiOW5tu+8iOm7mOiupCAy77yJIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1mcHMiLCB0eXBlPWludCwgZGVmYXVsdD0yNCwgaGVscD0i5bin546H77yI6buY6K6kIDI077yMSDMg5Zu65a6a77yJIikKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBzcmMgPSBQYXRoKGFyZ3Muc3JjKQogICAgaWYgbm90IHNyYy5pc19maWxlKCk6CiAgICAgICAgcHJpbnQoZiJbZXJyXSDmib7kuI3liLAge3NyY30iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDIKICAgIHRleHQgPSBzcmMucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIpCiAgICBpZiBub3QgdGV4dC5zdHJpcCgpOgogICAgICAgIHByaW50KCJbZXJyXSDmlofmnKzkuLrnqboiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDIKCiAgICByb3dzOiBsaXN0W2RpY3RdID0gW10KICAgIHNob3QgPSAwCgogICAgZGVmIGFkZChzY2VuZTogaW50LCBzbmFtZTogc3RyLCBwaWVjZTogc3RyLCBraW5kOiBzdHIpIC0+IE5vbmU6CiAgICAgICAgbm9ubG9jYWwgc2hvdAogICAgICAgIHNob3QgKz0gMQogICAgICAgIHNlY3MgPSByb3VuZChsZW4ocGllY2UpIC8gYXJncy5jcHMsIDIpCiAgICAgICAgcm93cy5hcHBlbmQoewogICAgICAgICAgICAic2hvdCI6IHNob3QsICJzY2VuZSI6IHNjZW5lLCAic2NlbmVfbmFtZSI6IHNuYW1lLCAia2luZCI6IGtpbmQsCiAgICAgICAgICAgICJjaGFycyI6IGxlbihwaWVjZSksICJzZWNvbmRzIjogc2VjcywKICAgICAgICAgICAgImxlbmd0aCI6IHNuYXBfbGVuZ3RoKHNlY3MsIGFyZ3MuZnBzKSwKICAgICAgICAgICAgInRleHQiOiBwaWVjZSwgInByb21wdCI6ICIiLAogICAgICAgIH0pCgogICAgZm9yIHNpLCAoc25hbWUsIGJsb2NrcykgaW4gZW51bWVyYXRlKHNwbGl0X3NjZW5lcyhub3JtX2xpbmVzKHRleHQpKSwgMSk6CiAgICAgICAgc25hbWUgPSBzbmFtZSBvciBmIlNjZW5lLXtzaX0iCiAgICAgICAgcGVuZGluZyA9ICIiCiAgICAgICAgZm9yIHBhcmEgaW4gc3BsaXRfcGFyYXMoYmxvY2tzKToKICAgICAgICAgICAgIyDnq6DoioLmoIfpopjljZXni6zmiJDplZzvvIzkuI3ov5vmraPmlocKICAgICAgICAgICAgaWYgQ0hBUFRFUi5tYXRjaChwYXJhKToKICAgICAgICAgICAgICAgIGFkZChzaSwgc25hbWUsIHBhcmEuc3RyaXAoKSwgInRpdGxlIikKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGZvciBwaWVjZSBpbiBzcGxpdF9sb25nKHBhcmEsIGFyZ3MuY3BzLCBhcmdzLm1heF9zaG90KToKICAgICAgICAgICAgICAgIGlmIHBlbmRpbmc6CiAgICAgICAgICAgICAgICAgICAgcGllY2UgPSBwZW5kaW5nICsgcGllY2UKICAgICAgICAgICAgICAgICAgICBwZW5kaW5nID0gIiIKICAgICAgICAgICAgICAgIGlmIGxlbihwaWVjZSkgLyBhcmdzLmNwcyA8IGFyZ3MubWluX3Nob3Q6CiAgICAgICAgICAgICAgICAgICAgcGVuZGluZyA9IHBpZWNlCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGFkZChzaSwgc25hbWUsIHBpZWNlLCAiZGlhbG9ndWUiIGlmIERJQUxPR1VFLnNlYXJjaChwaWVjZSkgZWxzZSAibmFycmF0aW9uIikKICAgICAgICBpZiBwZW5kaW5nOgogICAgICAgICAgICBhZGQoc2ksIHNuYW1lLCBwZW5kaW5nLCAiZGlhbG9ndWUiIGlmIERJQUxPR1VFLnNlYXJjaChwZW5kaW5nKSBlbHNlICJuYXJyYXRpb24iKQoKICAgIGlmIG5vdCByb3dzOgogICAgICAgIHByaW50KCJbZXJyXSDmsqHliIflh7rku7vkvZXplZzlpLTvvIzmo4Dmn6XmlofmnKznvJbnoIHmiJbmoIfngrkiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDIKCiAgICBvdXQgPSBQYXRoKGFyZ3Mub3V0KQogICAgb3V0Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGNzdl9wYXRoID0gb3V0IC8gInN0b3J5Ym9hcmQuY3N2IgogICAganNvbmxfcGF0aCA9IG91dCAvICJzdG9yeWJvYXJkLmpzb25sIgoKICAgIHdpdGggY3N2X3BhdGgub3BlbigidyIsIGVuY29kaW5nPSJ1dGYtOC1zaWciLCBuZXdsaW5lPSIiKSBhcyBmOgogICAgICAgIHcgPSBjc3YuRGljdFdyaXRlcihmLCBmaWVsZG5hbWVzPWxpc3Qocm93c1swXS5rZXlzKCkpKQogICAgICAgIHcud3JpdGVoZWFkZXIoKQogICAgICAgIHcud3JpdGVyb3dzKHJvd3MpCgogICAgd2l0aCBqc29ubF9wYXRoLm9wZW4oInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgICAgIGYud3JpdGUoanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIlxuIikKCiAgICB0b3RhbCA9IHN1bShyWyJzZWNvbmRzIl0gZm9yIHIgaW4gcm93cykKICAgIHByaW50KGYiW29rXSB7bGVuKHtyWydzY2VuZSddIGZvciByIGluIHJvd3N9KX0g5Liq5Zy65pmvIC0+IHtsZW4ocm93cyl9IOS4qumVnOWktCAvIOaAu+aXtumVvyB7dG90YWw6LjFmfXMiKQogICAgcHJpbnQoZiIgICAgIHtjc3ZfcGF0aH0iKQogICAgcHJpbnQoZiIgICAgIHtqc29ubF9wYXRofSIpCiAgICBwcmludChmIltuZXh0XSDloasgcHJvbXB0IOWIl+WQjjogYmFzaCBzY3JpcHRzL3J1bl93Zi5zaCB3b3JrZmxvd3MvaDNfdDJ2YS5qc29uIikKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""novel2storyboard.py — 小说正文 → 分镜表 + MiniMax-H3 提示词骨架
+
+只做机械工作：切场景、分镜、算时长、编号、导出骨架。
+画面提示词（prompt 列）留空，由人/上层模型填写后 JSONL 直接喂给 H3 工作流。
+
+用法:
+  python scripts/novel2storyboard.py 正文.txt -o out/
+  python scripts/novel2storyboard.py 正文.txt --cps 4.2 --max-shot 8 --min-shot 2
+
+时长口径:
+  中文旁白约 4.2~4.8 字/秒。默认 4.5。
+  H3 的帧数网格是 17k+5（24fps），脚本会按此把秒数对齐到合法 length。
+
+切镜规则:
+  只在「引号配平 + 句末标点」处断开，绝不把一句台词切成两半。
+
+输出:
+  <out>/storyboard.csv   人读分镜表（Excel 可直接开）
+  <out>/storyboard.jsonl 机读，每行一个镜头，含 H3 的 length 字段
+"""
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+import re
+import sys
+from pathlib import Path
+
+# 章节标题
+CHAPTER = re.compile(r"^\s*第\s*[0-9一二三四五六七八九十百千两]+\s*[章节回卷]\b")
+# 场景分隔标记
+SCENE_BREAK = re.compile(r"^\s*(\*{3,}|-{3,}|_{3,}|※+|◆+|◇+)\s*$")
+# 地点/时间提示行：括号独占一行
+SCENE_MARK = re.compile(r"^\s*[（(\[【][^）)\]】]{1,30}[）)\]】]\s*$")
+# 对话行
+DIALOGUE = re.compile(r"[「『“\"]")
+# 句末标点（可作切点）
+SENT_END = "。！？…"
+# 引号对
+QUOTE_OPEN = "「『“‘（(《【["
+QUOTE_CLOSE = "」』”’）)）》】]"
+
+
+def force_utf8_stdout() -> None:
+    """Windows 控制台默认 GBK，中文会乱码。"""
+    for s in (sys.stdout, sys.stderr):
+        try:
+            s.reconfigure(encoding="utf-8", errors="replace")  # type: ignore[attr-defined]
+        except Exception:
+            pass
+
+
+def norm_lines(text: str) -> list[str]:
+    text = text.replace("\r\n", "\n").replace("\r", "\n").replace("\u3000", " ")
+    return [ln.rstrip() for ln in text.split("\n")]
+
+
+def split_scenes(lines: list[str]) -> list[tuple[str, list[str]]]:
+    """返回 [(场景名, [块...]), ...]。场景名取最近的括号提示行。"""
+    scenes: list[tuple[str, list[str]]] = []
+    cur: list[str] = []
+    name = ""
+
+    def flush() -> None:
+        nonlocal cur, name
+        if cur:
+            scenes.append((name, cur))
+        cur = []
+
+    for ln in lines:
+        if SCENE_BREAK.match(ln):
+            flush()
+            continue
+        if SCENE_MARK.match(ln):
+            flush()
+            name = ln.strip()
+            continue
+        if not ln.strip():
+            if cur and cur[-1] != "":
+                cur.append("")
+            continue
+        cur.append(ln.strip())
+    flush()
+    return scenes
+
+
+def split_paras(blocks: list[str]) -> list[str]:
+    out: list[str] = []
+    buf: list[str] = []
+    for b in blocks:
+        if b == "":
+            if buf:
+                out.append("".join(buf))
+                buf = []
+            continue
+        buf.append(b)
+    if buf:
+        out.append("".join(buf))
+    return out
+
+
+def safe_cut_points(text: str) -> list[int]:
+    """返回可安全断开的字符下标（引号配平且是句末标点之后）。"""
+    pts: list[int] = []
+    depth = 0
+    for i, ch in enumerate(text):
+        if ch in QUOTE_OPEN:
+            depth += 1
+        elif ch in QUOTE_CLOSE:
+            depth = max(0, depth - 1)
+        elif depth == 0 and ch in SENT_END:
+            pts.append(i + 1)
+    if not pts or pts[-1] != len(text):
+        pts.append(len(text))
+    return pts
+
+
+def split_long(para: str, cps: float, max_shot: float) -> list[str]:
+    """长段落按安全切点断开，单镜不超过 max_shot 秒。"""
+    if len(para) / cps <= max_shot:
+        return [para]
+    pts = safe_cut_points(para)
+    shots: list[str] = []
+    start = 0
+    prev = 0
+    for p in pts:
+        if (p - start) / cps > max_shot:
+            # 超时了，退回上一个安全切点断开；若上一句本身就超长，只能切在 p
+            cut = prev if prev > start else p
+            shots.append(para[start:cut])
+            start = cut
+        prev = p
+    if start < len(para):
+        shots.append(para[start:])
+    return [s for s in shots if s]
+
+
+def snap_length(seconds: float, fps: int = 24) -> int:
+    """把秒数对齐到 H3 合法的 length（17k+5，训练区间 124~362）。"""
+    target = max(5, round(seconds * fps))
+    k = max(0, round((target - 5) / 17))
+    return 17 * k + 5
+
+
+def main() -> int:
+    force_utf8_stdout()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("src", help="小说正文 txt（UTF-8）")
+    ap.add_argument("-o", "--out", default="out", help="输出目录")
+    ap.add_argument("--cps", type=float, default=4.5, help="中文朗读速度，字/秒（默认 4.5）")
+    ap.add_argument("--max-shot", type=float, default=8.0, help="单镜最长秒数（默认 8）")
+    ap.add_argument("--min-shot", type=float, default=2.0, help="单镜最短秒数，过短合并（默认 2）")
+    ap.add_argument("--fps", type=int, default=24, help="帧率（默认 24，H3 固定）")
+    args = ap.parse_args()
+
+    src = Path(args.src)
+    if not src.is_file():
+        print(f"[err] 找不到 {src}", file=sys.stderr)
+        return 2
+    text = src.read_text(encoding="utf-8", errors="replace")
+    if not text.strip():
+        print("[err] 文本为空", file=sys.stderr)
+        return 2
+
+    rows: list[dict] = []
+    shot = 0
+
+    def add(scene: int, sname: str, piece: str, kind: str) -> None:
+        nonlocal shot
+        shot += 1
+        secs = round(len(piece) / args.cps, 2)
+        rows.append({
+            "shot": shot, "scene": scene, "scene_name": sname, "kind": kind,
+            "chars": len(piece), "seconds": secs,
+            "length": snap_length(secs, args.fps),
+            "text": piece, "prompt": "",
+        })
+
+    for si, (sname, blocks) in enumerate(split_scenes(norm_lines(text)), 1):
+        sname = sname or f"Scene-{si}"
+        pending = ""
+        for para in split_paras(blocks):
+            # 章节标题单独成镜，不进正文
+            if CHAPTER.match(para):
+                add(si, sname, para.strip(), "title")
+                continue
+            for piece in split_long(para, args.cps, args.max_shot):
+                if pending:
+                    piece = pending + piece
+                    pending = ""
+                if len(piece) / args.cps < args.min_shot:
+                    pending = piece
+                    continue
+                add(si, sname, piece, "dialogue" if DIALOGUE.search(piece) else "narration")
+        if pending:
+            add(si, sname, pending, "dialogue" if DIALOGUE.search(pending) else "narration")
+
+    if not rows:
+        print("[err] 没切出任何镜头，检查文本编码或标点", file=sys.stderr)
+        return 2
+
+    out = Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+    csv_path = out / "storyboard.csv"
+    jsonl_path = out / "storyboard.jsonl"
+
+    with csv_path.open("w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w.writeheader()
+        w.writerows(rows)
+
+    with jsonl_path.open("w", encoding="utf-8") as f:
+        for r in rows:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    total = sum(r["seconds"] for r in rows)
+    print(f"[ok] {len({r['scene'] for r in rows})} 个场景 -> {len(rows)} 个镜头 / 总时长 {total:.1f}s")
+    print(f"     {csv_path}")
+    print(f"     {jsonl_path}")
+    print(f"[next] 填 prompt 列后: bash scripts/run_wf.sh workflows/h3_t2va.json")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,1 +1,444 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIHNldHVwX2Vudi5zaCAtLSDlhbHnu6nnrpflipsgNDA5MCA0OEcg6ZWc5YOP77ya546v5aKD5bGC6KOF6YWNCiMKIyDorr7orqHliY3mj5DvvIjph43opoHvvInvvJoKIyAgIOWQhOWutuivremfsy/op4bpopHmoYbmnrblr7kgdG9yY2ggLyBudW1weSAvIHRyYW5zZm9ybWVycyDnmoTniYjmnKzopoHmsYLkupLnm7jlhrLnqoHjgIIKIyAgIOS+i+WmgiBHUFQtU29WSVRTIOmUgSB0b3JjaCAyLjUueO+8jEluZGV4VFRTIOimgSAyLjYueO+8jENvbWZ5VUkg6Ieq5bim5LiA5aWX44CCCiMgICDmiYDku6XmnKzohJrmnKznu5nmr4/kuKrmnI3liqHlu7oqKueLrOeriyB2ZW52KirvvIgvb3B0L3ZlbnZzLzxuYW1lPu+8ie+8jOe7neS4jea3t+ijheOAggojICAg5Luj5Lu35piv56OB55uY77yI5q+P5aWXIHRvcmNoIOe6piAyLjUgR0LvvInvvIzmlLbnm4rmmK/lj6/ph43lpI3jgIHlj6/ljZXni6zljYfnuqfjgIIKIwojIOeUqOazle+8iOS6keS4u+acuuWGhe+8jHJvb3TvvInvvJoKIyAgIGJhc2ggc2V0dXBfZW52LnNoICAgICAgICAgICAgICAjIOWFqOmHjwojICAgYmFzaCBzZXR1cF9lbnYuc2ggLS1taW4gICAgICAgICMg5Y+q6KOFIENvbWZ5VUkgKyDln7rnoYAgVFRT77yI55yBIH4xMiBHQu+8iQojICAgYmFzaCBzZXR1cF9lbnYuc2ggLS1wcm9iZSAgICAgICMg5Y+q5o6i5rWL77yM5LiN5pS557O757ufCiMKIyDluYLnrYnvvJrph43lpI3ot5HlronlhajjgILlt7LlrZjlnKjnmoQgdmVudiDkvJrot7Pov4fjgIIKc2V0IC1ldW8gcGlwZWZhaWwKCk1JTj0wClBST0JFPTAKZm9yIGEgaW4gIiRAIjsgZG8KICBjYXNlICIkYSIgaW4KICAgIC0tbWluKSAgIE1JTj0xIDs7CiAgICAtLXByb2JlKSBQUk9CRT0xIDs7CiAgICAqKSBlY2hvICJ1bmtub3duIGFyZzogJGEiID4mMjsgZXhpdCAyIDs7CiAgZXNhYwpkb25lCgpST09UPS9yb290CkRBVEE9JFJPT1QvZGF0YQpNT0RFTFM9JERBVEEvbW9kZWxzClZFTlM9JFJPT1QvdmVudnMKTE9HUz0kUk9PVC9sb2dzClNSQz0kUk9PVC9zcmMKCnNheSgpIHsgcHJpbnRmICdcblwwMzNbMTszNm09PSAlc1wwMzNbMG1cbicgIiQqIjsgfQpvaygpICB7IHByaW50ZiAnXDAzM1sxOzMybSAgIG9rXDAzM1swbSAlc1xuJyAiJCoiOyB9Cndhcm4oKXsgcHJpbnRmICdcMDMzWzE7MzNtICAgISFcMDMzWzBtICVzXG4nICIkKiI7IH0KCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpzYXkgIjAuIOaOoua1i+eOsOeKtiIKZWNobyAiICBrZXJuZWwgICAgIDogJCh1bmFtZSAtcikiCmVjaG8gIiAgb3MgICAgICAgICA6ICQoZ3JlcCAtRSAnXlBSRVRUWV9OQU1FJyAvZXRjL29zLXJlbGVhc2UgMj4vZGV2L251bGwgfCBjdXQgLWQ9IC1mMi0gfCB0ciAtZCAnXCInKSIKZWNobyAiICBweXRob24gICAgIDogJChweXRob24zIC1WIDI+JjEgfHwgZWNobyAnbm9uZScpIgplY2hvICIgIHBpcCAgICAgICAgOiAkKHB5dGhvbjMgLW0gcGlwIC1WIDI+JjEgfCBjdXQgLWQnICcgLWYxLTIgfHwgZWNobyAnbm9uZScpIgppZiBjb21tYW5kIC12IG52aWRpYS1zbWkgPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgbnZpZGlhLXNtaSAtLXF1ZXJ5LWdwdT1uYW1lLG1lbW9yeS50b3RhbCxkcml2ZXJfdmVyc2lvbiAtLWZvcm1hdD1jc3Ysbm9oZWFkZXIgfCBzZWQgJ3MvXi8gIGdwdSAgICAgICAgOiAvJwplbHNlCiAgd2FybiAibnZpZGlhLXNtaSDkuI3lrZjlnKggLS0g5b2T5YmN5LiN5ZyoIEdQVSDlrrnlmajph4zvvJ/oo4XphY3lj6/ku6Xnu6fnu63vvIzkvYbml6Dms5Xpqozor4HmmL7lrZgiCmZpCmRmIC1oIC8gIiREQVRBIiAyPi9kZXYvbnVsbCB8IHNlZCAncy9eLyAgZGYgICAgICAgICA6IC8nCgojIENvbWZ5VUkg6aKE6KOF5L2N572u77yI56S+5Yy65Z+656GA6ZWc5YOP6YCa5bi45bey5bim77yJCkNPTUZZPSIiCmZvciBjIGluIC9yb290L0NvbWZ5VUkgL3dvcmtzcGFjZS9Db21meVVJIC9hcHAvQ29tZnlVSSAvb3B0L0NvbWZ5VUk7IGRvCiAgWyAtZCAiJGMiIF0gJiYgQ09NRlk9JGMgJiYgYnJlYWsKZG9uZQplY2hvICIgIGNvbWZ5dWkgICAgOiAke0NPTUZZOi08bm90IGZvdW5kLCB3aWxsIGNsb25lPn0iCgppZiBbICIkUFJPQkUiID0gIjEiIF07IHRoZW4KICBzYXkgInByb2JlIG9ubHksIGV4aXQiCiAgZXhpdCAwCmZpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Kc2F5ICIxLiDns7vnu5/kvp3otZYiCmlmIGNvbW1hbmQgLXYgYXB0LWdldCA+L2Rldi9udWxsIDI+JjE7IHRoZW4KICBleHBvcnQgREVCSUFOX0ZST05URU5EPW5vbmludGVyYWN0aXZlCiAgYXB0LWdldCB1cGRhdGUgLXFxCiAgIyBmZm1wZWc6IOaJgOaciemfs+inhumikeeuoee6v+eahOWcsOWfujsgbGlic25kZmlsZTogc291bmRmaWxlOwogICMgYnVpbGQtZXNzZW50aWFsL2NtYWtlOiDnvJbor5EgbW9ub3RvbmljX2FsaWdu44CBcndrduOAgeWQhOenjSBDIOaJqeWxlTsKICAjIGdpdC1sZnM6IOaLiSBIRiDlpKfmnYPph407IGVzcGVhay1uZzog6YOo5YiGIFRUUyDnmoQgRzJQIOWFnOW6lTsgbGliZ2wxOiBvcGVuY3YKICBhcHQtZ2V0IGluc3RhbGwgLXkgLXFxIC0tbm8taW5zdGFsbC1yZWNvbW1lbmRzIFwKICAgIGZmbXBlZyBsaWJzbmRmaWxlMSBidWlsZC1lc3NlbnRpYWwgY21ha2UgZ2l0IGdpdC1sZnMgY3VybCB3Z2V0IHVuemlwIFwKICAgIGVzcGVhay1uZyBsaWJnbDEgbGliZ2xpYjIuMC0wIHNveCB1bnppcCB6c3RkIGFyaWEyIHRtdXggaHRvcCBqcSBcCiAgICBmb250cy1ub3RvLWNqayBmb250Y29uZmlnCiAgZ2l0IGxmcyBpbnN0YWxsIC0tc2tpcC1yZXBvID4vZGV2L251bGwgMj4mMSB8fCB0cnVlCiAgb2sgImFwdCDljIXlsLHnu6oiCmVsc2UKICB3YXJuICLpnZ4gYXB0IOezu+ezu+e7n++8jOi3s+i/h++8iOiLpeaYryBkbmYg57O76K+36Ieq6KGM6KGlIGZmbXBlZ++8iSIKZmkKCm1rZGlyIC1wICIkTU9ERUxTIiAiJFZFTlMiICIkTE9HUyIgIiRTUkMiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Kc2F5ICIyLiB1diArIOWbveWGhea6kO+8iOavlCBwaXAg5b+r5LiA5Liq6YeP57qn77yM5LiUIHZlbnYg566h55CG5bmy5YeA77yJIgojIOW5s+WPsOWuueWZqOS4jeebtOi/nuWklue9ke+8jHBpcCDpu5jorqTotbAgcHlwaS5vcmcg5Lya6ZW/5pe26Ze06LaF5pe244CC57uf5LiA5o2i5riF5Y2O5rqQ44CCCmV4cG9ydCBQSVBfSU5ERVhfVVJMPSIke1BJUF9JTkRFWF9VUkw6LWh0dHBzOi8vcHlwaS50dW5hLnRzaW5naHVhLmVkdS5jbi9zaW1wbGV9IgpleHBvcnQgUElQX1RSVVNURURfSE9TVD0iJHtQSVBfVFJVU1RFRF9IT1NUOi1weXBpLnR1bmEudHNpbmdodWEuZWR1LmNufSIKZXhwb3J0IFVWX0RFRkFVTFRfSU5ERVg9IiR7VVZfREVGQVVMVF9JTkRFWDotJFBJUF9JTkRFWF9VUkx9IgpleHBvcnQgVVZfSFRUUF9USU1FT1VUPSIke1VWX0hUVFBfVElNRU9VVDotMTIwfSIKb2sgInBpcCDmupAg4oaSICRQSVBfSU5ERVhfVVJMIgoKaWYgISBjb21tYW5kIC12IHV2ID4vZGV2L251bGwgMj4mMTsgdGhlbgogIGN1cmwgLUxzU2YgaHR0cHM6Ly9hc3RyYWwuc2gvdXYvaW5zdGFsbC5zaCB8IHNoCiAgIyDoo4XliLAgfi8ubG9jYWwvYmluCiAgZXhwb3J0IFBBVEg9IiRIT01FLy5sb2NhbC9iaW46JFBBVEgiCiAgZ3JlcCAtcSAnbG9jYWwvYmluJyAiJEhPTUUvLmJhc2hyYyIgMj4vZGV2L251bGwgfHwgZWNobyAnZXhwb3J0IFBBVEg9IiRIT01FLy5sb2NhbC9iaW46JFBBVEgiJyA+PiAiJEhPTUUvLmJhc2hyYyIKZmkKY29tbWFuZCAtdiB1diA+L2Rldi9udWxsIDI+JjEgJiYgb2sgInV2ICQodXYgLS12ZXJzaW9uIHwgYXdrICd7cHJpbnQgJDJ9JykiIHx8IHsgd2FybiAidXYg5a6J6KOF5aSx6LSl77yM5Zue6YCAIHBpcCI7IFVWPTA7IH0KVVY9JHtVVjotMX0KCm1rdmVudigpIHsgICMgbWt2ZW52IDxuYW1lPiA8cHl0aG9uLXZlcnNpb24+CiAgbG9jYWwgbj0kMSBweT0kezI6LTMuMTB9CiAgaWYgWyAteCAiJFZFTlMvJG4vYmluL3B5dGhvbiIgXTsgdGhlbgogICAgb2sgInZlbnYvJG4g5bey5a2Y5Zyo77yM6Lez6L+HIgogICAgcmV0dXJuIDAKICBmaQogIGlmIFsgIiRVViIgPSAiMSIgXTsgdGhlbgogICAgIyAtLXNlZWQg5omN5Lya6KOFIHBpcC9zZXR1cHRvb2xz77yb5rKh5pyJIHNlZWQg55qEIHV2IHZlbnYg5piv56m65aOzCiAgICB1diB2ZW52IC0tcHl0aG9uICIkcHkiIC0tc2VlZCAiJFZFTlMvJG4iID4vZGV2L251bGwgMj4mMSBcCiAgICAgIHx8IHV2IHZlbnYgLS1zZWVkICIkVkVOUy8kbiIgPi9kZXYvbnVsbCAyPiYxIFwKICAgICAgfHwgdXYgdmVudiAtLXB5dGhvbiAiJHB5IiAiJFZFTlMvJG4iID4vZGV2L251bGwgMj4mMSBcCiAgICAgIHx8IHV2IHZlbnYgIiRWRU5TLyRuIiA+L2Rldi9udWxsCiAgZWxzZQogICAgcHl0aG9uMyAtbSB2ZW52ICIkVkVOUy8kbiIKICBmaQogICMg5Y2H57qnIHBpcCDlpLHotKXkuI3nrpfplJnvvIh1diB2ZW52IOWPr+iDveacrOadpeWwseayoSBwaXDvvIxwaXBpbiDkvJrotbAgdXYgcGlw77yJCiAgIiRWRU5TLyRuL2Jpbi9weXRob24iIC1tIHBpcCBpbnN0YWxsIC1xIC0tdXBncmFkZSBwaXAgc2V0dXB0b29scyB3aGVlbCAyPi9kZXYvbnVsbCBcCiAgICB8fCBWSVJUVUFMX0VOVj0iJFZFTlMvJG4iIHV2IHBpcCBpbnN0YWxsIC1xIHBpcCBzZXR1cHRvb2xzIHdoZWVsIDI+L2Rldi9udWxsIFwKICAgIHx8IHRydWUKICBvayAidmVudi8kbiBjcmVhdGVkIgp9CgpwaXBpbigpIHsgICMgcGlwaW4gPHZlbnY+IDxhcmdzLi4uPgogIGxvY2FsIG49JDE7IHNoaWZ0CiAgaWYgWyAiJFVWIiA9ICIxIiBdOyB0aGVuCiAgICBWSVJUVUFMX0VOVj0iJFZFTlMvJG4iIHV2IHBpcCBpbnN0YWxsICIkQCIKICBlbHNlCiAgICAiJFZFTlMvJG4vYmluL3B5dGhvbiIgLW0gcGlwIGluc3RhbGwgLXEgIiRAIgogIGZpCn0KCiMgdG9yY2gg55SoIGN1MTI0IOi9ruWtkO+8iDQwOTAgPSBzbV84Oe+8jGN1MTIxL2N1MTI0IOmDveimhueblu+8m2N1MTI0IOeUn+aAgeacgOaWsO+8iQpUT1JDSF9JRFg9Imh0dHBzOi8vZG93bmxvYWQucHl0b3JjaC5vcmcvd2hsL2N1MTI0IgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnNheSAiMy4gQ29tZnlVSe+8iOWbvuWDjyArIOinhumikeS4u+W8leaTju+8iSIKaWYgWyAteiAiJENPTUZZIiBdOyB0aGVuCiAgZ2l0IGNsb25lIC0tZGVwdGggMSBodHRwczovL2dpdGh1Yi5jb20vY29tZnlhbm9ueW1vdXMvQ29tZnlVSS5naXQgIiRTUkMvQ29tZnlVSSIKICBDT01GWT0iJFJPT1QvQ29tZnlVSSIKZmkKY2QgIiRDT01GWSIKaWYgWyAteCAiJFZFTlMvY29tZnl1aS9iaW4vcHl0aG9uIiBdOyB0aGVuCiAgb2sgImNvbWZ5dWkgdmVudiDlt7LlrZjlnKgiCmVsc2UKICBta3ZlbnYgY29tZnl1aSAzLjExCiAgcGlwaW4gY29tZnl1aSB0b3JjaCB0b3JjaHZpc2lvbiB0b3JjaGF1ZGlvIC0taW5kZXgtdXJsICIkVE9SQ0hfSURYIgogIFsgLWYgcmVxdWlyZW1lbnRzLnR4dCBdICYmIHBpcGluIGNvbWZ5dWkgLXIgcmVxdWlyZW1lbnRzLnR4dCB8fCB0cnVlCmZpCm9rICJDb21meVVJOiAkQ09NRlkiCgojIOinhumikeeUn+aIkOW/hemcgOeahOiHquWumuS5ieiKgueCue+8iOS9k+enr+Wwj++8jOebtOaOpeijhe+8iQpzYXkgIjNiLiBDb21meVVJIOiHquWumuS5ieiKgueCuSIKQ049IiRDT01GWS9jdXN0b21fbm9kZXMiCm1rZGlyIC1wICIkQ04iCmNsb25lX25vZGUoKSB7ICAjIGNsb25lX25vZGUgPHJlcG8tdXJsPiA8ZGlyLW5hbWU+IDxyZXF1aXJlbWVudHM/PgogIGxvY2FsIHVybD0kMSBuYW1lPSQyIHJlcT0kezM6LTF9CiAgaWYgWyAtZCAiJENOLyRuYW1lLy5naXQiIF07IHRoZW4gb2sgIm5vZGUvJG5hbWUg5bey5a2Y5ZyoIjsgcmV0dXJuIDA7IGZpCiAgZ2l0IGNsb25lIC0tZGVwdGggMSAiJHVybCIgIiRDTi8kbmFtZSIgPi9kZXYvbnVsbCAyPiYxIHx8IHsgd2FybiAiY2xvbmUgJG5hbWUg5aSx6LSlIjsgcmV0dXJuIDA7IH0KICBpZiBbICIkcmVxIiA9ICIxIiBdICYmIFsgLWYgIiRDTi8kbmFtZS9yZXF1aXJlbWVudHMudHh0IiBdOyB0aGVuCiAgICBwaXBpbiBjb21meXVpIC1yICIkQ04vJG5hbWUvcmVxdWlyZW1lbnRzLnR4dCIgPi9kZXYvbnVsbCAyPiYxIHx8IHdhcm4gIiRuYW1lIGRlcHMg6YOo5YiG5aSx6LSlIgogIGZpCiAgb2sgIm5vZGUvJG5hbWUiCn0KY2xvbmVfbm9kZSBodHRwczovL2dpdGh1Yi5jb20vbHRkcmRhdGEvQ29tZnlVSS1NYW5hZ2VyIENvbWZ5VUktTWFuYWdlciAwCmNsb25lX25vZGUgaHR0cHM6Ly9naXRodWIuY29tL2N1YmlxL0NvbWZ5VUlfZXNzZW50aWFscyBDb21meVVJX2Vzc2VudGlhbHMgMQpjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9raWphaS9Db21meVVJLUtKTm9kZXMgQ29tZnlVSS1LSk5vZGVzIDEKY2xvbmVfbm9kZSBodHRwczovL2dpdGh1Yi5jb20vRmFubm92ZWwxNi9jb21meXVpX2NvbnRyb2xuZXRfYXV4IGNvbWZ5dWlfY29udHJvbG5ldF9hdXggMQpjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9jdWJpcS9Db21meVVJX0lQQWRhcHRlcl9wbHVzIENvbWZ5VUlfSVBBZGFwdGVyX3BsdXMgMApjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9Lb3NpbmthZGluay9Db21meVVJLVZpZGVvSGVscGVyU3VpdGUgQ29tZnlVSS1WaWRlb0hlbHBlclN1aXRlIDEKY2xvbmVfbm9kZSBodHRwczovL2dpdGh1Yi5jb20va2lqYWkvQ29tZnlVSS1XYW5WaWRlb1dyYXBwZXIgQ29tZnlVSS1XYW5WaWRlb1dyYXBwZXIgMQpjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9yZ3RocmVlL3JndGhyZWUtY29tZnkgcmd0aHJlZS1jb21meSAwCmNsb25lX25vZGUgaHR0cHM6Ly9naXRodWIuY29tL3B5dGhvbmdvc3Nzc3MvQ29tZnlVSS1DdXN0b20tU2NyaXB0cyBDb21meVVJLUN1c3RvbS1TY3JpcHRzIDAKY2xvbmVfbm9kZSBodHRwczovL2dpdGh1Yi5jb20vY2l0eTk2L0NvbWZ5VUktR0dVRiBDb21meVVJLUdHVUYgMQpjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9jaHJpc2dvcmluZ2UvY2ctdXNlLWV2ZXJ5d2hlcmUgY2ctdXNlLWV2ZXJ5d2hlcmUgMApjbG9uZV9ub2RlIGh0dHBzOi8vZ2l0aHViLmNvbS9XQVNhc3F1YXRjaC93YXMtbm9kZS1zdWl0ZS1jb21meXVpIHdhcy1ub2RlLXN1aXRlLWNvbWZ5dWkgMQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnNheSAiNC4gR1BULVNvVklUU++8iOWboOW5oeW3oSDlhYvpmobkuLvlipsgLyDotKjph4/kuIrpmZDvvIkiCmlmIFsgISAtZCAiJFNSQy9HUFQtU29WSVRTLy5naXQiIF07IHRoZW4KICBnaXQgY2xvbmUgLS1kZXB0aCAxIGh0dHBzOi8vZ2l0aHViLmNvbS9SVkMtQm9zcy9HUFQtU29WSVRTLmdpdCAiJFNSQy9HUFQtU29WSVRTIgpmaQppZiBbIC14ICIkVkVOUy9ncHRzb3ZpdHMvYmluL3B5dGhvbiIgXTsgdGhlbgogIG9rICJncHRzb3ZpdHMgdmVudiDlt7LlrZjlnKgiCmVsc2UKICBta3ZlbnYgZ3B0c292aXRzIDMuMTAKICBwaXBpbiBncHRzb3ZpdHMgdG9yY2ggdG9yY2h2aXNpb24gdG9yY2hhdWRpbyAtLWluZGV4LXVybCAiJFRPUkNIX0lEWCIKICBwaXBpbiBncHRzb3ZpdHMgLXIgIiRTUkMvR1BULVNvVklUUy9yZXF1aXJlbWVudHMudHh0IiB8fCB3YXJuICJHUFQtU29WSVRTIHJlcXVpcmVtZW50cyDmnInlpLHotKXpobkiCiAgIyDkuK3mlofpnIDopoEgZzJwdyAvIHB5b3Blbmp0YWxr77yM5pel5paH6ZyA6KaBIHB5b3Blbmp0YWxrCiAgcGlwaW4gZ3B0c292aXRzIHB5b3Blbmp0YWxrIGcycF9lbiB8fCB0cnVlCmZpCm9rICJHUFQtU29WSVRTOiAkU1JDL0dQVC1Tb1ZJVFMiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBWb3hDUE0yIOaUvuWcqCBNSU4g5Yik5patKirkuYvlpJYqKu+8muWug+aYr+WboOW5oeW3oemFjemfs+eahOS4u+WKm+W8leaTju+8jOS4jeaYr+WPr+mAiemhueOAggojIDIwMjYtMTAtMjIg5o2i5bCG5L6d5o2u77ya5pel6K+t6Zu25qC35pys6Z+z6Imy55u45Ly85bqmIFZveENQTTIgMC44MjUgdnMgTWluZy0zLjAgMC43NjXvvJsKIyDovpPlh7ogNDhrSHog55u05Ye677yIMTZrIOWPguiAg+mfs+e7jyBBdWRpb1ZBRSBWMiDpnZ7lr7nnp7DnvJbop6PnoIHvvInvvIxSVEYgfjAuMyBvbiA0MDkw44CCCiMg6LWwIFB5UEkg5YyFIHZveGNwbe+8m+WumOaWueimgeaxgiBQeXRob24gPj0zLjEwIDwzLjEz44CBUHlUb3JjaCA+PTIuNeOAgUNVREEgPj0xMuOAggojIOadg+mHjeS4jeWcqOmVnOWDj+mHjO+8jOeUsSBmZXRjaF9tb2RlbHMuc2ggLS10aWVyIHZveCDlnKjlrp7kvovkuIrkuIvovb3vvIg0Ljk2IEdC77yJ44CCCnNheSAiNWIuIFZveENQTTLvvIgyQiAvIDQ4a0h6IOebtOWHuiAvIOWboOW5oeW3oeaXpeivreWFi+mahuS4u+WKmyAvIEFwYWNoZS0yLjDvvIkiCmlmIFsgLXggIiRWRU5TL3ZveC9iaW4vcHl0aG9uIiBdOyB0aGVuCiAgb2sgInZveCB2ZW52IOW3suWtmOWcqCIKZWxzZQogIG1rdmVudiB2b3ggMy4xMQogIHBpcGluIHZveCB0b3JjaCB0b3JjaHZpc2lvbiB0b3JjaGF1ZGlvIC0taW5kZXgtdXJsICIkVE9SQ0hfSURYIiB8fCB3YXJuICJ2b3ggdG9yY2gg5a6J6KOF5aSx6LSlIgogIHBpcGluIHZveCB2b3hjcG0gZmFzdGFwaSB1dmljb3JuIHNvdW5kZmlsZSBudW1weSBweWRhbnRpYyBcCiAgICB8fCB3YXJuICJ2b3hjcG0g5a6J6KOF5aSx6LSl77yI5qOA5p+lICRQSVBfSU5ERVhfVVJMIOaYr+WQpuWPr+i+vu+8iSIKICBpZiAiJFZFTlMvdm94L2Jpbi9weXRob24iIC1jICJmcm9tIHZveGNwbSBpbXBvcnQgVm94Q1BNIiAyPi9kZXYvbnVsbDsgdGhlbgogICAgb2sgInZveGNwbSDlj6/lr7zlhaUiCiAgZWxzZQogICAgd2FybiAidm94Y3BtIOWvvOWFpeWksei0pSDigJTigJQg5Zug5bmh5beh6YWN6Z+z5Zue6JC95YiwIEluZGV4VFRTLTIuNSAvIE1pbmciCiAgZmkKZmkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQppZiBbICIkTUlOIiA9ICIwIiBdOyB0aGVuCnNheSAiNS4gSW5kZXhUVFMtMi4177yIQuermeW8gOa6kO+8jOS4reaWh+aDheaEn+aOp+WItuacgOWlveS5i+S4gCAvIOS7k+W6kyB2Mi41LjDvvIkiCiMgMjAyNi0xMC0yMu+8muaXp+aWh+aho+WGmeeahOOAjGluZGV4LXR0czowLjMuMCDplZzlg4/jgI3lnKjku5PlupPph4zmsqHmnInlr7nlupQgdGFnIOKAlOKAlCDlrp7pmYUKIyByZWxlYXNlIOWPquaciSB2MS41LjAgLyB2Mi4wLjAgLyB2Mi41LjDvvIzmlYXplIEgdjIuNS4w44CCCmlmIFsgISAtZCAiJFNSQy9pbmRleC10dHMvLmdpdCIgXTsgdGhlbgogIGdpdCBjbG9uZSAtLWRlcHRoIDEgLS1icmFuY2ggdjIuNS4wIGh0dHBzOi8vZ2l0aHViLmNvbS9pbmRleC10dHMvaW5kZXgtdHRzLmdpdCAiJFNSQy9pbmRleC10dHMiIDI+L2Rldi9udWxsIFwKICAgIHx8IGdpdCBjbG9uZSAtLWRlcHRoIDEgaHR0cHM6Ly9naXRodWIuY29tL2luZGV4LXR0cy9pbmRleC10dHMuZ2l0ICIkU1JDL2luZGV4LXR0cyIgXAogICAgfHwgd2FybiAiaW5kZXgtdHRzIGNsb25lIOWksei0pSIKZmkKaWYgWyAtZCAiJFNSQy9pbmRleC10dHMiIF0gJiYgWyAhIC14ICIkVkVOUy9pbmRleC9iaW4vcHl0aG9uIiBdOyB0aGVuCiAgbWt2ZW52IGluZGV4IDMuMTAKICBwaXBpbiBpbmRleCB0b3JjaCB0b3JjaHZpc2lvbiB0b3JjaGF1ZGlvIC0taW5kZXgtdXJsICIkVE9SQ0hfSURYIiB8fCB0cnVlCiAgWyAtZiAiJFNSQy9pbmRleC10dHMvcHlwcm9qZWN0LnRvbWwiIF0gJiYgcGlwaW4gaW5kZXggLWUgIiRTUkMvaW5kZXgtdHRzIiB8fCB0cnVlCmZpCgpzYXkgIjVjLiBNZWdhVFRTM++8iOmbtuagt+acrOWFi+mahu+8jOWtl+iKgu+8jOmfs+iJsuebuOS8vOW6pumrmO+8iSIKaWYgWyAhIC1kICIkU1JDL01lZ2FUVFMzLy5naXQiIF07IHRoZW4KICBnaXQgY2xvbmUgLS1kZXB0aCAxIGh0dHBzOi8vZ2l0aHViLmNvbS9ieXRlZGFuY2UvTWVnYVRUUzMuZ2l0ICIkU1JDL01lZ2FUVFMzIiB8fCB3YXJuICJNZWdhVFRTMyBjbG9uZSDlpLHotKUiCmZpCmlmIFsgLWQgIiRTUkMvTWVnYVRUUzMiIF0gJiYgWyAhIC14ICIkVkVOUy9tZWdhdHRzL2Jpbi9weXRob24iIF07IHRoZW4KICBta3ZlbnYgbWVnYXR0cyAzLjEwCiAgcGlwaW4gbWVnYXR0cyB0b3JjaCB0b3JjaHZpc2lvbiB0b3JjaGF1ZGlvIC0taW5kZXgtdXJsICIkVE9SQ0hfSURYIiB8fCB0cnVlCiAgWyAtZiAiJFNSQy9NZWdhVFRTMy9yZXF1aXJlbWVudHMudHh0IiBdICYmIHBpcGluIG1lZ2F0dHMgLXIgIiRTUkMvTWVnYVRUUzMvcmVxdWlyZW1lbnRzLnR4dCIgfHwgdHJ1ZQpmaQoKc2F5ICI3LiBRd2VuMy1UVFMgMS43Qu+8iOS4u+WKm+mFjemfsyAvIOmbtuagt+acrOWFi+mahiAvIOWjsOmfs+iuvuiuoe+8jGFwYWNoZS0yLjDvvIkiCiMg6ZyA6KaBIFB5dGhvbiAzLjEy77yacXdlbi10dHMg5a6Y5pa56KaB5rGC44CC5LiOIGNvbWZ5dWkoMy4xMSkg6ZqU56a777yM5LqS5LiN5rGh5p+T44CCCmlmIFsgLXggIiRWRU5TL3F3ZW4zdHRzL2Jpbi9weXRob24iIF07IHRoZW4KICBvayAicXdlbjN0dHMgdmVudiDlt7LlrZjlnKgiCmVsc2UKICAjIOWumOaWueaOqOiNkCAzLjEy77yb5ouJ5LiN5Yiw5bCx6YCAIDMuMTEgLyDns7vnu5/oh6rluKYgMy4xMO+8jOijheWujOeUqCBpbXBvcnQg5a6e5rWL5YWc5bqVCiAgVFRTX1BZPSIiCiAgZm9yIHB5diBpbiAzLjEyIDMuMTEgMy4xMDsgZG8KICAgIHJtIC1yZiAiJFZFTlMvcXdlbjN0dHMiCiAgICBpZiBbICIkVVYiID0gIjEiIF07IHRoZW4KICAgICAgdXYgdmVudiAtLXB5dGhvbiAiJHB5diIgIiRWRU5TL3F3ZW4zdHRzIiA+L2Rldi9udWxsIDI+JjEgfHwgY29udGludWUKICAgIGVsc2UKICAgICAgcHl0aG9uMyAtbSB2ZW52ICIkVkVOUy9xd2VuM3R0cyIgPi9kZXYvbnVsbCAyPiYxIHx8IGNvbnRpbnVlCiAgICBmaQogICAgVFRTX1BZPSRweXY7IGJyZWFrCiAgZG9uZQogIGlmIFsgLXogIiRUVFNfUFkiIF07IHRoZW4KICAgIHdhcm4gInF3ZW4zdHRzIHZlbnYg5Yib5bu65aSx6LSl77yIdXYg5ouJ5LiN5YiwIDMuMTIvMy4xMe+8jOezu+e7nyBweXRob24zIOS5n+S4jeWPr+eUqO+8iSIKICBlbHNlCiAgICBvayAidmVudi9xd2VuM3R0cyBvbiBQeXRob24gJFRUU19QWSIKICAgIHBpcGluIHF3ZW4zdHRzIHRvcmNoIHRvcmNodmlzaW9uIHRvcmNoYXVkaW8gLS1pbmRleC11cmwgIiRUT1JDSF9JRFgiIHx8IHdhcm4gInF3ZW4zdHRzIHRvcmNoIOWuieijheWksei0pSIKICAgIHBpcGluIHF3ZW4zdHRzIHF3ZW4tdHRzIGZhc3RhcGkgdXZpY29ybiBzb3VuZGZpbGUgbnVtcHkgcHlkYW50aWMgXAogICAgICB8fCB3YXJuICJxd2VuLXR0cyDlronoo4XlpLHotKXvvIjmo4Dmn6UgJFBJUF9JTkRFWF9VUkwg5piv5ZCm5Y+v6L6+IC8gUHl0aG9uIOeJiOacrO+8iSIKICAgICMg55yf5a6e6aqM6K+B77yM6ICM5LiN5piv44CM6KOF5a6M5bCx5b2T5oiQ5Yqf44CNCiAgICBpZiAiJFZFTlMvcXdlbjN0dHMvYmluL3B5dGhvbiIgLWMgImltcG9ydCBxd2VuX3R0cywgZmFzdGFwaSwgc291bmRmaWxlIiAyPi9kZXYvbnVsbDsgdGhlbgogICAgICBvayAicXdlbl90dHMg5Y+v5a+85YWlIgogICAgZWxzZQogICAgICB3YXJuICJxd2VuX3R0cyDlr7zlhaXlpLHotKUg4oCU4oCUIOmFjemfs+WKn+iDveS4jeWPr+eUqO+8jOWFtuS9meS4jeWPl+W9seWTjSIKICAgIGZpCiAgICAjIGZsYXNoLWF0dG4g5piv5Y+v6YCJ5Yqg6YCf77yb57yW6K+R5Y+v6IO95Y2B5Yeg5YiG6ZKf77yM5aSx6LSl55Sx5pyN5Yqh56uv6Ieq5Yqo6YCA5ZueIHNkcGEKICAgIGlmIHBpcGluIHF3ZW4zdHRzIGZsYXNoLWF0dG4gLS1uby1idWlsZC1pc29sYXRpb24gPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgICAgIG9rICJmbGFzaC1hdHRuIOW3suijhSIKICAgIGVsc2UKICAgICAgd2FybiAiZmxhc2gtYXR0biDmnKroo4Ug4oaSIHF3ZW4zX3R0c19zZXJ2ZXIucHkg5Lya55SoIHNkcGHvvIjmhaLkuIDkupvvvIzlip/og73kuIDoh7TvvIkiCiAgICBmaQogIGZpCmZpCgpzYXkgIjdiLiBNaW5nLTMuMC10dHPvvIhBQSDlhYvpmobmppzlvIDmupDnrKzkuIAgwrcg5Lit5paHL+aXpeivrSDCtyA0NC4xIGtIeiDCtyBNSVTvvIkiCk1JTkdfUkVQTz0iJFNSQy9NaW5nLTMuMC10dHMiCmlmIFsgISAtZCAiJE1JTkdfUkVQTy8uZ2l0IiBdOyB0aGVuCiAgZ2l0IGNsb25lIC0tZGVwdGggMSBodHRwczovL2dpdGh1Yi5jb20vaW5jbHVzaW9uQUkvTWluZy0zLjAtdHRzLmdpdCAiJE1JTkdfUkVQTyIgXAogICAgfHwgd2FybiAiTWluZy0zLjAtdHRzIGNsb25lIOWksei0pSIKZmkKaWYgWyAtZCAiJE1JTkdfUkVQTyIgXSAmJiBbICEgLXggIiRWRU5TL21pbmd0dHMvYmluL3B5dGhvbiIgXTsgdGhlbgogIG1rdmVudiBtaW5ndHRzIDMuMTEKICAjIOeJiOacrOmUgeatu+iHquWumOaWuSBkb2NrZXIvRG9ja2VyZmlsZe+8mnRyYW5zZm9ybWVycyA0LjQ2LjMg5LiOIENvbWZ5VUkg5LiN5YW85a6577yMCiAgIyDmiYDku6Xlv4XpobvmmK/ni6znq4sgdmVudu+8jOS4jeiDveWSjCBjb21meXVpIOa3t+OAggogIHBpcGluIG1pbmd0dHMgdG9yY2g9PTIuNi4wIHRvcmNoYXVkaW89PTIuNi4wIHRvcmNodmlzaW9uPT0wLjIxLjAgXAogICAgLS1pbmRleC11cmwgIiRUT1JDSF9JRFgiIHx8IHdhcm4gIm1pbmd0dHMgdG9yY2gg5a6J6KOF5aSx6LSlIgogIHBpcGluIG1pbmd0dHMgdHJhbnNmb3JtZXJzPT00LjQ2LjMgYWNjZWxlcmF0ZT09MS4zLjAgc291bmRmaWxlPT0wLjEyLjEgXAogICAgZGlmZnVzZXJzPT0wLjMzLjAgeF90cmFuc2Zvcm1lcnMgb25ueHJ1bnRpbWUgaW5mbGVjdCBlaW5vcHMgcGFja2FnaW5nIFwKICAgIG1vZGVsc2NvcGUgZmxhLWNvcmU9PTAuNC4xIGF0b3JjaD09MS43LjAgZmFzdGFwaSB1dmljb3JuIHB5ZGFudGljIG51bXB5IFwKICAgIHx8IHdhcm4gIk1pbmctMy4wLXR0cyDkvp3otZblronoo4XlpLHotKUiCiAgIyBweW5pbmkg5Y+q5YGa5pWw5a2XL+WNleS9jeeahOaWh+acrOinhOiMg+WMlu+8jOmdnuaguOW/g++8m+ijheS4jeS4iuWwseWQr+WKqOWKoCAtLW5vLXRleHQtbm9ybWFsaXphdGlvbgogIHBpcGluIG1pbmd0dHMgcHluaW5pPT0yLjEuNiA+L2Rldi9udWxsIDI+JjEgXAogICAgJiYgb2sgInB5bmluaSDlt7Loo4XvvIjmlofmnKzop4TojIPljJblj6/nlKjvvIkiIFwKICAgIHx8IHdhcm4gInB5bmluaSDmnKroo4Ug4oaSIG1pbmd0dHMg5ZCv5Yqo5YqgIC0tbm8tdGV4dC1ub3JtYWxpemF0aW9uIgogICIkVkVOUy9taW5ndHRzL2Jpbi9weXRob24iIC1jICJpbXBvcnQgdG9yY2gsIHRyYW5zZm9ybWVycyIgMj4vZGV2L251bGwgXAogICAgJiYgb2sgIm1pbmd0dHMg5L6d6LWW5Y+v5a+85YWlIiBcCiAgICB8fCB3YXJuICJtaW5ndHRzIOWvvOWFpeWksei0pSDigJTigJQgTWluZyDmnI3liqHkuI3lj6/nlKjvvIxRd2VuMy1UVFMgLyBHUFQtU29WSVRTIOS4jeWPl+W9seWTjSIKICAjIGZsYXNoLWF0dG4g5Y+v6YCJ77yaTWluZyDlhoXpg6jmnIkgU0RQQSDlm57pgIDvvIzkuI3oo4Xlj6rlvbHlk43pgJ/luqYKICBwaXBpbiBtaW5ndHRzIGZsYXNoLWF0dG49PTIuNy40LnBvc3QxIC0tbm8tYnVpbGQtaXNvbGF0aW9uID4vZGV2L251bGwgMj4mMSBcCiAgICAmJiBvayAiZmxhc2gtYXR0biDlt7Loo4UiIFwKICAgIHx8IHdhcm4gImZsYXNoLWF0dG4g5pyq6KOFIOKGkiBNaW5nIOi1sCBTRFBB77yI5oWi5LiA5Lqb77yM5Yqf6IO95LiA6Ie077yJIgpmaQoKc2F5ICI4LiBNb2VHb2UgKyDlm6DluaHlt6HmiJDlk4EgVklUUyDlo7DlupPvvIjpm7borq3nu4PvvIzml6DpnIDlj4LogIPpn7PpopHvvIkiCk1FR09FX1JFUE89IiRTUkMvTW9lR29lIgppZiBbICEgLWQgIiRNRUdPRV9SRVBPLy5naXQiIF07IHRoZW4KICBnaXQgY2xvbmUgLS1kZXB0aCAxIGh0dHBzOi8vZ2l0aHViLmNvbS9DamFuZ0NqZW5naC9Nb2VHb2UuZ2l0ICIkTUVHT0VfUkVQTyIgXAogICAgfHwgd2FybiAiTW9lR29lIGNsb25lIOWksei0pSIKZmkKaWYgWyAtZCAiJE1FR09FX1JFUE8iIF0gJiYgWyAhIC14ICIkVkVOUy92aXRzL2Jpbi9weXRob24iIF07IHRoZW4KICBta3ZlbnYgdml0cyAzLjEwCiAgcGlwaW4gdml0cyB0b3JjaCB0b3JjaGF1ZGlvIC0taW5kZXgtdXJsICIkVE9SQ0hfSURYIiB8fCB3YXJuICJ2aXRzIHRvcmNoIOWuieijheWksei0pSIKICAjIE1vZUdvZSDnmoQgemhfamFfbWl4dHVyZV9jbGVhbmVycyDkvp3otZbov5nlh6DkuKrvvJpqaWViYS9weXBpbnlpbiDnrqHkuK3mlofvvIwKICAjIGphY29udi9weW9wZW5qdGFsayDnrqHml6Xor63vvIxnMnBfZW4g5YWc6Iux5paH44CC57y65LiA5LiqIGNsZWFuZXIg5bCx5oqbIEtleUVycm9y44CCCiAgcGlwaW4gdml0cyBudW1weSBzY2lweSBsaWJyb3NhIGppZWJhIHB5cGlueWluIGphY29udiBweW9wZW5qdGFsayBnMnBfZW4gXAogICAgZmFzdGFwaSB1dmljb3JuIHNvdW5kZmlsZSBweWRhbnRpYyBcCiAgICB8fCB3YXJuICJNb2VHb2Ug5L6d6LWW5a6J6KOF5aSx6LSlIgogICIkVkVOUy92aXRzL2Jpbi9weXRob24iIC1jICJpbXBvcnQgdG9yY2gsIGppZWJhLCBweW9wZW5qdGFsayIgMj4vZGV2L251bGwgXAogICAgJiYgb2sgInZpdHMg5L6d6LWW5Y+v5a+85YWlIiBcCiAgICB8fCB3YXJuICJ2aXRzIOWvvOWFpeWksei0pSDigJTigJQg5Y+q5b2x5ZON5oiQ5ZOBIFZJVFMg5aOw5bqT77yMTWluZyAvIFF3ZW4zLVRUUyDkuI3lj5flvbHlk40iCmZpCgpzYXkgIjkuIGZhc3Rlci13aGlzcGVy77yI5a2X5bmVIC8g5q2M6K+N5a+56b2QIC8g6K+t5paZ5YiH5YiG77yJIgpta3ZlbnYgYXNyIDMuMTEKcGlwaW4gYXNyIGZhc3Rlci13aGlzcGVyID4vZGV2L251bGwgMj4mMSAmJiBvayAiZmFzdGVyLXdoaXNwZXIiIHx8IHdhcm4gImZhc3Rlci13aGlzcGVyIOWuieijheWksei0pSIKCnNheSAiMTAuIGF1ZGlvLXNlcGFyYXRvcu+8iOS6uuWjsOWIhuemuyBVVlLvvIzor63mlpnmuIXmtJcgLyDop4bpopHphY3kuZDliIbnprvvvIkiCm1rdmVudiBzZXAgMy4xMQpwaXBpbiBzZXAgYXVkaW8tc2VwYXJhdG9yIG9ubnhydW50aW1lLWdwdSA+L2Rldi9udWxsIDI+JjEgJiYgb2sgImF1ZGlvLXNlcGFyYXRvciIgfHwgd2FybiAiYXVkaW8tc2VwYXJhdG9yIOWuieijheWksei0pSIKZmkgICMgTUlOCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Kc2F5ICIxMS4g5qih5Z6L55uu5b2V6L2v6ZO+77yIQ29tZnlVSSDmjIflkJHlhbHkuqvlrZjlgqjljbfvvIkiCm1rZGlyIC1wICIkTU9ERUxTIi97ZGlmZnVzaW9uX21vZGVscyx0ZXh0X2VuY29kZXJzLHZhZSxsb3JhcyxjaGVja3BvaW50cyxjbGlwX3Zpc2lvbix1cHNjYWxlX21vZGVscyxhdWRpb19lbmNvZGVycyxjb250cm9sbmV0fQppZiBbIC1kICIkQ09NRlkvbW9kZWxzIiBdICYmIFsgISAtTCAiJENPTUZZL21vZGVscyIgXTsgdGhlbgogICMg5L+d55WZ6ZWc5YOP6Ieq5bim55qE5bCR6YeP5paH5Lu277yM5YW25L2Z6LWw6L2v6ZO+CiAgZm9yIHN1YiBpbiBkaWZmdXNpb25fbW9kZWxzIHRleHRfZW5jb2RlcnMgdmFlIGxvcmFzIGNsaXBfdmlzaW9uIHVwc2NhbGVfbW9kZWxzIGF1ZGlvX2VuY29kZXJzIGNvbnRyb2xuZXQ7IGRvCiAgICBpZiBbICEgLWUgIiRDT01GWS9tb2RlbHMvJHN1YiIgXTsgdGhlbgogICAgICBsbiAtc2ZuICIkTU9ERUxTLyRzdWIiICIkQ09NRlkvbW9kZWxzLyRzdWIiCiAgICBlbGlmIFsgLWQgIiRDT01GWS9tb2RlbHMvJHN1YiIgXSAmJiBbIC16ICIkKGxzIC1BICIkQ09NRlkvbW9kZWxzLyRzdWIiIDI+L2Rldi9udWxsKSIgXTsgdGhlbgogICAgICBybWRpciAiJENPTUZZL21vZGVscy8kc3ViIiAyPi9kZXYvbnVsbCAmJiBsbiAtc2ZuICIkTU9ERUxTLyRzdWIiICIkQ09NRlkvbW9kZWxzLyRzdWIiCiAgICBmaQogIGRvbmUKICBvayAi5bey6L2v6ZO+77yI6Iul5bey5pyJ5paH5Lu25YiZ5LiN6KaG55uW77yJIgpmaQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnNheSAiMTIuIOW3peS9nOa1geaooeadvyIKbWtkaXIgLXAgIiRST09UL3dvcmtmbG93cyIKX2hlcmU9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXTotJDB9IikiICYmIHB3ZCkiCmlmIFsgLWQgIiRfaGVyZS8uLi93b3JrZmxvd3MiIF07IHRoZW4KICBpZiBjcCAtZiAiJF9oZXJlLy4uL3dvcmtmbG93cy8iKi5qc29uICIkUk9PVC93b3JrZmxvd3MvIiAyPi9kZXYvbnVsbDsgdGhlbgogICAgb2sgIuW3suWwseS9jSAkUk9PVC93b3JrZmxvd3Mv77yaJChscyAiJFJPT1Qvd29ya2Zsb3dzIiB8IHRyICdcbicgJyAnKSIKICBlbHNlCiAgICB3YXJuICLlt6XkvZzmtYHmi7fotJ3lpLHotKXvvIjmupDnm67lvZUgJF9oZXJlLy4uL3dvcmtmbG93c++8iSIKICBmaQplbHNlCiAgd2FybiAi5rKh5om+5YiwIHdvcmtmbG93cy8g55uu5b2V77yM6Lez6L+H77yIcnVuX3dmLnNoIOmcgOimgeWug++8iSIKZmkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpzYXkgIjEzLiDlhpnlhaXnu5/kuIDlhaXlj6MiCm1rZGlyIC1wICIkUk9PVC9iaW4iCmNhdCA+ICIkUk9PVC9iaW4vY29tZnl1aSIgPDwnRU9GJwojIS91c3IvYmluL2VudiBiYXNoCmV4ZWMgL3Jvb3QvdmVudnMvY29tZnl1aS9iaW4vcHl0aG9uICIke0NPTUZZX0RJUjotL3Jvb3QvQ29tZnlVSX0vbWFpbi5weSIgLS1saXN0ZW4gMC4wLjAuMCAtLXBvcnQgODE4OCAiJEAiCkVPRgpjaG1vZCAreCAiJFJPT1QvYmluL2NvbWZ5dWkiCgpjYXQgPiAiJFJPT1QvYmluL3F3ZW4zdHRzIiA8PCdFT0YnCiMhL3Vzci9iaW4vZW52IGJhc2gKIyDlkK/liqggUXdlbjMtVFRTIEhUVFAg5pyN5Yqh77yIOjk4ODDvvInjgILmqKHlnovmjInpnIDmh5LliqDovb3vvIxIMyDmiqLmmL7lrZjml7bosIMgL3VubG9hZCDnq4vliLvohb7nqbrjgIIKZXhlYyAvcm9vdC92ZW52cy9xd2VuM3R0cy9iaW4vcHl0aG9uICIke1RUU19TRVJWRVI6LS9yb290L3NjcmlwdHMvcXdlbjNfdHRzX3NlcnZlci5weX0iIFwKICAtLW1vZGVscyAiJHtUVFNfTU9ERUxTOi0vcm9vdC9kYXRhL21vZGVscy90dHMvcXdlbjMtdHRzfSIgXAogIC0tcHJvbXB0LWRpciAiJHtWT0lDRV9QUk9NUFRTOi0vcm9vdC9kYXRhL3ZvaWNlLXByb21wdHN9IiAiJEAiCkVPRgpjaG1vZCAreCAiJFJPT1QvYmluL3F3ZW4zdHRzIgoKY2F0ID4gIiRST09UL2Jpbi9taW5ndHRzIiA8PCdFT0YnCiMhL3Vzci9iaW4vZW52IGJhc2gKIyDlkK/liqggTWluZy0zLjAtdHRzIEhUVFAg5pyN5Yqh77yIOjk4ODHvvInjgILkuI4gUXdlbjMtVFRTIOS6jOmAieS4gOW4uOmpu++8jOWIq+WQjOaXtuaMguedgOaKouaYvuWtmOOAggojIHB5bmluaSDmsqHoo4Xml7boh6rliqjooaUgLS1uby10ZXh0LW5vcm1hbGl6YXRpb27jgIIKTk9STT0iIgovcm9vdC92ZW52cy9taW5ndHRzL2Jpbi9weXRob24gLWMgImltcG9ydCBweW5pbmkiIDI+L2Rldi9udWxsIHx8IE5PUk09Ii0tbm8tdGV4dC1ub3JtYWxpemF0aW9uIgpleGVjIC9yb290L3ZlbnZzL21pbmd0dHMvYmluL3B5dGhvbiAiJHtNSU5HX1NFUlZFUjotL3Jvb3Qvc2NyaXB0cy9taW5nX3R0c19zZXJ2ZXIucHl9IiBcCiAgLS1tb2RlbHMgIiR7TUlOR19NT0RFTFM6LS9yb290L2RhdGEvbW9kZWxzL3R0cy9taW5nLTMuMC10dHN9IiBcCiAgLS1yZXBvICIke01JTkdfUkVQTzotL3Jvb3Qvc3JjL01pbmctMy4wLXR0c30iICROT1JNICIkQCIKRU9GCmNobW9kICt4ICIkUk9PVC9iaW4vbWluZ3R0cyIKCmNhdCA+ICIkUk9PVC9iaW4vdml0cyIgPDwnRU9GJwojIS91c3IvYmluL2VudiBiYXNoCiMg5ZCv5Yqo5Zug5bmh5beh5oiQ5ZOBIFZJVFMg5aOw5bqT5pyN5Yqh77yIOjk4ODLvvInjgILkuI3pnIDopoHlj4LogIPpn7PpopHvvIzmnYPph43kuIvlrozlsLHog73lh7rlo7DjgIIKIyDmjaLlo7DlupPvvJpWSVRTX01PREVMPW1vZXR0cyB2aXRzCmV4ZWMgL3Jvb3QvdmVudnMvdml0cy9iaW4vcHl0aG9uICIke1ZJVFNfU0VSVkVSOi0vcm9vdC9zY3JpcHRzL3ZpdHNfdHRzX3NlcnZlci5weX0iIFwKICAtLXBvcnQgIiR7VklUU19QT1JUOi05ODgyfSIgIiRAIgpFT0YKY2htb2QgK3ggIiRST09UL2Jpbi92aXRzIgoKY2F0ID4gIiRST09UL2Jpbi92b3hjcG0iIDw8J0VPRicKIyEvdXNyL2Jpbi9lbnYgYmFzaAojIOWQr+WKqCBWb3hDUE0yIEhUVFAg5pyN5Yqh77yIOjk4ODPvvInigJTigJQg5Zug5bmh5beh5pel6K+t5YWL6ZqG5Li75Yqb77yMNDhrSHog55u05Ye644CCCiMg5oeS5Yqg6L2977ya56ys5LiA5qyhIFBPU1Qg5omN5Y2g5pi+5a2Y77ybSDMg5Ye654mH5YmNIGN1cmwgLVhQT1NUIDo5ODgzL3VubG9hZCDnq4vliLvohb7nqbrjgIIKZXhlYyAvcm9vdC92ZW52cy92b3gvYmluL3B5dGhvbiAiJHtWT1hfU0VSVkVSOi0vcm9vdC9zY3JpcHRzL3ZveF90dHNfc2VydmVyLnB5fSIgXAogIC0tbW9kZWxzICIke1ZPWF9NT0RFTFM6LS9yb290L2RhdGEvbW9kZWxzL3ZveGNwbTJ9IiBcCiAgLS1wb3J0ICIke1ZPWF9QT1JUOi05ODgzfSIgIiRAIgpFT0YKY2htb2QgK3ggIiRST09UL2Jpbi92b3hjcG0iCgpjYXQgPiAiJFJPT1QvZW52LnNoIiA8PCdFT0YnCiMgc291cmNlIC9yb290L2Vudi5zaApleHBvcnQgUEFUSD0iJEhPTUUvLmxvY2FsL2Jpbjovcm9vdC9iaW46JFBBVEgiCmV4cG9ydCBDT01GWV9ESVI9IiR7Q09NRllfRElSOi0vcm9vdC9Db21meVVJfSIKZXhwb3J0IE1PREVMUz0vcm9vdC9kYXRhL21vZGVscwpleHBvcnQgVFRTX01PREVMUz0vcm9vdC9kYXRhL21vZGVscy90dHMvcXdlbjMtdHRzCmV4cG9ydCBWSVRTX1JPT1Q9L3Jvb3QvZGF0YS9tb2RlbHMvdml0cwpleHBvcnQgVk9YX01PREVMUz0vcm9vdC9kYXRhL21vZGVscy92b3hjcG0yCmV4cG9ydCBNRUdPRV9ESVI9L3Jvb3Qvc3JjL01vZUdvZQpleHBvcnQgVk9JQ0VfUFJPTVBUUz0vcm9vdC9kYXRhL3ZvaWNlLXByb21wdHMKZXhwb3J0IFNSQ19ESVI9L3Jvb3Qvc3JjCmV4cG9ydCBIRl9FTkRQT0lOVD0iJHtIRl9FTkRQT0lOVDotaHR0cHM6Ly9oZi1taXJyb3IuY29tfSIKZXhwb3J0IEhGX0hPTUU9L3Jvb3QvZGF0YS9oZgpleHBvcnQgVE9SQ0hfSE9NRT0vcm9vdC9kYXRhL3RvcmNoCmV4cG9ydCBUUkFOU0ZPUk1FUlNfQ0FDSEU9L3Jvb3QvZGF0YS9oZi90cmFuc2Zvcm1lcnMKZXhwb3J0IEhGX0hVQl9FTkFCTEVfSEZfVFJBTlNGRVI9MQpleHBvcnQgUFlUT1JDSF9DVURBX0FMTE9DX0NPTkY9ZXhwYW5kYWJsZV9zZWdtZW50czpUcnVlCmV4cG9ydCBUT0tFTklaRVJTX1BBUkFMTEVMSVNNPWZhbHNlCkVPRgoKc2F5ICLlrozmiJAiCmNhdCA8PEVPRgoK5LiL5LiA5q2l77yaCiAgMSkgYmFzaCBmZXRjaF9tb2RlbHMuc2ggLS10aWVyIGNvcmUgICAgICMg5ouJ5qih5Z6L5p2D6YeN77yI5q+P5qGj6YO95bmC562J77yJCiAgMikgYmFzaCBkb2N0b3Iuc2ggICAgICAgICAgICAgICAgICAgICAgICAjIOmqjOivgQogIDMpIOWbnuaOp+WItuWPsOOAjOS/neWtmOmVnOWDj+OAjSAgICAgICAgICAgICAgICAgICAjIOingSBSRUFETUUg56ysIDUg6IqCCgp2ZW52IOa4heWNle+8miQobHMgIiRWRU5TIiAyPi9kZXYvbnVsbCB8IHRyICdcbicgJyAnKQrmqKHlnovnm67lvZXvvJokTU9ERUxTCkVPRgo=
+#!/usr/bin/env bash
+# setup_env.sh -- 共绩算力 4090 48G 镜像：环境层装配
+#
+# 设计前提（重要）：
+#   各家语音/视频框架对 torch / numpy / transformers 的版本要求互相冲突。
+#   例如 GPT-SoVITS 锁 torch 2.5.x，IndexTTS 要 2.6.x，ComfyUI 自带一套。
+#   所以本脚本给每个服务建**独立 venv**（/opt/venvs/<name>），绝不混装。
+#   代价是磁盘（每套 torch 约 2.5 GB），收益是可重复、可单独升级。
+#
+# 用法（云主机内，root）：
+#   bash setup_env.sh              # 全量
+#   bash setup_env.sh --min        # 只装 ComfyUI + 基础 TTS（省 ~12 GB）
+#   bash setup_env.sh --probe      # 只探测，不改系统
+#
+# 幂等：重复跑安全。已存在的 venv 会跳过。
+set -euo pipefail
+
+MIN=0
+PROBE=0
+for a in "$@"; do
+  case "$a" in
+    --min)   MIN=1 ;;
+    --probe) PROBE=1 ;;
+    *) echo "unknown arg: $a" >&2; exit 2 ;;
+  esac
+done
+
+ROOT=/root
+DATA=$ROOT/data
+MODELS=$DATA/models
+VENS=$ROOT/venvs
+LOGS=$ROOT/logs
+SRC=$ROOT/src
+
+say() { printf '\n\033[1;36m== %s\033[0m\n' "$*"; }
+ok()  { printf '\033[1;32m   ok\033[0m %s\n' "$*"; }
+warn(){ printf '\033[1;33m   !!\033[0m %s\n' "$*"; }
+
+# ----------------------------------------------------------------------------
+say "0. 探测现状"
+echo "  kernel     : $(uname -r)"
+echo "  os         : $(grep -E '^PRETTY_NAME' /etc/os-release 2>/dev/null | cut -d= -f2- | tr -d '\"')"
+echo "  python     : $(python3 -V 2>&1 || echo 'none')"
+echo "  pip        : $(python3 -m pip -V 2>&1 | cut -d' ' -f1-2 || echo 'none')"
+if command -v nvidia-smi >/dev/null 2>&1; then
+  nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv,noheader | sed 's/^/  gpu        : /'
+else
+  warn "nvidia-smi 不存在 -- 当前不在 GPU 容器里？装配可以继续，但无法验证显存"
+fi
+df -h / "$DATA" 2>/dev/null | sed 's/^/  df         : /'
+
+# ComfyUI 预装位置（社区基础镜像通常已带）
+COMFY=""
+for c in /root/ComfyUI /workspace/ComfyUI /app/ComfyUI /opt/ComfyUI; do
+  [ -d "$c" ] && COMFY=$c && break
+done
+echo "  comfyui    : ${COMFY:-<not found, will clone>}"
+
+if [ "$PROBE" = "1" ]; then
+  say "probe only, exit"
+  exit 0
+fi
+
+# ----------------------------------------------------------------------------
+say "1. 系统依赖"
+if command -v apt-get >/dev/null 2>&1; then
+  export DEBIAN_FRONTEND=noninteractive
+  apt-get update -qq
+  # ffmpeg: 所有音视频管线的地基; libsndfile: soundfile;
+  # build-essential/cmake: 编译 monotonic_align、rwkv、各种 C 扩展;
+  # git-lfs: 拉 HF 大权重; espeak-ng: 部分 TTS 的 G2P 兜底; libgl1: opencv
+  apt-get install -y -qq --no-install-recommends \
+    ffmpeg libsndfile1 build-essential cmake git git-lfs curl wget unzip \
+    espeak-ng libgl1 libglib2.0-0 sox unzip zstd aria2 tmux htop jq \
+    fonts-noto-cjk fontconfig
+  git lfs install --skip-repo >/dev/null 2>&1 || true
+  ok "apt 包就绪"
+else
+  warn "非 apt 系系统，跳过（若是 dnf 系请自行补 ffmpeg）"
+fi
+
+mkdir -p "$MODELS" "$VENS" "$LOGS" "$SRC"
+
+# ----------------------------------------------------------------------------
+say "2. uv + 国内源（比 pip 快一个量级，且 venv 管理干净）"
+# 平台容器不直连外网，pip 默认走 pypi.org 会长时间超时。统一换清华源。
+export PIP_INDEX_URL="${PIP_INDEX_URL:-https://pypi.tuna.tsinghua.edu.cn/simple}"
+export PIP_TRUSTED_HOST="${PIP_TRUSTED_HOST:-pypi.tuna.tsinghua.edu.cn}"
+export UV_DEFAULT_INDEX="${UV_DEFAULT_INDEX:-$PIP_INDEX_URL}"
+export UV_HTTP_TIMEOUT="${UV_HTTP_TIMEOUT:-120}"
+ok "pip 源 → $PIP_INDEX_URL"
+
+if ! command -v uv >/dev/null 2>&1; then
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  # 装到 ~/.local/bin
+  export PATH="$HOME/.local/bin:$PATH"
+  grep -q 'local/bin' "$HOME/.bashrc" 2>/dev/null || echo 'export PATH="$HOME/.local/bin:$PATH"' >> "$HOME/.bashrc"
+fi
+command -v uv >/dev/null 2>&1 && ok "uv $(uv --version | awk '{print $2}')" || { warn "uv 安装失败，回退 pip"; UV=0; }
+UV=${UV:-1}
+
+mkvenv() {  # mkvenv <name> <python-version>
+  local n=$1 py=${2:-3.10}
+  if [ -x "$VENS/$n/bin/python" ]; then
+    ok "venv/$n 已存在，跳过"
+    return 0
+  fi
+  if [ "$UV" = "1" ]; then
+    # --seed 才会装 pip/setuptools；没有 seed 的 uv venv 是空壳
+    uv venv --python "$py" --seed "$VENS/$n" >/dev/null 2>&1 \
+      || uv venv --seed "$VENS/$n" >/dev/null 2>&1 \
+      || uv venv --python "$py" "$VENS/$n" >/dev/null 2>&1 \
+      || uv venv "$VENS/$n" >/dev/null
+  else
+    python3 -m venv "$VENS/$n"
+  fi
+  # 升级 pip 失败不算错（uv venv 可能本来就没 pip，pipin 会走 uv pip）
+  "$VENS/$n/bin/python" -m pip install -q --upgrade pip setuptools wheel 2>/dev/null \
+    || VIRTUAL_ENV="$VENS/$n" uv pip install -q pip setuptools wheel 2>/dev/null \
+    || true
+  ok "venv/$n created"
+}
+
+pipin() {  # pipin <venv> <args...>
+  local n=$1; shift
+  if [ "$UV" = "1" ]; then
+    VIRTUAL_ENV="$VENS/$n" uv pip install "$@"
+  else
+    "$VENS/$n/bin/python" -m pip install -q "$@"
+  fi
+}
+
+# torch 用 cu124 轮子（4090 = sm_89，cu121/cu124 都覆盖；cu124 生态最新）
+TORCH_IDX="https://download.pytorch.org/whl/cu124"
+
+# ----------------------------------------------------------------------------
+say "3. ComfyUI（图像 + 视频主引擎）"
+if [ -z "$COMFY" ]; then
+  git clone --depth 1 https://github.com/comfyanonymous/ComfyUI.git "$SRC/ComfyUI"
+  COMFY="$ROOT/ComfyUI"
+fi
+cd "$COMFY"
+if [ -x "$VENS/comfyui/bin/python" ]; then
+  ok "comfyui venv 已存在"
+else
+  mkvenv comfyui 3.11
+  pipin comfyui torch torchvision torchaudio --index-url "$TORCH_IDX"
+  [ -f requirements.txt ] && pipin comfyui -r requirements.txt || true
+fi
+ok "ComfyUI: $COMFY"
+
+# 视频生成必需的自定义节点（体积小，直接装）
+say "3b. ComfyUI 自定义节点"
+CN="$COMFY/custom_nodes"
+mkdir -p "$CN"
+clone_node() {  # clone_node <repo-url> <dir-name> <requirements?>
+  local url=$1 name=$2 req=${3:-1}
+  if [ -d "$CN/$name/.git" ]; then ok "node/$name 已存在"; return 0; fi
+  git clone --depth 1 "$url" "$CN/$name" >/dev/null 2>&1 || { warn "clone $name 失败"; return 0; }
+  if [ "$req" = "1" ] && [ -f "$CN/$name/requirements.txt" ]; then
+    pipin comfyui -r "$CN/$name/requirements.txt" >/dev/null 2>&1 || warn "$name deps 部分失败"
+  fi
+  ok "node/$name"
+}
+clone_node https://github.com/ltdrdata/ComfyUI-Manager ComfyUI-Manager 0
+clone_node https://github.com/cubiq/ComfyUI_essentials ComfyUI_essentials 1
+clone_node https://github.com/kijai/ComfyUI-KJNodes ComfyUI-KJNodes 1
+clone_node https://github.com/Fannovel16/comfyui_controlnet_aux comfyui_controlnet_aux 1
+clone_node https://github.com/cubiq/ComfyUI_IPAdapter_plus ComfyUI_IPAdapter_plus 0
+clone_node https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite ComfyUI-VideoHelperSuite 1
+clone_node https://github.com/kijai/ComfyUI-WanVideoWrapper ComfyUI-WanVideoWrapper 1
+clone_node https://github.com/rgthree/rgthree-comfy rgthree-comfy 0
+clone_node https://github.com/pythongosssss/ComfyUI-Custom-Scripts ComfyUI-Custom-Scripts 0
+clone_node https://github.com/city96/ComfyUI-GGUF ComfyUI-GGUF 1
+clone_node https://github.com/chrisgoringe/cg-use-everywhere cg-use-everywhere 0
+clone_node https://github.com/WASasquatch/was-node-suite-comfyui was-node-suite-comfyui 1
+
+# ----------------------------------------------------------------------------
+say "4. GPT-SoVITS（因幡巡 克隆主力 / 质量上限）"
+if [ ! -d "$SRC/GPT-SoVITS/.git" ]; then
+  git clone --depth 1 https://github.com/RVC-Boss/GPT-SoVITS.git "$SRC/GPT-SoVITS"
+fi
+if [ -x "$VENS/gptsovits/bin/python" ]; then
+  ok "gptsovits venv 已存在"
+else
+  mkvenv gptsovits 3.10
+  pipin gptsovits torch torchvision torchaudio --index-url "$TORCH_IDX"
+  pipin gptsovits -r "$SRC/GPT-SoVITS/requirements.txt" || warn "GPT-SoVITS requirements 有失败项"
+  # 中文需要 g2pw / pyopenjtalk，日文需要 pyopenjtalk
+  pipin gptsovits pyopenjtalk g2p_en || true
+fi
+ok "GPT-SoVITS: $SRC/GPT-SoVITS"
+
+# ----------------------------------------------------------------------------
+# VoxCPM2 放在 MIN 判断**之外**：它是因幡巡配音的主力引擎，不是可选项。
+# 2026-10-22 换将依据：日语零样本音色相似度 VoxCPM2 0.825 vs Ming-3.0 0.765；
+# 输出 48kHz 直出（16k 参考音经 AudioVAE V2 非对称编解码），RTF ~0.3 on 4090。
+# 走 PyPI 包 voxcpm；官方要求 Python >=3.10 <3.13、PyTorch >=2.5、CUDA >=12。
+# 权重不在镜像里，由 fetch_models.sh --tier vox 在实例上下载（4.96 GB）。
+say "5b. VoxCPM2（2B / 48kHz 直出 / 因幡巡日语克隆主力 / Apache-2.0）"
+if [ -x "$VENS/vox/bin/python" ]; then
+  ok "vox venv 已存在"
+else
+  mkvenv vox 3.11
+  pipin vox torch torchvision torchaudio --index-url "$TORCH_IDX" || warn "vox torch 安装失败"
+  pipin vox voxcpm fastapi uvicorn soundfile numpy pydantic \
+    || warn "voxcpm 安装失败（检查 $PIP_INDEX_URL 是否可达）"
+  if "$VENS/vox/bin/python" -c "from voxcpm import VoxCPM" 2>/dev/null; then
+    ok "voxcpm 可导入"
+  else
+    warn "voxcpm 导入失败 —— 因幡巡配音回落到 IndexTTS-2.5 / Ming"
+  fi
+fi
+
+# ----------------------------------------------------------------------------
+if [ "$MIN" = "0" ]; then
+say "5. IndexTTS-2.5（B站开源，中文情感控制最好之一 / 仓库 v2.5.0）"
+# 2026-10-22：旧文档写的「index-tts:0.3.0 镜像」在仓库里没有对应 tag —— 实际
+# release 只有 v1.5.0 / v2.0.0 / v2.5.0，故锁 v2.5.0。
+if [ ! -d "$SRC/index-tts/.git" ]; then
+  git clone --depth 1 --branch v2.5.0 https://github.com/index-tts/index-tts.git "$SRC/index-tts" 2>/dev/null \
+    || git clone --depth 1 https://github.com/index-tts/index-tts.git "$SRC/index-tts" \
+    || warn "index-tts clone 失败"
+fi
+if [ -d "$SRC/index-tts" ] && [ ! -x "$VENS/index/bin/python" ]; then
+  mkvenv index 3.10
+  pipin index torch torchvision torchaudio --index-url "$TORCH_IDX" || true
+  [ -f "$SRC/index-tts/pyproject.toml" ] && pipin index -e "$SRC/index-tts" || true
+fi
+
+say "5c. MegaTTS3（零样本克隆，字节，音色相似度高）"
+if [ ! -d "$SRC/MegaTTS3/.git" ]; then
+  git clone --depth 1 https://github.com/bytedance/MegaTTS3.git "$SRC/MegaTTS3" || warn "MegaTTS3 clone 失败"
+fi
+if [ -d "$SRC/MegaTTS3" ] && [ ! -x "$VENS/megatts/bin/python" ]; then
+  mkvenv megatts 3.10
+  pipin megatts torch torchvision torchaudio --index-url "$TORCH_IDX" || true
+  [ -f "$SRC/MegaTTS3/requirements.txt" ] && pipin megatts -r "$SRC/MegaTTS3/requirements.txt" || true
+fi
+
+say "7. Qwen3-TTS 1.7B（主力配音 / 零样本克隆 / 声音设计，apache-2.0）"
+# 需要 Python 3.12：qwen-tts 官方要求。与 comfyui(3.11) 隔离，互不污染。
+if [ -x "$VENS/qwen3tts/bin/python" ]; then
+  ok "qwen3tts venv 已存在"
+else
+  # 官方推荐 3.12；拉不到就退 3.11 / 系统自带 3.10，装完用 import 实测兜底
+  TTS_PY=""
+  for pyv in 3.12 3.11 3.10; do
+    rm -rf "$VENS/qwen3tts"
+    if [ "$UV" = "1" ]; then
+      uv venv --python "$pyv" "$VENS/qwen3tts" >/dev/null 2>&1 || continue
+    else
+      python3 -m venv "$VENS/qwen3tts" >/dev/null 2>&1 || continue
+    fi
+    TTS_PY=$pyv; break
+  done
+  if [ -z "$TTS_PY" ]; then
+    warn "qwen3tts venv 创建失败（uv 拉不到 3.12/3.11，系统 python3 也不可用）"
+  else
+    ok "venv/qwen3tts on Python $TTS_PY"
+    pipin qwen3tts torch torchvision torchaudio --index-url "$TORCH_IDX" || warn "qwen3tts torch 安装失败"
+    pipin qwen3tts qwen-tts fastapi uvicorn soundfile numpy pydantic \
+      || warn "qwen-tts 安装失败（检查 $PIP_INDEX_URL 是否可达 / Python 版本）"
+    # 真实验证，而不是「装完就当成功」
+    if "$VENS/qwen3tts/bin/python" -c "import qwen_tts, fastapi, soundfile" 2>/dev/null; then
+      ok "qwen_tts 可导入"
+    else
+      warn "qwen_tts 导入失败 —— 配音功能不可用，其余不受影响"
+    fi
+    # flash-attn 是可选加速；编译可能十几分钟，失败由服务端自动退回 sdpa
+    if pipin qwen3tts flash-attn --no-build-isolation >/dev/null 2>&1; then
+      ok "flash-attn 已装"
+    else
+      warn "flash-attn 未装 → qwen3_tts_server.py 会用 sdpa（慢一些，功能一致）"
+    fi
+  fi
+fi
+
+say "7b. Ming-3.0-tts（AA 克隆榜开源第一 · 中文/日语 · 44.1 kHz · MIT）"
+MING_REPO="$SRC/Ming-3.0-tts"
+if [ ! -d "$MING_REPO/.git" ]; then
+  git clone --depth 1 https://github.com/inclusionAI/Ming-3.0-tts.git "$MING_REPO" \
+    || warn "Ming-3.0-tts clone 失败"
+fi
+if [ -d "$MING_REPO" ] && [ ! -x "$VENS/mingtts/bin/python" ]; then
+  mkvenv mingtts 3.11
+  # 版本锁死自官方 docker/Dockerfile：transformers 4.46.3 与 ComfyUI 不兼容，
+  # 所以必须是独立 venv，不能和 comfyui 混。
+  pipin mingtts torch==2.6.0 torchaudio==2.6.0 torchvision==0.21.0 \
+    --index-url "$TORCH_IDX" || warn "mingtts torch 安装失败"
+  pipin mingtts transformers==4.46.3 accelerate==1.3.0 soundfile==0.12.1 \
+    diffusers==0.33.0 x_transformers onnxruntime inflect einops packaging \
+    modelscope fla-core==0.4.1 atorch==1.7.0 fastapi uvicorn pydantic numpy \
+    || warn "Ming-3.0-tts 依赖安装失败"
+  # pynini 只做数字/单位的文本规范化，非核心；装不上就启动加 --no-text-normalization
+  pipin mingtts pynini==2.1.6 >/dev/null 2>&1 \
+    && ok "pynini 已装（文本规范化可用）" \
+    || warn "pynini 未装 → mingtts 启动加 --no-text-normalization"
+  "$VENS/mingtts/bin/python" -c "import torch, transformers" 2>/dev/null \
+    && ok "mingtts 依赖可导入" \
+    || warn "mingtts 导入失败 —— Ming 服务不可用，Qwen3-TTS / GPT-SoVITS 不受影响"
+  # flash-attn 可选：Ming 内部有 SDPA 回退，不装只影响速度
+  pipin mingtts flash-attn==2.7.4.post1 --no-build-isolation >/dev/null 2>&1 \
+    && ok "flash-attn 已装" \
+    || warn "flash-attn 未装 → Ming 走 SDPA（慢一些，功能一致）"
+fi
+
+say "8. MoeGoe + 因幡巡成品 VITS 声库（零训练，无需参考音频）"
+MEGOE_REPO="$SRC/MoeGoe"
+if [ ! -d "$MEGOE_REPO/.git" ]; then
+  git clone --depth 1 https://github.com/CjangCjengh/MoeGoe.git "$MEGOE_REPO" \
+    || warn "MoeGoe clone 失败"
+fi
+if [ -d "$MEGOE_REPO" ] && [ ! -x "$VENS/vits/bin/python" ]; then
+  mkvenv vits 3.10
+  pipin vits torch torchaudio --index-url "$TORCH_IDX" || warn "vits torch 安装失败"
+  # MoeGoe 的 zh_ja_mixture_cleaners 依赖这几个：jieba/pypinyin 管中文，
+  # jaconv/pyopenjtalk 管日语，g2p_en 兜英文。缺一个 cleaner 就抛 KeyError。
+  pipin vits numpy scipy librosa jieba pypinyin jaconv pyopenjtalk g2p_en \
+    fastapi uvicorn soundfile pydantic \
+    || warn "MoeGoe 依赖安装失败"
+  "$VENS/vits/bin/python" -c "import torch, jieba, pyopenjtalk" 2>/dev/null \
+    && ok "vits 依赖可导入" \
+    || warn "vits 导入失败 —— 只影响成品 VITS 声库，Ming / Qwen3-TTS 不受影响"
+fi
+
+say "9. faster-whisper（字幕 / 歌词对齐 / 语料切分）"
+mkvenv asr 3.11
+pipin asr faster-whisper >/dev/null 2>&1 && ok "faster-whisper" || warn "faster-whisper 安装失败"
+
+say "10. audio-separator（人声分离 UVR，语料清洗 / 视频配乐分离）"
+mkvenv sep 3.11
+pipin sep audio-separator onnxruntime-gpu >/dev/null 2>&1 && ok "audio-separator" || warn "audio-separator 安装失败"
+fi  # MIN
+
+# ----------------------------------------------------------------------------
+say "11. 模型目录软链（ComfyUI 指向共享存储卷）"
+mkdir -p "$MODELS"/{diffusion_models,text_encoders,vae,loras,checkpoints,clip_vision,upscale_models,audio_encoders,controlnet}
+if [ -d "$COMFY/models" ] && [ ! -L "$COMFY/models" ]; then
+  # 保留镜像自带的少量文件，其余走软链
+  for sub in diffusion_models text_encoders vae loras clip_vision upscale_models audio_encoders controlnet; do
+    if [ ! -e "$COMFY/models/$sub" ]; then
+      ln -sfn "$MODELS/$sub" "$COMFY/models/$sub"
+    elif [ -d "$COMFY/models/$sub" ] && [ -z "$(ls -A "$COMFY/models/$sub" 2>/dev/null)" ]; then
+      rmdir "$COMFY/models/$sub" 2>/dev/null && ln -sfn "$MODELS/$sub" "$COMFY/models/$sub"
+    fi
+  done
+  ok "已软链（若已有文件则不覆盖）"
+fi
+
+# ----------------------------------------------------------------------------
+say "12. 工作流模板"
+mkdir -p "$ROOT/workflows"
+_here="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" && pwd)"
+if [ -d "$_here/../workflows" ]; then
+  if cp -f "$_here/../workflows/"*.json "$ROOT/workflows/" 2>/dev/null; then
+    ok "已就位 $ROOT/workflows/：$(ls "$ROOT/workflows" | tr '\n' ' ')"
+  else
+    warn "工作流拷贝失败（源目录 $_here/../workflows）"
+  fi
+else
+  warn "没找到 workflows/ 目录，跳过（run_wf.sh 需要它）"
+fi
+
+# ----------------------------------------------------------------------------
+say "13. 写入统一入口"
+mkdir -p "$ROOT/bin"
+cat > "$ROOT/bin/comfyui" <<'EOF'
+#!/usr/bin/env bash
+exec /root/venvs/comfyui/bin/python "${COMFY_DIR:-/root/ComfyUI}/main.py" --listen 0.0.0.0 --port 8188 "$@"
+EOF
+chmod +x "$ROOT/bin/comfyui"
+
+cat > "$ROOT/bin/qwen3tts" <<'EOF'
+#!/usr/bin/env bash
+# 启动 Qwen3-TTS HTTP 服务（:9880）。模型按需懒加载，H3 抢显存时调 /unload 立刻腾空。
+exec /root/venvs/qwen3tts/bin/python "${TTS_SERVER:-/root/scripts/qwen3_tts_server.py}" \
+  --models "${TTS_MODELS:-/root/data/models/tts/qwen3-tts}" \
+  --prompt-dir "${VOICE_PROMPTS:-/root/data/voice-prompts}" "$@"
+EOF
+chmod +x "$ROOT/bin/qwen3tts"
+
+cat > "$ROOT/bin/mingtts" <<'EOF'
+#!/usr/bin/env bash
+# 启动 Ming-3.0-tts HTTP 服务（:9881）。与 Qwen3-TTS 二选一常驻，别同时挂着抢显存。
+# pynini 没装时自动补 --no-text-normalization。
+NORM=""
+/root/venvs/mingtts/bin/python -c "import pynini" 2>/dev/null || NORM="--no-text-normalization"
+exec /root/venvs/mingtts/bin/python "${MING_SERVER:-/root/scripts/ming_tts_server.py}" \
+  --models "${MING_MODELS:-/root/data/models/tts/ming-3.0-tts}" \
+  --repo "${MING_REPO:-/root/src/Ming-3.0-tts}" $NORM "$@"
+EOF
+chmod +x "$ROOT/bin/mingtts"
+
+cat > "$ROOT/bin/vits" <<'EOF'
+#!/usr/bin/env bash
+# 启动因幡巡成品 VITS 声库服务（:9882）。不需要参考音频，权重下完就能出声。
+# 换声库：VITS_MODEL=moetts vits
+exec /root/venvs/vits/bin/python "${VITS_SERVER:-/root/scripts/vits_tts_server.py}" \
+  --port "${VITS_PORT:-9882}" "$@"
+EOF
+chmod +x "$ROOT/bin/vits"
+
+cat > "$ROOT/bin/voxcpm" <<'EOF'
+#!/usr/bin/env bash
+# 启动 VoxCPM2 HTTP 服务（:9883）—— 因幡巡日语克隆主力，48kHz 直出。
+# 懒加载：第一次 POST 才占显存；H3 出片前 curl -XPOST :9883/unload 立刻腾空。
+exec /root/venvs/vox/bin/python "${VOX_SERVER:-/root/scripts/vox_tts_server.py}" \
+  --models "${VOX_MODELS:-/root/data/models/voxcpm2}" \
+  --port "${VOX_PORT:-9883}" "$@"
+EOF
+chmod +x "$ROOT/bin/voxcpm"
+
+cat > "$ROOT/env.sh" <<'EOF'
+# source /root/env.sh
+export PATH="$HOME/.local/bin:/root/bin:$PATH"
+export COMFY_DIR="${COMFY_DIR:-/root/ComfyUI}"
+export MODELS=/root/data/models
+export TTS_MODELS=/root/data/models/tts/qwen3-tts
+export VITS_ROOT=/root/data/models/vits
+export VOX_MODELS=/root/data/models/voxcpm2
+export MEGOE_DIR=/root/src/MoeGoe
+export VOICE_PROMPTS=/root/data/voice-prompts
+export SRC_DIR=/root/src
+export HF_ENDPOINT="${HF_ENDPOINT:-https://hf-mirror.com}"
+export HF_HOME=/root/data/hf
+export TORCH_HOME=/root/data/torch
+export TRANSFORMERS_CACHE=/root/data/hf/transformers
+export HF_HUB_ENABLE_HF_TRANSFER=1
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+export TOKENIZERS_PARALLELISM=false
+EOF
+
+say "完成"
+cat <<EOF
+
+下一步：
+  1) bash fetch_models.sh --tier core     # 拉模型权重（每档都幂等）
+  2) bash doctor.sh                        # 验证
+  3) 回控制台「保存镜像」                   # 见 README 第 5 节
+
+venv 清单：$(ls "$VENS" 2>/dev/null | tr '\n' ' ')
+模型目录：$MODELS
+EOF

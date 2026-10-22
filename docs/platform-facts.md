@@ -1,1 +1,98 @@
-IyDlhbHnu6nnrpflipvlubPlj7Dnoazkuovlrp7vvIjlhrPlrprplZzlg4/mnrbmnoTnmoTpgqPlh6DmnaHvvIkKCj4g5YWo6YOo5qC45a+56Ieq5a6Y5pa55paH5qGj77yIc3VhbmxpLmNuL2RvY3PjgIFnb25naml5dW4uY29tL2RvY3PvvInvvIwyMDI2LTAyIOaKk+WPluOAggo+IOi/meWHoOadoeebtOaOpeWGs+WumuOAjOmVnOWDj+aAjuS5iOWBmuOAjeKAlOKAlOWSjCBBdXRvREwgLyDmnKzlnLAgRG9ja2VyIOeahOS5oOaDr+W3ruWIq+W+iOWkp++8jOWFiOeci+WujOWGjeWKqOaJi+OAggoKIyMgMS4g5LqR5Li75py65piv5a655Zmo77yM5LiN5piv6Jma5ouf5py6IOKGkiDlrrnlmajlhoXmsqHmnIkgZG9ja2VyCgrlrpjmlrnljp/mlofvvIjkupHkuLvmnLrluLjop4Hpl67popjvvInvvJoKCj4g5LqR5Li75py66YeH55So5a655Zmo5YyW6L+Q6KGM546v5aKD77yM6ICM6Z2e5Lyg57uf6Jma5ouf5py677yM5Zug5q2kKirkuI3mlK/mjIHlnKjkuLvmnLrlhoXpg6jlho3lkK/liqggRG9ja2VyIOacjeWKoSoq44CCCgrlkI7mnpzvvJoqKuS4jeiDvSoq5Zyo5LqR5Li75py66YeMIGBkb2NrZXIgYnVpbGRg44CC5oOz5Zyo5bmz5Y+w5L6n5Lqn5Ye66ZWc5YOP5Y+q5pyJ5Lik5p2h5q2j6Lev77yaCgp8IOi3r+e6vyB8IOWcqOWTquaehOW7uiB8IOS6p+eJqSB8IOmAguWQiCB8CnwtLS18LS0tfC0tLXwtLS18CnwgQSDlv6vnhafplZzlg4/vvIjlrpjmlrnmjqjojZDvvIkgfCDkupHkuLvmnLrlhoXnm7TmjqUgYGFwdC9waXAvY29uZGFgIOijhSB8IOOAjOWFs+acuuW5tuS/neWtmOmVnOWDj+OAjeW+l+WIsOeahOiHquWumuS5iemVnOWDjyB8IOeOr+WigyArIOS7o+eggSArIOS4remHj+adg+mHjSB8CnwgQiBIYXJib3Ig6ZWc5YOPIHwg5pys5ZywL+S7u+aEj+aciSBkb2NrZXIg55qE5py65ZmoIHwg5o6o5YiwIGBoYXJib3Iuc3VhbmxlbWUuY25gIOeahCBkb2NrZXIgaW1hZ2UgfCDlj6/niYjmnKzljJbjgIHlj6/liIblj5HjgIHlj6/mibnph4/pg6jnvbIgfAoK5Lik5p2h6YO95pSv5oyB77ya5Yib5bu65LqR5Li75py65pe244CM5oiR55qE6ZWc5YOP44CN5Y+v5Lul55u05o6l5aGr5a6M5pW06ZWc5YOPIFVSTO+8jOWumOaWueekuuS+i+e7meeahOWwseaYrwpgaGFyYm9yLnN1YW5sZW1lLmNuL2xhc3QxL3dhbi0yLjI6MC4yYOOAggoKIyMgMi4g57O757uf55uY5Y+q5pyJIH44MEdC77yM5YaZ5ruh5Lya5ouW5oWi5byA5py65YWz5py6Cgrlrpjmlrnljp/mlofvvJoKCj4g5LqR5Li75py655qE57O757uf55uY77yI6YCa5bi45Li6IDgwR0LvvInmmK/ln7rkuo7liIbluIPlvI/lnZflrZjlgqjmiJblrrnlmajlhpnml7blpI3liLbvvIhDb1fvvInmlofku7bns7vnu5/lrp7njrDnmoTjgILlvZPmgqjlnKjns7vnu5/nm5jkuK3lhpnlhaXlpKfph4/mlbDmja7vvIjlpoLmlbDljYEgR0Ig55qE5pWw5o2u6ZuG5oiW5qih5Z6L5p2D6YeN77yJ5pe277ya5YWz5py65Lya6Kem5Y+R57O757uf55uY5b+r54Wn5oiW5pWw5o2u5ZCM5q2l5py65Yi277yM5YaZ5YWl55qE5pWw5o2u6LaK5aSa77yM5ZCM5q2l6ICX5pe26LaK6ZW/77yb5byA5py65pe26ZyA6KaB5LuO5bqV5bGC5a2Y5YKo6YeN5paw5ouJ5Y+W5oiW5oyC6L296L+Z5Lqb5pWw5o2u44CCCgrlrpjmlrnnu5nnmoTmoIflh4bmnrbmnoTvvJoKCjEuIOezu+e7n+ebmO+8iDgwR0LvvInigJTigJTlj6rmlL4gQ1VEQSAvIOS+nei1liAvIOS7o+egge+8jOijheWujOS/neWtmOS4uuiHquWumuS5iemVnOWDjwoyLiDlr7nosaHlrZjlgqjliqDpgJ/vvIgqKuWPquivuyoq77yJ4oCU4oCU5oyCIGAvbW9kZWxzYO+8jOaUvueZviBHQiDnuqfmnYPph40KMy4g5YWx5Lqr5a2Y5YKo5Y2377yIKirlj6/or7vlhpkqKu+8ieKAlOKAlOaMgiBgL2RhdGFg44CBYC9vdXRwdXRgCgo+IOi/meadoeaYr+OAjOaKiuacgOWkp+acgOWlveeahOaooeWei+WFqOijheS4iuOAjei/meWPpeivneeahOecn+Wunui+ueeVjOOAgjgwR0Ig55uY6KOF5LiN5LiLIEZsdXggZGV2ICsgV2FuMi4yLTE0QiArIExUWCArIEh1bnl1YW4gKyDkuIDloIYgVFRTIOadg+mHjeOAggo+IOato+ehruino+azleaYr+WPjOWxgu+8mumVnOWDj+WxguaUvueOr+WigyvlsI/mnYPph43vvIzmlbDmja7lsYLnlKjlhbHkuqvlrZjlgqjljbfmlL7lh6DljYEgR0Ig55qE5aSn5p2D6YeN77yM55So6ISa5pys5LiA6ZSu5ouJ44CCCgojIyAzLiDlrZjlgqjljbfmjILovb3ngrnmnInpm7cKCuWumOaWueWOn+aWh++8mioq5LiN6KaBKirnm7TmjqXmjILliLAgYC9g44CBYC9yb290YO+8jOWQpuWImeS8muWHuueOsOWlh+aAqumXrumimOOAguW7uuiuruaMgiBgL3Jvb3QvZGF0YWDjgIFgL3Jvb3QvY29kZWAg6L+Z57G75LqM57qn55uu5b2V44CCCgrmnKzmlrnmoYjlm7rlrprnlKjvvJoKCi0gYC9yb290L2RhdGFgIOKAlOKAlCDlhbHkuqvlrZjlgqjljbfvvIzmlL7miYDmnInlpKfmqKHlnovmnYPph43vvIgqKuWUr+S4gOeahOaooeWei+agueebruW9lSoq77yJCi0gYC9yb290L291dHB1dGAg4oCU4oCUIOWFseS6q+WtmOWCqOWNt++8jOS6p+WHuu+8iOWbvi/op4bpopEv6Z+z6aKR77yJCi0gYC9yb290L2NvZGVgIOKAlOKAlCDku6PnoIEKCiMjIDQuIOW5s+WPsOS4jeebtOi/nuWklue9kQoKPiDlubPlj7DkuI3nm7TmjqXov57mjqXlpJbnvZHvvIzml6Dms5Xnm7TmjqXkvb/nlKjlpJbnvZHnmoTplZzlg4/ku5PlupPmr5TlpoIgZG9ja2VyLmlvIOetie+8jOWmguaenOmcgOimgeS4i+i9veaooeWei+etieWPr+S7peS9v+eUqOWbveWGheeahOaooeWei+a6kOOAggoK5omA5Lul77ya6ZWc5YOP6YeM5LiN6KaB5YaZIGBGUk9NIG52aWRpYS9jdWRhOi4uLmDvvIjmi4nkuI3liqjvvInvvIzopoHkuYjnlKjlubPlj7Dln7rnoYDplZzlg4/lgZrln7rlupXkuozmrKHmnoTlu7rvvIzopoHkuYjlnKjog73kuIrnvZHnmoTmnLrlmajkuIogYnVpbGQg5a6M5o6o5YiwIGhhcmJvcuOAggrmqKHlnovkuIvovb3nu5/kuIDotbAgYEhGX0VORFBPSU5UPWh0dHBzOi8vaGYtbWlycm9yLmNvbWAgKyDlm73lhoXliqDpgJ/mupDjgIIKCiMjIDUuIOerr+WPo++8mjgxODggLyA4ODg4IOaYr+eZvemAgeeahAoKLSA4MTg4IOKAlOKAlCDpu5jorqTlv6vmjbforr/pl67vvIxDb21meVVJIOato+WlveeUqOi/meS4qgotIDg4ODgg4oCU4oCUIOm7mOiupOW/q+aNt+iuv+mXru+8jEp1cHl0ZXJMYWIg55So6L+Z5LiqCi0g5YW25LuW56uv5Y+j77yI5aaCIDc4NjAgR3JhZGlv44CBOTg4MCBUVFMgQVBJ77yJ6KaB5Zyo6K+m5oOF6aG144CM5re75Yqg56uv5Y+j44CN4oaSICoq5b+F6aG754K544CM5bqU55So5L+u5pS544CN5omN55Sf5pWIKirvvIjov5nkuIDmraXmnIDlrrnmmJPmvI/vvIkKCiMjIDYuIOWQr+WKqOWRveS7pOeUsSBzdXBlcnZpc29yZCDmiZjnrqEKCj4g55So5oi35aGr5YaZ55qE6Ieq5a6a5LmJ5ZCv5Yqo5ZG95Luk5Lya6KKrIHN1cGVydmlzb3JkIOS9nOS4uuOAjOWPl+euoei/m+eoi+OAjeWQr+WKqOWSjOeuoeeQhu+8jOWNs+S9v+S4u+i/m+eoi+W8guW4uOmAgOWHuu+8jFN1cGVydmlzb3JkIOS5n+iDveiHquWKqOaLiei1t+OAggoK5ZCr5LmJ77ya5ZCv5Yqo5ZG95Luk5Y+q5YaZKirkuIDkuKoqKuWJjeWPsOi/m+eoi+WNs+WPr++8jOS9huWPr+S7peWGmSBgYmFzaCAvcm9vdC9jb2RlL2Jvb3Quc2hg77yMCuWcqCBib290LnNoIOmHjOeUqCBgJmAg6LW35aSa5Liq5pyN5Yqh77yIQ29tZnlVSSArIFRUUyBBUEkg5bm25a2Y77yJ77yM5oiW55u05o6l5YaZIHN1cGVydmlzb3JkIOmFjee9ruOAggoKIyMgNy4g5a+G56CB6LWw546v5aKD5Y+Y6YePCgpgYGAKU1NIX1BBU1NXT1JEPXh4eApDT0RFX1NFUlZFUl9QQVNTV09SRD14eHgKSlVQWVRFUl9QQVNTV09SRD14eHgKYGBgCgrmlLnlrozlv4XpobvjgJDkv53lrZjjgJEr44CQ5bqU55So5L+u5pS544CR44CCCgojIyA4LiDlhbPmnLrkuInlhYTlvJ/nmoTljLrliKvvvIjliKvpgInplJnvvIkKCnwg5pON5L2cIHwg5pWw5o2uIHwg6K6h6LS5IHwKfC0tLXwtLS18LS0tfAp8IOaZrumAmuWFs+acuiB8IOWujOaVtOS/neeVmSB8IOWBnCB8CnwgKirlhbPmnLrlubbkv53lrZjplZzlg48qKiB8IOWujOaVtOS/neeVmSArIOeUn+aIkOWPr+WkjeeUqOmVnOWDjyB8IOWBnCB8Cnwg5by65Yi25YWz5py6IHwgKirlm57mu5rliLDmnKzmrKHlvIDmnLrliY0qKiB8IOWBnCB8CgrlgZrplZzlg4/lv4XpobvnlKjnrKzkuozkuKrjgILnrKzkuInkuKrkvJrmiorov5nkuIDova7oo4XnmoTkuJzopb/lhajkuKLmjonjgIIKCiMjIDkuIOiuoei0ueeql+WPowoKLSDlvIDmnLrmiJDlip/vvIjov5DooYzkuK3vvInlvIDlp4vorqHotLnvvIznsr7noa7liLDnp5IKLSDmi4nplZzlg48gLyDkuIrkvKDplZzlg48gLyDlhbPmnLrov4fnqIsqKuS4jeaUtui0uSoqCi0g5YWz5py65ZCOIEdQVSDph4rmlL7vvIzkvYbmlbDmja7kv53nlZnvvIzph43lkK/ml6DpnIDph43mi4nplZzlg48KLSDlhbPmnLrotoXov4cgNyDlpKnlho3lvIDmnLrvvIxTU0gg56uv5Y+j5Y+v6IO95Y+YCgojIyAxMC4g5bmz5Y+w5bey5pyJ55qE5Y+v5aSN55So6LWE5LqnCgotIOWumOaWueekvuWMuumVnOWDj+mHjOW3suacieW4piBDb21meVVJLU1hbmFnZXIg55qEIENvbWZ5VUkg5Z+656GA6ZWc5YOPCi0g5a6Y5pa55bey5Y+R5biDIFdBTjIuMiDplZzlg4/vvJpgaGFyYm9yLnN1YW5sZW1lLmNuL2xhc3QxL3dhbi0yLjI6MC4yYO+8iOWNleWNoSA0MDkwIOWPr+i3ke+8iQotIOmVnOWDj+S7k+W6k++8mmBoYXJib3Iuc3VhbmxlbWUuY25g77yM6LSm5Y+35a+G56CB5LiO5bmz5Y+w6LSm5Y+3KirkuI3kupLpgJoqKu+8jOWcqOaOp+WItuWPsOOAjOmVnOWDj+S7k+W6kyDihpIg6K6/6Zeu5Yet5o2u44CN5Y+WCg==
+# 共绩算力平台硬事实（决定镜像架构的那几条）
+
+> 全部核对自官方文档（suanli.cn/docs、gongjiyun.com/docs），2026-02 抓取。
+> 这几条直接决定「镜像怎么做」——和 AutoDL / 本地 Docker 的习惯差别很大，先看完再动手。
+
+## 1. 云主机是容器，不是虚拟机 → 容器内没有 docker
+
+官方原文（云主机常见问题）：
+
+> 云主机采用容器化运行环境，而非传统虚拟机，因此**不支持在主机内部再启动 Docker 服务**。
+
+后果：**不能**在云主机里 `docker build`。想在平台侧产出镜像只有两条正路：
+
+| 路线 | 在哪构建 | 产物 | 适合 |
+|---|---|---|---|
+| A 快照镜像（官方推荐） | 云主机内直接 `apt/pip/conda` 装 | 「关机并保存镜像」得到的自定义镜像 | 环境 + 代码 + 中量权重 |
+| B Harbor 镜像 | 本地/任意有 docker 的机器 | 推到 `harbor.suanleme.cn` 的 docker image | 可版本化、可分发、可批量部署 |
+
+两条都支持：创建云主机时「我的镜像」可以直接填完整镜像 URL，官方示例给的就是
+`harbor.suanleme.cn/last1/wan-2.2:0.2`。
+
+## 2. 系统盘只有 ~80GB，写满会拖慢开机关机
+
+官方原文：
+
+> 云主机的系统盘（通常为 80GB）是基于分布式块存储或容器写时复制（CoW）文件系统实现的。当您在系统盘中写入大量数据（如数十 GB 的数据集或模型权重）时：关机会触发系统盘快照或数据同步机制，写入的数据越多，同步耗时越长；开机时需要从底层存储重新拉取或挂载这些数据。
+
+官方给的标准架构：
+
+1. 系统盘（80GB）——只放 CUDA / 依赖 / 代码，装完保存为自定义镜像
+2. 对象存储加速（**只读**）——挂 `/models`，放百 GB 级权重
+3. 共享存储卷（**可读写**）——挂 `/data`、`/output`
+
+> 这条是「把最大最好的模型全装上」这句话的真实边界。80GB 盘装不下 Flux dev + Wan2.2-14B + LTX + Hunyuan + 一堆 TTS 权重。
+> 正确解法是双层：镜像层放环境+小权重，数据层用共享存储卷放几十 GB 的大权重，用脚本一键拉。
+
+## 3. 存储卷挂载点有雷
+
+官方原文：**不要**直接挂到 `/`、`/root`，否则会出现奇怪问题。建议挂 `/root/data`、`/root/code` 这类二级目录。
+
+本方案固定用：
+
+- `/root/data` —— 共享存储卷，放所有大模型权重（**唯一的模型根目录**）
+- `/root/output` —— 共享存储卷，产出（图/视频/音频）
+- `/root/code` —— 代码
+
+## 4. 平台不直连外网
+
+> 平台不直接连接外网，无法直接使用外网的镜像仓库比如 docker.io 等，如果需要下载模型等可以使用国内的模型源。
+
+所以：镜像里不要写 `FROM nvidia/cuda:...`（拉不动），要么用平台基础镜像做基底二次构建，要么在能上网的机器上 build 完推到 harbor。
+模型下载统一走 `HF_ENDPOINT=https://hf-mirror.com` + 国内加速源。
+
+## 5. 端口：8188 / 8888 是白送的
+
+- 8188 —— 默认快捷访问，ComfyUI 正好用这个
+- 8888 —— 默认快捷访问，JupyterLab 用这个
+- 其他端口（如 7860 Gradio、9880 TTS API）要在详情页「添加端口」→ **必须点「应用修改」才生效**（这一步最容易漏）
+
+## 6. 启动命令由 supervisord 托管
+
+> 用户填写的自定义启动命令会被 supervisord 作为「受管进程」启动和管理，即使主进程异常退出，Supervisord 也能自动拉起。
+
+含义：启动命令只写**一个**前台进程即可，但可以写 `bash /root/code/boot.sh`，
+在 boot.sh 里用 `&` 起多个服务（ComfyUI + TTS API 并存），或直接写 supervisord 配置。
+
+## 7. 密码走环境变量
+
+```
+SSH_PASSWORD=xxx
+CODE_SERVER_PASSWORD=xxx
+JUPYTER_PASSWORD=xxx
+```
+
+改完必须【保存】+【应用修改】。
+
+## 8. 关机三兄弟的区别（别选错）
+
+| 操作 | 数据 | 计费 |
+|---|---|---|
+| 普通关机 | 完整保留 | 停 |
+| **关机并保存镜像** | 完整保留 + 生成可复用镜像 | 停 |
+| 强制关机 | **回滚到本次开机前** | 停 |
+
+做镜像必须用第二个。第三个会把这一轮装的东西全丢掉。
+
+## 9. 计费窗口
+
+- 开机成功（运行中）开始计费，精确到秒
+- 拉镜像 / 上传镜像 / 关机过程**不收费**
+- 关机后 GPU 释放，但数据保留，重启无需重拉镜像
+- 关机超过 7 天再开机，SSH 端口可能变
+
+## 10. 平台已有的可复用资产
+
+- 官方社区镜像里已有带 ComfyUI-Manager 的 ComfyUI 基础镜像
+- 官方已发布 WAN2.2 镜像：`harbor.suanleme.cn/last1/wan-2.2:0.2`（单卡 4090 可跑）
+- 镜像仓库：`harbor.suanleme.cn`，账号密码与平台账号**不互通**，在控制台「镜像仓库 → 访问凭据」取

@@ -1,1 +1,389 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKcXdlbjNfdHRzX3NlcnZlci5weSAtLSBRd2VuMy1UVFMgSFRUUCDmnI3liqHvvIjphY3pn7Mv5YWL6ZqGL+WjsOmfs+iuvuiuoe+8iQoK55u06L+eIHF3ZW4tdHRzIOWumOaWueWMhe+8jOS4jeWBmuS6jOasoeWwgeijheOAgkFQSSDkvp3mja7lrpjmlrnmqKHlnovljaHlrp7mtYvlhpnms5XvvJoKICAgIFF3ZW4zVFRTTW9kZWwuZnJvbV9wcmV0cmFpbmVkKHBhdGgsIGRldmljZV9tYXAsIGR0eXBlLCBhdHRuX2ltcGxlbWVudGF0aW9uKQogICAgbW9kZWwuZ2VuZXJhdGVfY3VzdG9tX3ZvaWNlKHRleHQsIGxhbmd1YWdlLCBzcGVha2VyLCBpbnN0cnVjdCkKICAgIG1vZGVsLmdlbmVyYXRlX3ZvaWNlX2Rlc2lnbih0ZXh0LCBsYW5ndWFnZSwgaW5zdHJ1Y3QpCiAgICBtb2RlbC5nZW5lcmF0ZV92b2ljZV9jbG9uZSh0ZXh0LCBsYW5ndWFnZSwgcmVmX2F1ZGlvLCByZWZfdGV4dCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhfdmVjdG9yX29ubHlfbW9kZT1GYWxzZSwgdm9pY2VfY2xvbmVfcHJvbXB0PS4uLikKICAgIG1vZGVsLmNyZWF0ZV92b2ljZV9jbG9uZV9wcm9tcHQocmVmX2F1ZGlvLCByZWZfdGV4dCwgeF92ZWN0b3Jfb25seV9tb2RlKQoK6K6+6K6h6KaB54K577yaCiAgKiDmh5LliqDovb0gKyDlj6/ljbjovb0g4oCU4oCUIDQwOTAgNDhHIOS4iiBIMyDopoEgMzkgR0LvvIxUVFMg5b+F6aG76IO956uL5Yi76IW+5Zyw5pa5CiAgKiB2b2ljZSBwcm9tcHQg6JC955uY57yT5a2YIOKAlOKAlCDlkIzkuIDop5LoibLpn7PoibLot6jlpJrlj6XlpI3nlKjvvIzkuI3ph43lpI3mir3nibnlvoEKICAqIOi+k+WHuiA0OCBrSHog6YeN6YeH5qC35Lqk57uZIGZmbXBlZ++8jOacrOacjeWKoeWPquWQkOaooeWei+WOn+eUn+mHh+agt+eOhwoK5ZCv5Yqo77yaCiAgICBweXRob24gcXdlbjNfdHRzX3NlcnZlci5weSAtLXBvcnQgOTg4MCAtLW1vZGVscyAvcm9vdC9kYXRhL21vZGVscy90dHMvcXdlbjMtdHRzCuaOpeWPo++8mgogICAgUE9TVCAvY2xvbmVfd2l0aF9wcm9tcHQge3RleHQsIGxhbmd1YWdlLCBwcm9tcHRfbmFtZX0KICAgIEdFVCAgL3Byb21wdF9saXN0ICAgICAgIOW3suiQveebmOeahOmfs+iJsue8k+WtmO+8iOWQqyBsb2FkZWQg5qCH6K6w77yJCiAgICBHRVQgIC9oZWFsdGggICAgICAgICAgICDluLjpqbvnirbmgIHkuI7mmL7lrZgKICAgIFBPU1QgL3VubG9hZCAgICAgICAgICAgIOWNuOi9veWFqOmDqOaooeWei++8jOmAgOi/mOaYvuWtmAogICAgR0VUICAvc3BlYWtlcnMgICAgICAgICAg6aKE6K6+6Z+z6Imy5riF5Y2VCiAgICBQT1NUIC90dHMgICAgICAgICAgICAgICB7dGV4dCwgbGFuZ3VhZ2UsIHNwZWFrZXIsIGluc3RydWN0fQogICAgUE9TVCAvZGVzaWduICAgICAgICAgICAge3RleHQsIGxhbmd1YWdlLCBpbnN0cnVjdH0KICAgIFBPU1QgL2Nsb25lICAgICAgICAgICAgIHt0ZXh0LCBsYW5ndWFnZSwgcmVmX2F1ZGlvLCByZWZfdGV4dCwgeF92ZWN0b3Jfb25seX0KICAgIFBPU1QgL2Nsb25lX3Byb21wdCAgICAgIHtyZWZfYXVkaW8sIHJlZl90ZXh0LCBuYW1lLCB4X3ZlY3Rvcl9vbmx5fSAgLT4g5bu657yT5a2YCiAgICBQT1NUIC9jbG9uZV93aXRoX3Byb21wdCB7dGV4dCwgbGFuZ3VhZ2UsIHByb21wdF9uYW1lfQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBiYXNlNjQKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGlvCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgdGltZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgVW5pb24KCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgc291bmRmaWxlIGFzIHNmCmltcG9ydCB0b3JjaAppbXBvcnQgdXZpY29ybgpmcm9tIGZhc3RhcGkgaW1wb3J0IEZhc3RBUEksIEhUVFBFeGNlcHRpb24KZnJvbSBmYXN0YXBpLnJlc3BvbnNlcyBpbXBvcnQgSlNPTlJlc3BvbnNlLCBSZXNwb25zZQpmcm9tIHB5ZGFudGljIGltcG9ydCBCYXNlTW9kZWwsIEZpZWxkCgpsb2dnaW5nLmJhc2ljQ29uZmlnKGxldmVsPWxvZ2dpbmcuSU5GTywgZm9ybWF0PSIlKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzICUobWVzc2FnZSlzIikKbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoInF3ZW4zdHRzIikKCkFQUCA9IEZhc3RBUEkodGl0bGU9IlF3ZW4zLVRUUyIsIHZlcnNpb249IjEuMCIpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOWFqOWxgOeKtuaAgQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTVEFURTogZGljdFtzdHIsIEFueV0gPSB7CiAgICAibW9kZWxzIjoge30sICAgICAgICAjIGtpbmQgLT4gKG1vZGVsLCBsb2FkX3RpbWUpCiAgICAicHJvbXB0cyI6IHt9LCAgICAgICAjIG5hbWUgLT4gcHJvbXB0IGl0ZW1zCiAgICAicm9vdCI6IE5vbmUsICAgICAgICAjIOaooeWei+agueebruW9lQogICAgInByb21wdF9kaXIiOiBOb25lLCAgIyBwcm9tcHQg57yT5a2Y55uu5b2VCiAgICAiYXR0biI6ICJmbGFzaF9hdHRlbnRpb25fMiIsCn0KCktJTkRfRElSID0gewogICAgImN1c3RvbSI6ICJDdXN0b21Wb2ljZSIsCiAgICAiZGVzaWduIjogIlZvaWNlRGVzaWduIiwKICAgICJiYXNlIjogIkJhc2UiLCAgICAgICAjIOWFi+mahueUqAp9CgoKZGVmIF9yZXNvbHZlKGtpbmQ6IHN0cikgLT4gc3RyOgogICAgIiIi5oqKIGtpbmQg6Kej5p6Q5oiQ5pys5Zyw55uu5b2V5oiWIEhGIHJlcG8gaWTjgIIiIiIKICAgIHJvb3QgPSBQYXRoKFNUQVRFWyJyb290Il0pCiAgICAjIOacrOWcsOS8mOWFiO+8mjxyb290Pi88S2luZD4g5oiWIDxyb290PiDoh6rouqvlsLHmmK/or6Uga2luZAogICAgY2FuZCA9IHJvb3QgLyBLSU5EX0RJUltraW5kXQogICAgaWYgY2FuZC5pc19kaXIoKToKICAgICAgICByZXR1cm4gc3RyKGNhbmQpCiAgICBpZiByb290LmlzX2RpcigpIGFuZCBhbnkocm9vdC5nbG9iKCIqLnNhZmV0ZW5zb3JzIikpOgogICAgICAgIHJldHVybiBzdHIocm9vdCkKICAgIHJldHVybiBmIlF3ZW4vUXdlbjMtVFRTLTEySHotMS43Qi17S0lORF9ESVJba2luZF19IgoKCmRlZiBfbG9hZChraW5kOiBzdHIpOgogICAgIiIi5oeS5Yqg6L2944CC5bey5Yqg6L2955u05o6l6L+U5Zue44CCIiIiCiAgICBpZiBraW5kIGluIFNUQVRFWyJtb2RlbHMiXToKICAgICAgICByZXR1cm4gU1RBVEVbIm1vZGVscyJdW2tpbmRdWzBdCgogICAgZnJvbSBxd2VuX3R0cyBpbXBvcnQgUXdlbjNUVFNNb2RlbAoKICAgIHBhdGggPSBfcmVzb2x2ZShraW5kKQogICAgbG9nLmluZm8oImxvYWRpbmcgJXMgPC0gJXMiLCBraW5kLCBwYXRoKQogICAgdDAgPSB0aW1lLnRpbWUoKQoKICAgIGt3YXJncyA9IGRpY3QoZGV2aWNlX21hcD0iY3VkYTowIiwgZHR5cGU9dG9yY2guYmZsb2F0MTYpCiAgICBhdHRuID0gU1RBVEVbImF0dG4iXQogICAgaWYgYXR0bjoKICAgICAgICBrd2FyZ3NbImF0dG5faW1wbGVtZW50YXRpb24iXSA9IGF0dG4KICAgIHRyeToKICAgICAgICBtb2RlbCA9IFF3ZW4zVFRTTW9kZWwuZnJvbV9wcmV0cmFpbmVkKHBhdGgsICoqa3dhcmdzKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6ICAgICAgICAgICAgICAgICAgICAgIyBmbGFzaC1hdHRuIOS4jeWPr+eUqOWwsemAgOWbniBzZHBhCiAgICAgICAgaWYgYXR0bjoKICAgICAgICAgICAgbG9nLndhcm5pbmcoImF0dG49JXMg5Yqg6L295aSx6LSlKCVzKe+8jOmAgOWbniBzZHBhIiwgYXR0biwgZXhjKQogICAgICAgICAgICBrd2FyZ3MucG9wKCJhdHRuX2ltcGxlbWVudGF0aW9uIiwgTm9uZSkKICAgICAgICAgICAgbW9kZWwgPSBRd2VuM1RUU01vZGVsLmZyb21fcHJldHJhaW5lZChwYXRoLCAqKmt3YXJncykKICAgICAgICAgICAgU1RBVEVbImF0dG4iXSA9IE5vbmUKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZQoKICAgIFNUQVRFWyJtb2RlbHMiXVtraW5kXSA9IChtb2RlbCwgdGltZS50aW1lKCkgLSB0MCkKICAgIGxvZy5pbmZvKCIlcyBsb2FkZWQgaW4gJS4xZnMiLCBraW5kLCB0aW1lLnRpbWUoKSAtIHQwKQogICAgcmV0dXJuIG1vZGVsCgoKZGVmIF91bmxvYWRfYWxsKCk6CiAgICBTVEFURVsibW9kZWxzIl0uY2xlYXIoKQogICAgU1RBVEVbInByb21wdHMiXS5jbGVhcigpCiAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgIHRvcmNoLmN1ZGEuZW1wdHlfY2FjaGUoKQogICAgICAgIHRvcmNoLmN1ZGEuaXBjX2NvbGxlY3QoKQoKCmRlZiBfZ3B1KCkgLT4gZGljdDoKICAgIGlmIG5vdCB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgIHJldHVybiB7ImN1ZGEiOiBGYWxzZX0KICAgIGZyZWUsIHRvdGFsID0gdG9yY2guY3VkYS5tZW1fZ2V0X2luZm8oKQogICAgcmV0dXJuIHsKICAgICAgICAiY3VkYSI6IFRydWUsCiAgICAgICAgImRldmljZSI6IHRvcmNoLmN1ZGEuZ2V0X2RldmljZV9uYW1lKDApLAogICAgICAgICJhbGxvY2F0ZWRfZ2IiOiByb3VuZCh0b3JjaC5jdWRhLm1lbW9yeV9hbGxvY2F0ZWQoKSAvIDIqKjMwLCAyKSwKICAgICAgICAicmVzZXJ2ZWRfZ2IiOiByb3VuZCh0b3JjaC5jdWRhLm1lbW9yeV9yZXNlcnZlZCgpIC8gMioqMzAsIDIpLAogICAgICAgICJmcmVlX2diIjogcm91bmQoZnJlZSAvIDIqKjMwLCAyKSwKICAgICAgICAidG90YWxfZ2IiOiByb3VuZCh0b3RhbCAvIDIqKjMwLCAyKSwKICAgIH0KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOmfs+mikSBJL08KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIF9sb2FkX3JlZihyZWY6IHN0cikgLT4gVW5pb25bc3RyLCB0dXBsZVtucC5uZGFycmF5LCBpbnRdXToKICAgICIiInJlZl9hdWRpbyDmlK/mjIHvvJrmnKzlnLDot6/lvoQgLyBodHRwIFVSTCAvIGRhdGE6YmFzZTY0IC8g6KO4IGJhc2U2NOOAgiIiIgogICAgaWYgcmVmLnN0YXJ0c3dpdGgoKCJodHRwOi8vIiwgImh0dHBzOi8vIikpOgogICAgICAgIHJldHVybiByZWYKICAgIGlmIHJlZi5zdGFydHN3aXRoKCJkYXRhOiIpIG9yIChsZW4ocmVmKSA+IDI1NiBhbmQgIi8iIG5vdCBpbiByZWZbOjY0XSk6CiAgICAgICAgcmF3ID0gcmVmLnNwbGl0KCIsIiwgMSlbLTFdIGlmIHJlZi5zdGFydHN3aXRoKCJkYXRhOiIpIGVsc2UgcmVmCiAgICAgICAgZGF0YSA9IGJhc2U2NC5iNjRkZWNvZGUocmF3KQogICAgICAgIGFyciwgc3IgPSBzZi5yZWFkKGlvLkJ5dGVzSU8oZGF0YSksIGR0eXBlPSJmbG9hdDMyIiwgYWx3YXlzXzJkPUZhbHNlKQogICAgICAgIGlmIGFyci5uZGltID4gMToKICAgICAgICAgICAgYXJyID0gYXJyLm1lYW4oYXhpcz0xKQogICAgICAgIHJldHVybiBhcnIsIHNyCiAgICBpZiBub3QgUGF0aChyZWYpLmlzX2ZpbGUoKToKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwMCwgZiJyZWZfYXVkaW8g5LiN5a2Y5ZyoOiB7cmVmfSIpCiAgICByZXR1cm4gcmVmCgoKZGVmIF93YXZfYnl0ZXMod2F2OiBucC5uZGFycmF5LCBzcjogaW50KSAtPiBieXRlczoKICAgIGJ1ZiA9IGlvLkJ5dGVzSU8oKQogICAgc2Yud3JpdGUoYnVmLCB3YXYsIHNyLCBmb3JtYXQ9IldBViIsIHN1YnR5cGU9IlBDTV8xNiIpCiAgICByZXR1cm4gYnVmLmdldHZhbHVlKCkKCgpkZWYgX2FzX2xpc3Qodik6CiAgICByZXR1cm4gdiBpZiBpc2luc3RhbmNlKHYsIGxpc3QpIGVsc2UgW3ZdCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyDor7fmsYLmqKHlnosKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KY2xhc3MgVFRTUmVxKEJhc2VNb2RlbCk6CiAgICB0ZXh0OiBVbmlvbltzdHIsIGxpc3Rbc3RyXV0KICAgIGxhbmd1YWdlOiBVbmlvbltzdHIsIGxpc3Rbc3RyXV0gPSAiQXV0byIKICAgIHNwZWFrZXI6IFVuaW9uW3N0ciwgbGlzdFtzdHJdXSA9ICJWaXZpYW4iCiAgICBpbnN0cnVjdDogVW5pb25bc3RyLCBsaXN0W3N0cl1dID0gIiIKCgpjbGFzcyBEZXNpZ25SZXEoQmFzZU1vZGVsKToKICAgIHRleHQ6IFVuaW9uW3N0ciwgbGlzdFtzdHJdXQogICAgbGFuZ3VhZ2U6IFVuaW9uW3N0ciwgbGlzdFtzdHJdXSA9ICJBdXRvIgogICAgaW5zdHJ1Y3Q6IFVuaW9uW3N0ciwgbGlzdFtzdHJdXQoKCmNsYXNzIENsb25lUmVxKEJhc2VNb2RlbCk6CiAgICB0ZXh0OiBVbmlvbltzdHIsIGxpc3Rbc3RyXV0KICAgIGxhbmd1YWdlOiBVbmlvbltzdHIsIGxpc3Rbc3RyXV0gPSAiQXV0byIKICAgIHJlZl9hdWRpbzogc3RyCiAgICByZWZfdGV4dDogc3RyID0gIiIKICAgIHhfdmVjdG9yX29ubHk6IGJvb2wgPSBGYWxzZQoKCmNsYXNzIFByb21wdFJlcShCYXNlTW9kZWwpOgogICAgcmVmX2F1ZGlvOiBzdHIKICAgIHJlZl90ZXh0OiBzdHIgPSAiIgogICAgbmFtZTogc3RyID0gRmllbGQoLi4uLCBkZXNjcmlwdGlvbj0i57yT5a2Y5ZCN77yM5ZCO57utIC9jbG9uZV93aXRoX3Byb21wdCDlvJXnlKgiKQogICAgeF92ZWN0b3Jfb25seTogYm9vbCA9IEZhbHNlCiAgICBvdmVyd3JpdGU6IGJvb2wgPSBGYWxzZQoKCmNsYXNzIFByb21wdEdlblJlcShCYXNlTW9kZWwpOgogICAgdGV4dDogVW5pb25bc3RyLCBsaXN0W3N0cl1dCiAgICBsYW5ndWFnZTogVW5pb25bc3RyLCBsaXN0W3N0cl1dID0gIkF1dG8iCiAgICBwcm9tcHRfbmFtZTogc3RyCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyDnq6/ngrkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQEFQUC5nZXQoIi9oZWFsdGgiKQpkZWYgaGVhbHRoKCk6CiAgICByZXR1cm4gewogICAgICAgICJvayI6IFRydWUsCiAgICAgICAgImxvYWRlZCI6IHtrOiByb3VuZCh2WzFdLCAxKSBmb3IgaywgdiBpbiBTVEFURVsibW9kZWxzIl0uaXRlbXMoKX0sCiAgICAgICAgInByb21wdHMiOiBzb3J0ZWQoU1RBVEVbInByb21wdHMiXSksCiAgICAgICAgInJvb3QiOiBTVEFURVsicm9vdCJdLAogICAgICAgICJncHUiOiBfZ3B1KCksCiAgICB9CgoKQEFQUC5wb3N0KCIvdW5sb2FkIikKZGVmIHVubG9hZCgpOgogICAgX3VubG9hZF9hbGwoKQogICAgcmV0dXJuIHsib2siOiBUcnVlLCAiZ3B1IjogX2dwdSgpfQoKCkBBUFAuZ2V0KCIvc3BlYWtlcnMiKQpkZWYgc3BlYWtlcnMoKToKICAgIG0gPSBfbG9hZCgiY3VzdG9tIikKICAgIG91dDogZGljdFtzdHIsIEFueV0gPSB7fQogICAgZm9yIGZuIGluICgiZ2V0X3N1cHBvcnRlZF9zcGVha2VycyIsICJnZXRfc3VwcG9ydGVkX2xhbmd1YWdlcyIpOgogICAgICAgIHRyeToKICAgICAgICAgICAgb3V0W2ZuLnJlcGxhY2UoImdldF9zdXBwb3J0ZWRfIiwgIiIpXSA9IGdldGF0dHIobSwgZm4pKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAgICAgb3V0W2ZuXSA9IGYidW5hdmFpbGFibGU6IHtleGN9IgogICAgcmV0dXJuIG91dAoKCkBBUFAucG9zdCgiL3R0cyIpCmRlZiB0dHMocmVxOiBUVFNSZXEpOgogICAgbSA9IF9sb2FkKCJjdXN0b20iKQogICAga3cgPSB7Imluc3RydWN0IjogcmVxLmluc3RydWN0fSBpZiByZXEuaW5zdHJ1Y3QgZWxzZSB7fQogICAgd2F2cywgc3IgPSBtLmdlbmVyYXRlX2N1c3RvbV92b2ljZSgKICAgICAgICB0ZXh0PXJlcS50ZXh0LAogICAgICAgIGxhbmd1YWdlPXJlcS5sYW5ndWFnZSwKICAgICAgICBzcGVha2VyPXJlcS5zcGVha2VyLAogICAgICAgICoqa3csCiAgICApCiAgICByZXR1cm4gX3BhY2sod2F2cywgc3IpCgoKQEFQUC5wb3N0KCIvZGVzaWduIikKZGVmIGRlc2lnbihyZXE6IERlc2lnblJlcSk6CiAgICBtID0gX2xvYWQoImRlc2lnbiIpCiAgICB3YXZzLCBzciA9IG0uZ2VuZXJhdGVfdm9pY2VfZGVzaWduKAogICAgICAgIHRleHQ9cmVxLnRleHQsCiAgICAgICAgbGFuZ3VhZ2U9cmVxLmxhbmd1YWdlLAogICAgICAgIGluc3RydWN0PXJlcS5pbnN0cnVjdCwKICAgICkKICAgIHJldHVybiBfcGFjayh3YXZzLCBzcikKCgpAQVBQLnBvc3QoIi9jbG9uZSIpCmRlZiBjbG9uZShyZXE6IENsb25lUmVxKToKICAgIG0gPSBfbG9hZCgiYmFzZSIpCiAgICBrdyA9IHsicmVmX3RleHQiOiByZXEucmVmX3RleHR9IGlmIHJlcS5yZWZfdGV4dCBlbHNlIHt9CiAgICB3YXZzLCBzciA9IG0uZ2VuZXJhdGVfdm9pY2VfY2xvbmUoCiAgICAgICAgdGV4dD1yZXEudGV4dCwKICAgICAgICBsYW5ndWFnZT1yZXEubGFuZ3VhZ2UsCiAgICAgICAgcmVmX2F1ZGlvPV9sb2FkX3JlZihyZXEucmVmX2F1ZGlvKSwKICAgICAgICB4X3ZlY3Rvcl9vbmx5X21vZGU9cmVxLnhfdmVjdG9yX29ubHksCiAgICAgICAgKiprdywKICAgICkKICAgIHJldHVybiBfcGFjayh3YXZzLCBzcikKCgpAQVBQLnBvc3QoIi9jbG9uZV9wcm9tcHQiKQpkZWYgY2xvbmVfcHJvbXB0KHJlcTogUHJvbXB0UmVxKToKICAgIG0gPSBfbG9hZCgiYmFzZSIpCiAgICBkZXN0ID0gUGF0aChTVEFURVsicHJvbXB0X2RpciJdKSAvIGYie3JlcS5uYW1lfS5qc29uIgogICAgaWYgZGVzdC5leGlzdHMoKSBhbmQgbm90IHJlcS5vdmVyd3JpdGU6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDksIGYicHJvbXB0ICd7cmVxLm5hbWV9JyDlt7LlrZjlnKjvvIhvdmVyd3JpdGU9dHJ1ZSDlj6/opobnm5bvvIkiKQoKICAgIGt3ID0geyJyZWZfdGV4dCI6IHJlcS5yZWZfdGV4dH0gaWYgcmVxLnJlZl90ZXh0IGVsc2Uge30KICAgIHByb21wdCA9IG0uY3JlYXRlX3ZvaWNlX2Nsb25lX3Byb21wdCgKICAgICAgICByZWZfYXVkaW89X2xvYWRfcmVmKHJlcS5yZWZfYXVkaW8pLAogICAgICAgIHhfdmVjdG9yX29ubHlfbW9kZT1yZXEueF92ZWN0b3Jfb25seSwKICAgICAgICAqKmt3LAogICAgKQogICAgU1RBVEVbInByb21wdHMiXVtyZXEubmFtZV0gPSBwcm9tcHQKICAgICMg6K6w5b2VIHJlZl9hdWRpb++8jOiuqeacjeWKoemHjeWQr+WQjuiDveWHrei/meS7vSBtZXRhIOiHquWKqOmHjeW7uumfs+iJsgogICAgcmVidWlsZGFibGUgPSBub3QgcmVxLnJlZl9hdWRpby5zdGFydHN3aXRoKCJkYXRhOiIpIGFuZCBsZW4ocmVxLnJlZl9hdWRpbykgPCA1MTIKICAgIG1ldGEgPSB7CiAgICAgICAgIm5hbWUiOiByZXEubmFtZSwKICAgICAgICAicmVmX2F1ZGlvIjogcmVxLnJlZl9hdWRpbyBpZiByZWJ1aWxkYWJsZSBlbHNlICI8aW5saW5lIGJhc2U2NCwg5LiN5Y+v6Ieq5Yqo6YeN5bu6PiIsCiAgICAgICAgInJlZl90ZXh0IjogcmVxLnJlZl90ZXh0LAogICAgICAgICJ4X3ZlY3Rvcl9vbmx5IjogcmVxLnhfdmVjdG9yX29ubHksCiAgICAgICAgInJlYnVpbGRhYmxlIjogcmVidWlsZGFibGUsCiAgICAgICAgImNyZWF0ZWQiOiB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZFQlSDolTTolUyIpLAogICAgfQogICAgZGVzdC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgZGVzdC53cml0ZV90ZXh0KGpzb24uZHVtcHMobWV0YSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MiksIGVuY29kaW5nPSJ1dGYtOCIpCiAgICByZXR1cm4geyJvayI6IFRydWUsICJuYW1lIjogcmVxLm5hbWUsICJjYWNoZSI6IHN0cihkZXN0KSwgInJlYnVpbGRhYmxlIjogcmVidWlsZGFibGV9CgoKQEFQUC5wb3N0KCIvY2xvbmVfd2l0aF9wcm9tcHQiKQpkZWYgY2xvbmVfd2l0aF9wcm9tcHQocmVxOiBQcm9tcHRHZW5SZXEpOgogICAgbSA9IF9sb2FkKCJiYXNlIikKICAgIGlmIHJlcS5wcm9tcHRfbmFtZSBub3QgaW4gU1RBVEVbInByb21wdHMiXToKICAgICAgICBfcmVidWlsZF9wcm9tcHQobSwgcmVxLnByb21wdF9uYW1lKQogICAgd2F2cywgc3IgPSBtLmdlbmVyYXRlX3ZvaWNlX2Nsb25lKAogICAgICAgIHRleHQ9cmVxLnRleHQsCiAgICAgICAgbGFuZ3VhZ2U9cmVxLmxhbmd1YWdlLAogICAgICAgIHZvaWNlX2Nsb25lX3Byb21wdD1TVEFURVsicHJvbXB0cyJdW3JlcS5wcm9tcHRfbmFtZV0sCiAgICApCiAgICByZXR1cm4gX3BhY2sod2F2cywgc3IpCgoKZGVmIF9yZWJ1aWxkX3Byb21wdChtb2RlbCwgbmFtZTogc3RyKSAtPiBOb25lOgogICAgIiIi5YaF5a2Y6YeM5rKh5pyJ5bCx57+756OB55uYIG1ldGEg6YeN5bu6IOKAlOKAlCDmnI3liqHph43lkK/lkI7pn7PoibLkvp3nhLblj6/nlKjjgIIiIiIKICAgIGYgPSBQYXRoKFNUQVRFWyJwcm9tcHRfZGlyIl0pIC8gZiJ7bmFtZX0uanNvbiIKICAgIGlmIG5vdCBmLmlzX2ZpbGUoKToKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwNCwgZiJwcm9tcHQgJ3tuYW1lfScg5LiN5a2Y5Zyo77yI5YWI6LCDIC9jbG9uZV9wcm9tcHTvvIkiKQogICAgbWV0YSA9IGpzb24ubG9hZHMoZi5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICBpZiBub3QgbWV0YS5nZXQoInJlYnVpbGRhYmxlIik6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDksIGYicHJvbXB0ICd7bmFtZX0nIOaYr+WGheiBlCBiYXNlNjQg5bu656uL55qE77yM5peg5rOV6YeN5bu677yM6K+36YeN6LeRIC9jbG9uZV9wcm9tcHQiKQogICAgbG9nLmluZm8oInJlYnVpbGRpbmcgcHJvbXB0ICVzIGZyb20gJXMiLCBuYW1lLCBtZXRhWyJyZWZfYXVkaW8iXSkKICAgIGt3ID0geyJyZWZfdGV4dCI6IG1ldGFbInJlZl90ZXh0Il19IGlmIG1ldGEuZ2V0KCJyZWZfdGV4dCIpIGVsc2Uge30KICAgIFNUQVRFWyJwcm9tcHRzIl1bbmFtZV0gPSBtb2RlbC5jcmVhdGVfdm9pY2VfY2xvbmVfcHJvbXB0KAogICAgICAgIHJlZl9hdWRpbz1fbG9hZF9yZWYobWV0YVsicmVmX2F1ZGlvIl0pLAogICAgICAgIHhfdmVjdG9yX29ubHlfbW9kZT1tZXRhLmdldCgieF92ZWN0b3Jfb25seSIsIEZhbHNlKSwKICAgICAgICAqKmt3LAogICAgKQoKCkBBUFAuZ2V0KCIvcHJvbXB0X2xpc3QiKQpkZWYgcHJvbXB0X2xpc3QoKToKICAgIGQgPSBQYXRoKFNUQVRFWyJwcm9tcHRfZGlyIl0pCiAgICBvdXQgPSBbXQogICAgZm9yIGYgaW4gc29ydGVkKGQuZ2xvYigiKi5qc29uIikpOgogICAgICAgIHRyeToKICAgICAgICAgICAgbWV0YSA9IGpzb24ubG9hZHMoZi5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBtZXRhWyJsb2FkZWQiXSA9IG1ldGEuZ2V0KCJuYW1lIikgaW4gU1RBVEVbInByb21wdHMiXQogICAgICAgIG91dC5hcHBlbmQobWV0YSkKICAgIHJldHVybiB7InByb21wdHMiOiBvdXQsICJsb2FkZWQiOiBzb3J0ZWQoU1RBVEVbInByb21wdHMiXSl9CgoKZGVmIF9wYWNrKHdhdnMsIHNyOiBpbnQpOgogICAgd2F2cyA9IF9hc19saXN0KHdhdnMpCiAgICBpZiBsZW4od2F2cykgPT0gMToKICAgICAgICByZXR1cm4gUmVzcG9uc2UoX3dhdl9ieXRlcyhucC5hc2FycmF5KHdhdnNbMF0pLCBzciksIG1lZGlhX3R5cGU9ImF1ZGlvL3dhdiIpCiAgICAjIOWkmuadoSDihpIg6L+U5ZueIGJhc2U2NCDmlbDnu4TvvIzpgb/lhY3kuLTml7bmlofku7YKICAgIHJldHVybiBKU09OUmVzcG9uc2UoewogICAgICAgICJzYW1wbGVfcmF0ZSI6IHNyLAogICAgICAgICJjb3VudCI6IGxlbih3YXZzKSwKICAgICAgICAid2F2c19iNjQiOiBbYmFzZTY0LmI2NGVuY29kZShfd2F2X2J5dGVzKG5wLmFzYXJyYXkodyksIHNyKSkuZGVjb2RlKCkgZm9yIHcgaW4gd2F2c10sCiAgICB9KQoKCmRlZiBtYWluKCk6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1ob3N0IiwgZGVmYXVsdD0iMC4wLjAuMCIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcG9ydCIsIHR5cGU9aW50LCBkZWZhdWx0PTk4ODApCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tbW9kZWxzIiwgZGVmYXVsdD0iL3Jvb3QvZGF0YS9tb2RlbHMvdHRzL3F3ZW4zLXR0cyIsCiAgICAgICAgICAgICAgICAgICAgaGVscD0i5qih5Z6L5qC555uu5b2V77yb5YW25LiL5Y+v5pyJIEN1c3RvbVZvaWNlLyBWb2ljZURlc2lnbi8gQmFzZS8g5a2Q55uu5b2VIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1wcm9tcHQtZGlyIiwgZGVmYXVsdD0iL3Jvb3QvZGF0YS92b2ljZS1wcm9tcHRzIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1hdHRuIiwgZGVmYXVsdD0iZmxhc2hfYXR0ZW50aW9uXzIiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9ImZsYXNoX2F0dGVudGlvbl8yIHwgc2RwYSB8ICcnIOWFs+mXrSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcHJlbG9hZCIsIGRlZmF1bHQ9IiIsIGhlbHA9IuWQr+WKqOWNs+WKoOi9ve+8jOmAl+WPt+WIhumalO+8mmN1c3RvbSxkZXNpZ24sYmFzZSIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCgogICAgU1RBVEVbInJvb3QiXSA9IGFyZ3MubW9kZWxzCiAgICBTVEFURVsicHJvbXB0X2RpciJdID0gYXJncy5wcm9tcHRfZGlyCiAgICBTVEFURVsiYXR0biJdID0gYXJncy5hdHRuIG9yIE5vbmUKICAgIFBhdGgoYXJncy5wcm9tcHRfZGlyKS5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCgogICAgaWYgYXJncy5wcmVsb2FkOgogICAgICAgIGZvciBrIGluIFt4LnN0cmlwKCkgZm9yIHggaW4gYXJncy5wcmVsb2FkLnNwbGl0KCIsIikgaWYgeC5zdHJpcCgpXToKICAgICAgICAgICAgX2xvYWQoaykKCiAgICBsb2cuaW5mbygiUXdlbjMtVFRTIOWwsee7qiBodHRwOi8vJXM6JWQgIG1vZGVscz0lcyIsIGFyZ3MuaG9zdCwgYXJncy5wb3J0LCBhcmdzLm1vZGVscykKICAgIHV2aWNvcm4ucnVuKEFQUCwgaG9zdD1hcmdzLmhvc3QsIHBvcnQ9YXJncy5wb3J0LCBsb2dfbGV2ZWw9ImluZm8iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""
+qwen3_tts_server.py -- Qwen3-TTS HTTP 服务（配音/克隆/声音设计）
+
+直连 qwen-tts 官方包，不做二次封装。API 依据官方模型卡实测写法：
+    Qwen3TTSModel.from_pretrained(path, device_map, dtype, attn_implementation)
+    model.generate_custom_voice(text, language, speaker, instruct)
+    model.generate_voice_design(text, language, instruct)
+    model.generate_voice_clone(text, language, ref_audio, ref_text,
+                               x_vector_only_mode=False, voice_clone_prompt=...)
+    model.create_voice_clone_prompt(ref_audio, ref_text, x_vector_only_mode)
+
+设计要点：
+  * 懒加载 + 可卸载 —— 4090 48G 上 H3 要 39 GB，TTS 必须能立刻腾地方
+  * voice prompt 落盘缓存 —— 同一角色音色跨多句复用，不重复抽特征
+  * 输出 48 kHz 重采样交给 ffmpeg，本服务只吐模型原生采样率
+
+启动：
+    python qwen3_tts_server.py --port 9880 --models /root/data/models/tts/qwen3-tts
+接口：
+    POST /clone_with_prompt {text, language, prompt_name}
+    GET  /prompt_list       已落盘的音色缓存（含 loaded 标记）
+    GET  /health            常驻状态与显存
+    POST /unload            卸载全部模型，退还显存
+    GET  /speakers          预设音色清单
+    POST /tts               {text, language, speaker, instruct}
+    POST /design            {text, language, instruct}
+    POST /clone             {text, language, ref_audio, ref_text, x_vector_only}
+    POST /clone_prompt      {ref_audio, ref_text, name, x_vector_only}  -> 建缓存
+    POST /clone_with_prompt {text, language, prompt_name}
+"""
+from __future__ import annotations
+
+import argparse
+import base64
+import hashlib
+import io
+import json
+import logging
+import os
+import time
+from pathlib import Path
+from typing import Any, Union
+
+import numpy as np
+import soundfile as sf
+import torch
+import uvicorn
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse, Response
+from pydantic import BaseModel, Field
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+log = logging.getLogger("qwen3tts")
+
+APP = FastAPI(title="Qwen3-TTS", version="1.0")
+
+# ---------------------------------------------------------------------------
+# 全局状态
+# ---------------------------------------------------------------------------
+STATE: dict[str, Any] = {
+    "models": {},        # kind -> (model, load_time)
+    "prompts": {},       # name -> prompt items
+    "root": None,        # 模型根目录
+    "prompt_dir": None,  # prompt 缓存目录
+    "attn": "flash_attention_2",
+}
+
+KIND_DIR = {
+    "custom": "CustomVoice",
+    "design": "VoiceDesign",
+    "base": "Base",       # 克隆用
+}
+
+
+def _resolve(kind: str) -> str:
+    """把 kind 解析成本地目录或 HF repo id。"""
+    root = Path(STATE["root"])
+    # 本地优先：<root>/<Kind> 或 <root> 自身就是该 kind
+    cand = root / KIND_DIR[kind]
+    if cand.is_dir():
+        return str(cand)
+    if root.is_dir() and any(root.glob("*.safetensors")):
+        return str(root)
+    return f"Qwen/Qwen3-TTS-12Hz-1.7B-{KIND_DIR[kind]}"
+
+
+def _load(kind: str):
+    """懒加载。已加载直接返回。"""
+    if kind in STATE["models"]:
+        return STATE["models"][kind][0]
+
+    from qwen_tts import Qwen3TTSModel
+
+    path = _resolve(kind)
+    log.info("loading %s <- %s", kind, path)
+    t0 = time.time()
+
+    kwargs = dict(device_map="cuda:0", dtype=torch.bfloat16)
+    attn = STATE["attn"]
+    if attn:
+        kwargs["attn_implementation"] = attn
+    try:
+        model = Qwen3TTSModel.from_pretrained(path, **kwargs)
+    except Exception as exc:                     # flash-attn 不可用就退回 sdpa
+        if attn:
+            log.warning("attn=%s 加载失败(%s)，退回 sdpa", attn, exc)
+            kwargs.pop("attn_implementation", None)
+            model = Qwen3TTSModel.from_pretrained(path, **kwargs)
+            STATE["attn"] = None
+        else:
+            raise
+
+    STATE["models"][kind] = (model, time.time() - t0)
+    log.info("%s loaded in %.1fs", kind, time.time() - t0)
+    return model
+
+
+def _unload_all():
+    STATE["models"].clear()
+    STATE["prompts"].clear()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
+
+
+def _gpu() -> dict:
+    if not torch.cuda.is_available():
+        return {"cuda": False}
+    free, total = torch.cuda.mem_get_info()
+    return {
+        "cuda": True,
+        "device": torch.cuda.get_device_name(0),
+        "allocated_gb": round(torch.cuda.memory_allocated() / 2**30, 2),
+        "reserved_gb": round(torch.cuda.memory_reserved() / 2**30, 2),
+        "free_gb": round(free / 2**30, 2),
+        "total_gb": round(total / 2**30, 2),
+    }
+
+
+# ---------------------------------------------------------------------------
+# 音频 I/O
+# ---------------------------------------------------------------------------
+def _load_ref(ref: str) -> Union[str, tuple[np.ndarray, int]]:
+    """ref_audio 支持：本地路径 / http URL / data:base64 / 裸 base64。"""
+    if ref.startswith(("http://", "https://")):
+        return ref
+    if ref.startswith("data:") or (len(ref) > 256 and "/" not in ref[:64]):
+        raw = ref.split(",", 1)[-1] if ref.startswith("data:") else ref
+        data = base64.b64decode(raw)
+        arr, sr = sf.read(io.BytesIO(data), dtype="float32", always_2d=False)
+        if arr.ndim > 1:
+            arr = arr.mean(axis=1)
+        return arr, sr
+    if not Path(ref).is_file():
+        raise HTTPException(400, f"ref_audio 不存在: {ref}")
+    return ref
+
+
+def _wav_bytes(wav: np.ndarray, sr: int) -> bytes:
+    buf = io.BytesIO()
+    sf.write(buf, wav, sr, format="WAV", subtype="PCM_16")
+    return buf.getvalue()
+
+
+def _as_list(v):
+    return v if isinstance(v, list) else [v]
+
+
+# ---------------------------------------------------------------------------
+# 请求模型
+# ---------------------------------------------------------------------------
+class TTSReq(BaseModel):
+    text: Union[str, list[str]]
+    language: Union[str, list[str]] = "Auto"
+    speaker: Union[str, list[str]] = "Vivian"
+    instruct: Union[str, list[str]] = ""
+
+
+class DesignReq(BaseModel):
+    text: Union[str, list[str]]
+    language: Union[str, list[str]] = "Auto"
+    instruct: Union[str, list[str]]
+
+
+class CloneReq(BaseModel):
+    text: Union[str, list[str]]
+    language: Union[str, list[str]] = "Auto"
+    ref_audio: str
+    ref_text: str = ""
+    x_vector_only: bool = False
+
+
+class PromptReq(BaseModel):
+    ref_audio: str
+    ref_text: str = ""
+    name: str = Field(..., description="缓存名，后续 /clone_with_prompt 引用")
+    x_vector_only: bool = False
+    overwrite: bool = False
+
+
+class PromptGenReq(BaseModel):
+    text: Union[str, list[str]]
+    language: Union[str, list[str]] = "Auto"
+    prompt_name: str
+
+
+# ---------------------------------------------------------------------------
+# 端点
+# ---------------------------------------------------------------------------
+@APP.get("/health")
+def health():
+    return {
+        "ok": True,
+        "loaded": {k: round(v[1], 1) for k, v in STATE["models"].items()},
+        "prompts": sorted(STATE["prompts"]),
+        "root": STATE["root"],
+        "gpu": _gpu(),
+    }
+
+
+@APP.post("/unload")
+def unload():
+    _unload_all()
+    return {"ok": True, "gpu": _gpu()}
+
+
+@APP.get("/speakers")
+def speakers():
+    m = _load("custom")
+    out: dict[str, Any] = {}
+    for fn in ("get_supported_speakers", "get_supported_languages"):
+        try:
+            out[fn.replace("get_supported_", "")] = getattr(m, fn)()
+        except Exception as exc:
+            out[fn] = f"unavailable: {exc}"
+    return out
+
+
+@APP.post("/tts")
+def tts(req: TTSReq):
+    m = _load("custom")
+    kw = {"instruct": req.instruct} if req.instruct else {}
+    wavs, sr = m.generate_custom_voice(
+        text=req.text,
+        language=req.language,
+        speaker=req.speaker,
+        **kw,
+    )
+    return _pack(wavs, sr)
+
+
+@APP.post("/design")
+def design(req: DesignReq):
+    m = _load("design")
+    wavs, sr = m.generate_voice_design(
+        text=req.text,
+        language=req.language,
+        instruct=req.instruct,
+    )
+    return _pack(wavs, sr)
+
+
+@APP.post("/clone")
+def clone(req: CloneReq):
+    m = _load("base")
+    kw = {"ref_text": req.ref_text} if req.ref_text else {}
+    wavs, sr = m.generate_voice_clone(
+        text=req.text,
+        language=req.language,
+        ref_audio=_load_ref(req.ref_audio),
+        x_vector_only_mode=req.x_vector_only,
+        **kw,
+    )
+    return _pack(wavs, sr)
+
+
+@APP.post("/clone_prompt")
+def clone_prompt(req: PromptReq):
+    m = _load("base")
+    dest = Path(STATE["prompt_dir"]) / f"{req.name}.json"
+    if dest.exists() and not req.overwrite:
+        raise HTTPException(409, f"prompt '{req.name}' 已存在（overwrite=true 可覆盖）")
+
+    kw = {"ref_text": req.ref_text} if req.ref_text else {}
+    prompt = m.create_voice_clone_prompt(
+        ref_audio=_load_ref(req.ref_audio),
+        x_vector_only_mode=req.x_vector_only,
+        **kw,
+    )
+    STATE["prompts"][req.name] = prompt
+    # 记录 ref_audio，让服务重启后能凭这份 meta 自动重建音色
+    rebuildable = not req.ref_audio.startswith("data:") and len(req.ref_audio) < 512
+    meta = {
+        "name": req.name,
+        "ref_audio": req.ref_audio if rebuildable else "<inline base64, 不可自动重建>",
+        "ref_text": req.ref_text,
+        "x_vector_only": req.x_vector_only,
+        "rebuildable": rebuildable,
+        "created": time.strftime("%Y-%m-%dT%H:%M:%S"),
+    }
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+    return {"ok": True, "name": req.name, "cache": str(dest), "rebuildable": rebuildable}
+
+
+@APP.post("/clone_with_prompt")
+def clone_with_prompt(req: PromptGenReq):
+    m = _load("base")
+    if req.prompt_name not in STATE["prompts"]:
+        _rebuild_prompt(m, req.prompt_name)
+    wavs, sr = m.generate_voice_clone(
+        text=req.text,
+        language=req.language,
+        voice_clone_prompt=STATE["prompts"][req.prompt_name],
+    )
+    return _pack(wavs, sr)
+
+
+def _rebuild_prompt(model, name: str) -> None:
+    """内存里没有就翻磁盘 meta 重建 —— 服务重启后音色依然可用。"""
+    f = Path(STATE["prompt_dir"]) / f"{name}.json"
+    if not f.is_file():
+        raise HTTPException(404, f"prompt '{name}' 不存在（先调 /clone_prompt）")
+    meta = json.loads(f.read_text(encoding="utf-8"))
+    if not meta.get("rebuildable"):
+        raise HTTPException(409, f"prompt '{name}' 是内联 base64 建立的，无法重建，请重跑 /clone_prompt")
+    log.info("rebuilding prompt %s from %s", name, meta["ref_audio"])
+    kw = {"ref_text": meta["ref_text"]} if meta.get("ref_text") else {}
+    STATE["prompts"][name] = model.create_voice_clone_prompt(
+        ref_audio=_load_ref(meta["ref_audio"]),
+        x_vector_only_mode=meta.get("x_vector_only", False),
+        **kw,
+    )
+
+
+@APP.get("/prompt_list")
+def prompt_list():
+    d = Path(STATE["prompt_dir"])
+    out = []
+    for f in sorted(d.glob("*.json")):
+        try:
+            meta = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        meta["loaded"] = meta.get("name") in STATE["prompts"]
+        out.append(meta)
+    return {"prompts": out, "loaded": sorted(STATE["prompts"])}
+
+
+def _pack(wavs, sr: int):
+    wavs = _as_list(wavs)
+    if len(wavs) == 1:
+        return Response(_wav_bytes(np.asarray(wavs[0]), sr), media_type="audio/wav")
+    # 多条 → 返回 base64 数组，避免临时文件
+    return JSONResponse({
+        "sample_rate": sr,
+        "count": len(wavs),
+        "wavs_b64": [base64.b64encode(_wav_bytes(np.asarray(w), sr)).decode() for w in wavs],
+    })
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--host", default="0.0.0.0")
+    ap.add_argument("--port", type=int, default=9880)
+    ap.add_argument("--models", default="/root/data/models/tts/qwen3-tts",
+                    help="模型根目录；其下可有 CustomVoice/ VoiceDesign/ Base/ 子目录")
+    ap.add_argument("--prompt-dir", default="/root/data/voice-prompts")
+    ap.add_argument("--attn", default="flash_attention_2",
+                    help="flash_attention_2 | sdpa | '' 关闭")
+    ap.add_argument("--preload", default="", help="启动即加载，逗号分隔：custom,design,base")
+    args = ap.parse_args()
+
+    STATE["root"] = args.models
+    STATE["prompt_dir"] = args.prompt_dir
+    STATE["attn"] = args.attn or None
+    Path(args.prompt_dir).mkdir(parents=True, exist_ok=True)
+
+    if args.preload:
+        for k in [x.strip() for x in args.preload.split(",") if x.strip()]:
+            _load(k)
+
+    log.info("Qwen3-TTS 就绪 http://%s:%d  models=%s", args.host, args.port, args.models)
+    uvicorn.run(APP, host=args.host, port=args.port, log_level="info")
+
+
+if __name__ == "__main__":
+    main()

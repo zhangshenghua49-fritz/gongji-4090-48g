@@ -1,1 +1,207 @@
-IyDpgInlnovmoLjpqozvvJrov5nlpZfkuJzopb/liLDlupXmmK/kuI3mmK/lvIDmupDmnIDlvLrvvIgyMDI2LTEwLTIxIOWunua1i++8iQoKPiAqKuKaoO+4jyAyMDI2LTEwLTIyIOWkjeaguCoq77ya5pys5paH5pyJ5LiJ5aSE6ZyA6KaB5pu05q2j77yM6K+m6KeBIFtgZnJvbnRpZXItMjAyNi0xMC0yMi5tZGBdKGZyb250aWVyLTIwMjYtMTAtMjIubWQp44CCCj4g5LiA5Y+l6K+d77yaKirop4bpopHvvIhIM++8ieaIkOeri+S4lOabtOW8uioq77yISTJWIOamnCAxMTQwIOaYr+aAu+amnOesrOS4gO+8ie+8myoq5Zu+5YOPIFotSW1hZ2UtVHVyYm8g6YKj5q6155qE6K+05rOV5piv6ZSZ55qEKirvvIjlroPlnKjmppzvvIw5MzYg5YiG5o6SIDcxLzEwNe+8jOS4jeaYryLkuI3lnKjmppzkuIoi77yJ77ybKirlo7Dpn7Pov5nmoLzopoHlho3mjaLkuIDmrKEqKiDigJTigJQg5Zug5bmh5beh5pel6K+t5YWL6ZqG55qE5q2j6Kej5pivICoqVm94Q1BNMioq77yINDhrSHogLyBBcGFjaGUtMi4wIC8g5pel6K+tIFNJTSAwLjgyNe+8ie+8jOS4jeaYryBJbmRleFRUUzLvvJtNaW5nIOS/neeVmeS4uuS4reaWh+aXgeeZveOAggo+IOS4i+aWh+S/neeVmSAxMC0yMSDljp/osozkvZzkuLrorrDlvZXvvIzooqvmm7TmraPlpITku6UgYOOAkDEwLTIyIOabtOato+OAkWAg5qCH5rOo44CCCgrkvaDpl67jgIzmiJHmib7nmoTmqKHlnovmmK/mnIDlvLrnmoTlkJfjgI3jgILov5nnr4fmmK/mi7/nrKzkuInmlrnnm7LmtYvmppzljZXpgJDnsbvmoLjlr7nnmoTnu5PorrrvvIzkuI3mmK/miJHor7TkuobnrpfjgIIKCuamnOWNleadpea6kOWFqOmDqOaYryBBcnRpZmljaWFsIEFuYWx5c2lz77yIQUHvvInnmoQgcGFpcndpc2Ug5Lq657G755uy5oqVIEVsb++8jOS4jeaYr+WOguWVhuiHquivhOOAggrkuInmnaHmppznmoTmm7TmlrDml7bpl7Tpg73lnKggMjAyNi0xMO+8jOS4juacrOaWh+WQjOaXpeOAggoKLS0tCgojIyDkuIDlj6Xor53nu5PorroKCnwg57G75YirIHwg5oiR6KOF55qEIHwg5qac5Y2V5ZCN5qyhIHwg5Yik5a6aIHwKfC0tLXwtLS18LS0tfC0tLXwKfCDop4bpopHnlJ/miJAgfCBNaW5pTWF4ICoqSDMqKu+8iDc2OHDvvIkgfCAqKuW8gOa6kOesrCAxKirvvIzmgLvmppznrKwgNe+8jEVsbyAxMTU4IHwg4pyFIOW3suaYr+WkqeiKseadvyB8Cnwg5Zu+5YOP55Sf5oiQIHwgKipRd2VuLUltYWdlLTIuMSoqIHwgKirlvIDmupDnrKwgMSoq77yM5oC75qac5bm25YiX56ysIDIx77yMRWxvIDEwNDIgfCDinIUg5bey5piv5aSp6Iqx5p2/IHwKfCDlo7Dpn7PlhYvpmoYgVFRTIHwg5Y6f5pa55qGIIFF3ZW4zLVRUUyB8ICoq5pyq6L+b5qacKiogfCDimqDvuI8g5bey6KGlICoqTWluZy0zLjAtdHRzKirvvIjlvIDmupDnrKwgMe+8jEVsbyAxMDY277yJIHwKCioq6KeG6aKR5ZKM5Zu+5YOP5rKh5pyJ5pu05aW955qE5byA5rqQ6YCJ5oup5Y+v5o2iKirjgIJUVFMg6L+Z5LiA5qC85Y6f5YWI56Gu5a6e5LiN5piv5pyA5by677yM5bey57uP6KGl5LiK5LqG44CCCgotLS0KCiMjIDEuIOinhumike+8mkgzIOaYr+W8gOa6kOaWreWxguesrOS4gAoKW0FBLVZpZGVvLVQyViB2Mi4xXShodHRwczovL2FydGlmaWNpYWxhbmFseXNpcy5haS92aWRlby9sZWFkZXJib2FyZC90ZXh0LXRvLXZpZGVvKe+8jOamnOWNleiHquW3seeahCBGQVEg5Y6f6K+d77yaCgo+ICoqV2hpY2ggaXMgdGhlIGJlc3Qgb3BlbiB3ZWlnaHRzIG1vZGVsIG9uIEFBLVZpZGVvLVQyViB2Mi4xPyoqCj4gTWluaU1heCBIMyAoNzY4cCkgY3VycmVudGx5IGxlYWRzIGFtb25nIG9wZW4gd2VpZ2h0cyBtb2RlbHMgd2l0aCBhbiBFbG8gc2NvcmUgb2YgKioxMTU4KiosCj4gZm9sbG93ZWQgYnkgTFRYLTIuNSBGYXN0IChFbG8gOTUxKSBhbmQgTFRYLTIuNSBQcm8gKEVsbyA5NDgpLgoKfCDlkI3mrKEgfCDmqKHlnosgfCBFbG8gfCDlvIDmupDmnYPph40gfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEgfCBXYW4gMy4wIHwgMTE3MyB8IOKdjCDlj6rmnIkgQVBJ77yMJDEyL21pbiB8CnwgMiB8IFV0b3BhaSBYIHwgMTE2NiB8IOKdjCB8CnwgMyB8IERyZWFtaW5hIFNlZWRhbmNlIDIuNSB8IDExNTkgfCDinYwgfAp8IDQgfCBGTFVYIDMgTWF4IHwgMTE1OSB8IOKdjCB8CnwgKio1KiogfCAqKk1pbmlNYXggSDMgKDc2OHApKiogfCAqKjExNTgqKiB8IOKchSBIdWdnaW5nRmFjZSB8CnwgNiB8IE1pbmlNYXggSDMgTWF4IHwgMTE1NiB8IOKdjO+8iOesrOS4ieaWueWQjuiuree7g++8jOingeS4i++8iSB8CnwgMjMgfCBMVFgtMi41IEZhc3QgfCA5NTEgfCDinIUgfAp8IDI0IHwgTFRYLTIuNSBQcm8gfCA5NDggfCDinIUgfAoKKipIMyDpooblhYjnrKzkuozlkI3lvIDmupDmqKHlnovvvIhMVFgtMi41IEZhc3TvvInmlbTmlbQgMjA5IOWIhioq77yM6L+Z5LiN5piv5LiA5Liq6YeP57qn55qE5beu6Led44CCCuaAu+amnOWJjeWbm+WQjeWFqOaYr+mXrea6kCBBUEnvvIzot5HkuI3kuobmnKzlnLDjgIIKCuOAkDEwLTIyIOihpeWFheOAkSoq5LiK6Z2i6L+Z5byg5pivIFQyVu+8iOaWh+eUn+inhumike+8ieamnOOAguWcqCBJMlbvvIjlm77nlJ/op4bpopHvvInmppzkuIogSDMg5pu05by6IOKAlOKAlCAxMTQwIOWIhuaYr+aAu+amnOesrCAxKirvvIzljovov4cgRkxVWCAzIE1heCAoNzIwcCkgMTEzOOOAgURyZWFtaW5hIFNlZWRhbmNlIDIuNSAxMTM444CBR2VtaW5pIE9tbmkgRmxhc2ggMS4xIDExMzLjgIFXYW4gMy4wIDExMjfjgIFIMyBNYXggMTEyNeOAguWbvueUn+inhumikeaJjeaYr+S9oOWBmuWIhumVnOWKqOeUu+eahOS4u+i3r+W+hO+8jOaJgOS7pei/meadoeavlCBUMlYg55qE56ysIDUg5ZCN5pu05pyJ5YiG6YeP44CCCgrkuKTkuKrlrrnmmJPouKnnmoTlnZHvvIzlt7Lnu4/moLjlrp7vvJoKCi0gKipXYW4gMy4wIOayoeacieW8gOa6kOadg+mHjSoq44CC5a6Y5pa5IEdpdEh1YiDnu4Tnu4flj6rmnIkgMi4xIC8gMi4y77yMYEFsaWJhYmFDbG91ZC1PZmZpY2lhbC9XYW4zLjBgIOS7k+W6k+aIquiHsyAyMDI2LTA5IOWPquaciSBSRUFETUUg5ZKMIEFwYWNoZSAyLjAg6K645Y+v6K+B77yMKirmsqHmnInku7vkvZXmqKHlnovljaHlkozmnYPph43mlofku7YqKu+8jENvbWZ5VUkg6ZuG5oiQ5Lmf5Y+q5piv6LCD5omY566hIEFQSeOAguijheS4jeS6hu+8jOetieWumOaWueaUvuadg+mHjeWGjeaNouOAggotICoqSDMgTWF4IOS4jeaYr+WumOaWueeJiO+8jOWIhuaVsOi/mOabtOS9jioq44CC5a6D5piv5pyJ5Lq65ou/IE1pbmlNYXgg5pS+5Ye655qEIEgzIOadg+mHjeWBmuWQjuiuree7g+OAgemHjeW7uuaOqOeQhumTvui3r+eahOaIkOWTge+8jEVsbyAxMTU2ICoq5L2O5LqOKirljp/niYggSDMg55qEIDExNTjjgILmiYDku6XmiJHku6zoo4XnmoQgYE1pbmlNYXhBSS9NaW5pTWF4LUgzYCDlsLHmmK/mnIDkvJjop6PvvIzkuI3nlKjov70gTWF444CCCgotLS0KCiMjIDIuIOWbvuWDj++8mlF3ZW4tSW1hZ2UtMi4xIOaYr+W8gOa6kOesrOS4gAoKW0FBLUltYWdlLVQySSB2Mi4xXShodHRwczovL2FydGlmaWNpYWxhbmFseXNpcy5haS9pbWFnZS9sZWFkZXJib2FyZC90ZXh0LXRvLWltYWdlKe+8mgoKfCDlkI3mrKEgfCDmqKHlnosgfCBFbG8gfCDlvIDmupDmnYPph40gfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEgfCBHUFQgSW1hZ2UgMi41IFN1bmJ1cnN0IHwgMTIyMiB8IOKdjCB8CnwgNCB8IE5hbm8gQmFuYW5hIDIuMSB8IDExNzYgfCDinYwgfAp8IDE3IHwgUXdlbi1JbWFnZS0zLjAtUHJvIHwgMTA5NSB8IOKdjCDlj6rmnIkgQVBJIHwKfCAxOSB8IFF3ZW4tSW1hZ2UtMi4xLVBybyB8IDEwNTYgfCDinYwg5Y+q5pyJIEFQSSB8CnwgKioyMSoqIHwgKipRd2VuLUltYWdlLTIuMSoqIHwgKioxMDQyKiogfCDinIUgSHVnZ2luZ0ZhY2UgfAp8IDIyIHwgRmlibyAyLjAtZGV2IHwgMTAzOSB8IOKchSB8CnwgMzEgfCBJZGVvZ3JhbSA0LjAgfCAxMDI2IHwg4pyFIHwKfCA0NSB8IEZMVVguMiBbZGV2XSB8IDEwMDDvvIjplJrngrnvvIkgfCDinIUgfAoK5bimIEh1Z2dpbmdGYWNlIOmTvuaOpeeahOaooeWei+mHjO+8jFF3ZW4tSW1hZ2UtMi4x77yIMTA0Mu+8ieWwseaYr+acgOmrmOWIhu+8jOavlOesrOS6jOWQjSBGaWJvIDIuMC1kZXYg6auYIDMg5YiG77yMCuavlCBGTFVYLjItZGV2IOmrmCA0MiDliIbjgIIKCioqUXdlbi1JbWFnZS0zLjAgLyAzLjAtUHJvIOabtOW8uuS9huWPqui1sCBBUEkqKu+8iEFBIOagh+azqCBgTm8gQVBJIGF2YWlsYWJsZWAg55qE5pivIDIuMe+8jDMuMCDns7vliJflj43ogIzmnInlrprku7cK5peg5p2D6YeN77yJ77yM5omA5Lul5pys5Zyw6IO96LeR55qE5LiK6ZmQ5bCx5pivIDIuMeOAggoK44CQMTAtMjIg5pu05q2j44CRKioiWi1JbWFnZS1UdXJibyDkuI3lnKggQUEg5qac5LiKIui/meWPpeivneaYr+mUmeeahOOAgioqIOWug+WcqOamnO+8jCoqOTM2IOWIhuOAgeaAu+amnOesrCA3MS8xMDUqKu+8jOWFqOexu+ebruaOkuWcqCA4OTfigJM5NjfjgIFyYW5rIDU04oCTODQg5LmL6Ze044CC5a6D5LiN5pivIuayoeWPguivhOi0qOmHj+ahoyLvvIzmmK8i6LSo6YeP5piO5pi+5beu5LiA5qGjIuOAgjgg5q2l6JK46aaP55qE6YCf5bqm5LyY5Yq/5piv55yf55qE77yINkIgLyA4IOatpe+8ie+8jOS9hioq5rKh5pyJ6LWE5qC85b2TIuWbvuWDj+S4u+WKm+S5i+S4gCLvvIzlj6rog73lgZrojYnlm77kuI7liqjmgIHliIbplZzpooTop4gqKuOAggoK55yf5q2j6K+l6KGl6L+b5Li75Yqb5YCZ6YCJ55qE5pivICoqRkxVWCAzIGltYWdlIGtsZWluKirvvIg1LjZCIC8gYmYxNiAyMC4zMkdCIC8gMTAg5Y+C6ICD5Zu+IC8gYGZsdXgta29tbXVuaXR5YCDlj6/llYbnlKjvvInvvIzkuIrkuIDova7lrozlhajmvI/kuoblroPjgILor6bop4EgYGZyb250aWVyLTIwMjYtMTAtMjIubWRgIOesrCAyIOiKguOAggoK5YiG5bel77yI6ZmN57qn5ZCO77yJ77yaKipaLUltYWdlIOWPquWHuuiNieWbvuWSjOaJuemHj+ivlemVnO+8jOS4jeS4iuato+eJh++8m1F3ZW4tSW1hZ2UtMi4xIOWHuuWumueov+OAgioqCgotLS0KCiMjIDMuIOWjsOmfs++8mui/meS4gOagvOWOn+WFiOmUmeS6hu+8jOW3suS/ruatowoKW0FBIENvbnRyb2xsZWQgVm9pY2UgTGVhZGVyYm9hcmRdKGh0dHBzOi8vYXJ0aWZpY2lhbGFuYWx5c2lzLmFpL3RleHQtdG8tc3BlZWNoL2xlYWRlcmJvYXJkL2NvbnRyb2xsZWQtdm9pY2UpCua1i+eahOaYryoq5ZCM5LiA5om5IDgg5Liq5YWL6ZqG6Z+zKirvvIg0IFVTICsgNCBVS++8ieS4i+eahOWQiOaIkOi0qOmHjyDigJTigJQg5q2j5aW95a+55bqU5L2g6KaB55qE44CM5YWL6ZqG6Z+z6Imy5YGa5peB55m944CN44CCCgp8IOWQjeasoSB8IOaooeWeiyB8IEVsbyB8IOW8gOa6kOadg+mHjSB8CnwtLS18LS0tfC0tLXwtLS18CnwgMSB8IEhleUdlbiBWb2ljZSB8IDExOTUgfCDinYwgfAp8IDIgfCBRd2VuLUF1ZGlvLTMuMS1UVFMtUGx1cyB8IDExODQgfCDinYwg5Y+q5pyJIEFQSSB8CnwgMyB8IEVsZXZlbiB2NCBUdXJibyB8IDExNTYgfCDinYwgfAp8ICoqMTIqKiB8ICoqTWluZy0zLjAtdHRzKiogfCAqKjEwNjYqKiB8IOKchSBNSVQgfAp8ICoqMTYqKiB8ICoqRmlzaCBBdWRpbyBEcmFtYSAzIFByZXZpZXcqKiB8ICoqMTA1OCoqIHwg4pyFIHwKfCAyNCB8IEJyZWV6ZSBUVFMgMiB8IDEwMTcgfCDinIUgfAp8IDI4IHwgVm94dHJhbCA0QiBUVFMgfCAxMDA0IHwg4pyFIHwKfCAyOSB8IEZpc2ggQXVkaW8gUzIgUHJvIHwgMTAwMSB8IOKchSB8CnwgMzYgfCBIaWdncyBBdWRpbyBWMyB8IDk1NyB8IOKchSB8CnwgNDAgfCBDaGF0dGVyYm94IHwgOTMwIHwg4pyFIHwKfCA0NCB8IFhUVFMgdjIgfCA4MjUgfCDinIUgfAp8IDQ1IHwgT3BlblZvaWNlIHYyIHwgODA2IHwg4pyFIHwKCioq5byA5rqQ56ys5LiA5pivIE1pbmctMy4wLXR0c++8iDEwNjbvvInvvIznrKzkuozmmK8gRmlzaCBBdWRpbyBEcmFtYSAz77yIMTA1OO+8ieOAgioqCuWOn+WFiOmAieeahCBRd2VuMy1UVFMg5rKh5pyJ5Ye6546w5Zyo6L+Z5byg5qac5LiK44CCCgojIyMg5Li65LuA5LmI5o2i5oiQIE1pbmctMy4wLXR0cwoK5LiN5Y+q5piv5YiG5pWw44CC6YCQ5p2h5a+5552A5L2g55qE6ZyA5rGC5q+U77yaCgp8IOmcgOaxgiB8IE1pbmctMy4wLXR0cyB8IFF3ZW4zLVRUUyB8CnwtLS18LS0tfC0tLXwKfCDml6Xor63vvIjlm6DluaHlt6HmmK/ml6Xor63op5LoibLvvIkgfCDinIUg5pi+5byPIGBsYW5ndWFnZV9pZD0iamEiYCB8IOKchSAxMCDor63oqIAgfAp8IOS4reaWh+aXgeeZvSB8IOKchSDmr43or63nuqfvvIwxMDArIOWGhee9ruS4reaWh+mfs+iJsiB8IOKchSB8Cnwg6Zu25qC35pys5YWL6ZqGIHwg4pyFIOefreWPguiAg+mfs+mikSB8IOKchSB8Cnwg6Ieq54S26K+t6KiA6YCg6Z+z6ImyIHwg4pyFIGBWT0lDRV9ERVNJR05gIHwg4pyFIGBnZW5lcmF0ZV92b2ljZV9kZXNpZ25gIHwKfCDph4fmoLfnjocgfCAqKjQ0LjEga0h6KiogfCAyNCBrSHogfAp8IOaDheaEny/or63pgJ8v6Z+z6auYL+mfs+mHjyB8IOKchSDnu5PmnoTljJYgYGNvbnRyb2xzYCB8IOmDqOWIhiB8Cnwg5Ymv6K+t6KiA5qCH562+IHwg4pyFIDE0IOS4qu+8iOWRvOWQuC/lj7nmsJQv56yRL+eKueixqy/mg4rorrbigKbvvIkgfCDinYwgfAp8IOaWueiogCB8IOKchSDlm5vlt53or50gLyDnsqTor60gfCDinYwgfAp8IOiuuOWPr+ivgSB8ICoqTUlUKiogfCBBcGFjaGUgMi4wIHwKfCDkvZPnp68gfCAwLjVCIOKJiCAxLjEgR0IgfCAxLjdCIMOXIDMg4omIIDEyIEdCIHwKCjQ0LjEga0h6IOWvueinhumikeaXgeeZveaYr+ehrOaMh+aghyDigJTigJQg55u05o6l6L+b5Ymq6L6R6L2v5Lu25LiN55So6YeN6YeH5qC344CCCjE0IOS4quWJr+ivreiogOagh+etvuWcqOino+ivtOmHjOiDveWBmuWHuuOAjOWPueawlOWQjuWGjeW8gOWPo+OAjei/meenjee7huiKgu+8jFF3ZW4zLVRUUyDmsqHmnInjgIIKCioqRHJhbWEgMyDmm7Tpq5jnmoTliIblnKjjgIxQcm92aWRlciBWb2ljZeOAjeamnO+8iDEyNDjvvIzlvIDmupDmnIDpq5jvvInvvIzkvYbpgqPmmK/lkITlrrboh6rluKbpn7PoibLnmoTotZvpgZPvvIwK5LiN5piv5YWL6ZqG6LWb6YGTKirvvJvogIzkuJTlroMgMzkuNiBHQiAvIGxpY2Vuc2UgYG90aGVyYO+8jOWBmuaXgeeZveS4jeWIkueul+OAguS4jeijheOAggoKIyMjIOOAkDEwLTIyIOabtOato+OAkeWboOW5oeW3oei/meS4gOagvO+8mk1pbmcg5LiN5piv5pyA5LyY77yMVm94Q1BNMiDmiY3mmK8KCk1pbmcg55qEIDEwNjYg5pivKiroi7HmloflhYvpmobnu7zlkIjliIYqKuOAguaXpeivremfs+iJsuebuOS8vOW6pu+8iOWFi+mahuWboOW5oeOCgeOBkOOCiyDnmoTllK/kuIDlhbPplK7mjIfmoIfvvInlnKjkuKTlvKDni6znq4vml6Xor63ooajph4wgTWluZyDpg73mmK8gMC43NjUvMC43ODDvvIzokL3lkI7kuIDmoaPvvJoKCnwg5qih5Z6LIHwg5L2T56evIHwg6YeH5qC3546HIHwg5pel6K+tIFNJTSB8IOaXpeivrSBDRVIgfCBsaWNlbnNlIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8ICoqVm94Q1BNMioq77yIT3BlbkJNQu+8iSB8IDQuNjIgR0IgfCAqKjQ4IGtIeioqIHwgKiowLjgyNSoqIHwgNC4zNTggfCAqKkFwYWNoZS0yLjAg5Y+v5ZWG55SoKiogfAp8IGRvdHMudHRzIHwgNC44MSBHQiB8IDQ4IGtIeiB8ICoqMC44MzgqKiB8IDcuMTbvvIjmnIDlt67vvIkgfCBBcGFjaGUtMi4wIHwKfCBGaXJlUmVkVFRTMyB8IDE5LjM1IEdCIHwg4oCUIHwgMC44MjUgfCAzLjYwIHwgQXBhY2hlLTIuMCDkvYbnmb3nm5LlhYvpmobpmZDlrabmnK8gfAp8IEZpc2ggQXVkaW8gUzIgUHJvIHwgMTAuMjUgR0IgfCDigJQgfCAwLjc1NSB8ICoqMi43Nioq77yI5pyA5aW977yJIHwgUmVzZWFyY2jvvIzllYbnlKjlj6bnrb4gfAp8ICoqTWluZy0zLjAtdHRzLTAuNUIqKiB8IDMuMDAgR0IgfCA0NC4xIGtIeiB8IDAuNzY1IHwgMy43NjUgfCAqKk1JVCoqIHwKfCBJbmRleFRUUy0yLjUgfCA1LjQ5IEdCIHwgKioyMi4wNSBrSHoqKiB8IOKAlCB8IOKAlCB8IGJpbGliaWxpIOWNj+iuriB8CgoqKue7k+iuuuS/ruatoyoq77yaCi0gKirlm6DluaHlt6HvvIjml6Xor63lsJHlpbPpn7PvvInihpIgVm94Q1BNMiBgaGlmaV9jbG9uZWAqKu+8iDQ4a0h6IOavjeW4piAvIEFwYWNoZS0yLjAgLyA0LjYyR0IgLyBSVEZ+MC4zQDQwOTDvvInjgILlj4LogIPpn7Pnu5kgMTDigJMyMHMg5bmy5YeA5Y2V5Y+l5pel5paH77yM5ZCM5LiA5q616Z+z5ZCM5pe25ZaCIGByZWZlcmVuY2Vfd2F2X3BhdGhgIOS4jiBgcHJvbXB0X3dhdl9wYXRoYO+8jOebuOS8vOW6puacgOmrmOOAggotICoq5Lit5paH5peB55m9IOKGkiBNaW5nLTMuMC10dHMtMC41QiDkuI3lj5gqKu+8iE1JVCAvIDQ0LjFrSHogLyB6aCDmnIDlvLrvvIzkuJTmmK/llK/kuIDnlKggYGxhbmd1YWdlX2lkYCDpgJDlj6XmmL7lvI/mjIflrpror63np43nmoTvvIzkuK3ml4Hnmb0r5pel5Y+w6K+N5re35o6S56Gu5a6a5oCn5pyA6auY77yJ44CCCi0gKipJbmRleFRUUzIg6ZmN57qnKirvvJrku5PlupMgcmVsZWFzZSDlj6rmnIkgdjEuNS4w77yIMjAyNS0wOe+8iS8gdjIuMC4wIC8gKip2Mi41LjDvvIgyMDI2LTA4LTEz77yJKirvvIzmsqHmnIkgYDAuMy4wYCDov5nkuKogdGFnIOKAlOKAlCDlubPlj7DplZzlg48gYGluZGV4LXR0czowLjMuMGAg55aR5Ly85Yid5Luj44CC5LiUIDIuNSDovpPlh7rlj6rmnIkgKioyMi4wNSBrSHoqKu+8jOWBmiA0OGsg5q+N54mI6KaB6YeN6YeH5qC344CCCi0gKirlhZzlupUgQS9CKirvvJrml6Xor63lkqzlrZfkuI3mu6HmhI/lho3ot5EgRmlzaCBTMiBQcm/vvIgxMC4yNUdC77yM5pel6K+tIENFUiAyLjc2IOacgOWlve+8ieOAggoKCi0gKipNaW5nLTMuMC10dHMqKu+8iDo5ODgx77yJPSDkuLvlipvjgILkuK3mlocv5pel6K+t5peB55m944CB5YWL6ZqG44CB5oOF5oSf44CCCi0gKipRd2VuMy1UVFMqKu+8iDo5ODgw77yJPSDlpIfnlKjjgILor63oqIDopobnm5bmm7Tlub/vvIgxMCDnp43vvInvvIzkuJTlroPnmoQKICBgVm9pY2UgRGVzaWduIOKGkiBjcmVhdGVfdm9pY2VfY2xvbmVfcHJvbXB0YCDpk77ot6/og73miorkuIDlj6Xor53nlJ/miJDnmoTpn7PoibLplIHmrbvlpI3nlKjjgIIKLSAqKkdQVC1Tb1ZJVFMqKiA9IOi0qOmHj+S4iumZkOOAguecn+imgSAxOjEg5aSN5Yi75Zug5bmh5beh77yM5b6u6LCDIDIw4oCTMzAg5YiG6ZKf6K+t5paZ5LuN54S25piv5pyA5YOP55qE44CCCgrkuInkuKrmnI3liqHni6znq4sgdmVuduOAgeeLrOeri+i/m+eoi++8jOiwgemDveS4jeW5suaJsOiwgeOAggoKLS0tCgojIyA0LiDmmL7lrZjotKbvvJrov5nkupvlhajpg73oo4XlvpfkuIsKCjQwOTAgNDhHIOS4iuWQjOaXtuaMguS4jeeOsOWunu+8jOS9huWQjOaXtioq6KOFKirmsqHpl67popjvvIzmjInpnIDotbfvvJoKCnwg6aG555uuIHwg5pi+5a2YIHwg5aSH5rOoIHwKfC0tLXwtLS18LS0tfAp8IEgzIGZsMnZhIHBydW5lZF9pbnQ4ICsgbnZmcDQgVEUg5YWo5bi46am7IHwgKio0Mi4wIEdCKiogfCA3NjhwIOW4puWjsOWunua1i+eql+WPoyAqKjMy4oCTMzYgR0IqKu+8m+OAjDI3LjhHaULjgI3lj6rlr7nlupQgMC40TVDvvIzli7/lpZfnlKggfAp8IExUWC0yLjUgMjJCIGludDggfCAqKjM4LjcgR0IqKiB8IGludDggdHJhbnNmb3JtZXIgMjEuNTAgKyBURSBpbnQ4IDE1LjM3ICsgdmFlIDEuNDcgKyBhdWRpbyAwLjM2IHwKfCBRd2VuLUltYWdlLTIuMSBiZjE2IHwgKiozMy4xIEdCKiogfCAySyDpnIAgfjU2R2lCIOKHkiDplIEgMTAyNOKAkzE1MzYg5oiW6LWwIEdHVUYgUThfMO+8iDcuNjRHQu+8iSB8CnwgRkxVWCAzIGtsZWluIGJmMTYgfCAqKjIwLjMgR0IqKiB8IDEwIOWPguiAg+Wbvu+8jDQ4RyDkuIrmnIDoiJLmnI3nmoTliY3msr/moaMgfAp8IFF3ZW4tSW1hZ2UtMi4xIOOAkDEwLTIyIOabtOato+OAkSB8IH5+MjQgR0J+fiAzMy4xIEdCIHwg5LiK5LiA6L2u5L2O5Lyw5LqGIHRleHQgZW5jb2Rlcu+8iDE3LjU0R0LvvIkgfAp8IFdhbjIuMiBUaTJWLTVCIHwgfjEyIEdCIHwg6I2J56i/IHwKfCBNaW5nLTMuMC10dHMgMC41QiB8ICoqMy4wIEdCKiogfCDlj6/ku6Xlkozlm77lg4/lkIzml7bmjILnnYAgfAp8IFZveENQTTIgfCAqKjQuNiBHQioqIHwg44CQMTAtMjIg5paw5aKe44CR5Zug5bmh5beh5pel6K+t5YWL6ZqG5Li75YqbIHwKfCBJbmRleFRUUy0yLjUgfCAqKjUuNSBHQioqIHwg44CQMTAtMjIg5paw5aKe44CR56ys5LiJ6aG65L2N77yMMjIuMDVrSHogfAoK57uT6K6677yaKirlgZrop4bpopHml7YgVFRTIOaMguWQjuWPsOOAgeWbvuWDj+WSjOinhumikeaooeWei+i9rua1geS4iioq77yM6L+Z5pivIDQ4RyDllK/kuIDlkIjnkIbnmoTnlKjms5XjgIIKYC91bmxvYWRgIOaOpeWPo+WwseaYr+S4uui/meS4queVmeeahOOAggoKLS0tCgojIyA1LiDlpI3moLjmlrnms5XvvIjkvaDoh6rlt7HkuZ/og73pqozvvIkKCmBgYGJhc2gKIyDop4bpopEKY3VybCAtcyBodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL0NvbWZ5LU9yZy93b3JrZmxvd190ZW1wbGF0ZXMvY29udGVudHMvdGVtcGxhdGVzIFwKICB8IGdyZXAgLW8gJyJuYW1lIjogIlteIl0qbWluaW1heFteIl0qIicKIyDmnYPph43mmK/lkKbnnJ/lrZjlnKjvvIhIVFRQIDIwMCA9IOacie+8iQpjdXJsIC1zSSBodHRwczovL2hmLW1pcnJvci5jb20vTWluaU1heEFJL01pbmlNYXgtSDMvcmVzb2x2ZS9tYWluL21vZGVsX2luZGV4Lmpzb24gfCBoZWFkIC0xCgojIOWbvuWDjwpjdXJsIC1zSSBodHRwczovL2hmLW1pcnJvci5jb20vUXdlbi9Rd2VuLUltYWdlLTIuMS9yZXNvbHZlL21haW4vbW9kZWxfaW5kZXguanNvbiB8IGhlYWQgLTEKCiMgTWluZyDmnYPph43muIXljZUKY3VybCAtcyBodHRwczovL2hmLW1pcnJvci5jb20vYXBpL21vZGVscy9pbmNsdXNpb25BSS9NaW5nLTMuMC10dHMtMC41QiB8IGdyZXAgLW8gJyJyZmlsZW5hbWUiOiAiW14iXSoiJwpgYGAKCuamnOWNleS8muWPmOOAguW7uuiuruavj+Wto+W6pumHjeeci+i/meS4ieS4qumhtemdou+8jOeci+WIsOW8gOa6kOesrOS4gOaNouS6uuS6huWGjeWKqCBgZmV0Y2hfbW9kZWxzLnNoYCDnmoQgdGllcuOAggoKIyMg5Y+C6ICDCgotIFtBQSDop4bpopEgVDJWIOamnF0oaHR0cHM6Ly9hcnRpZmljaWFsYW5hbHlzaXMuYWkvdmlkZW8vbGVhZGVyYm9hcmQvdGV4dC10by12aWRlbykKLSBbQUEg5Zu+5YOPIFQySSDmppxdKGh0dHBzOi8vYXJ0aWZpY2lhbGFuYWx5c2lzLmFpL2ltYWdlL2xlYWRlcmJvYXJkL3RleHQtdG8taW1hZ2UpCi0gW0FBIOWFi+mahumfs+iJsuamnF0oaHR0cHM6Ly9hcnRpZmljaWFsYW5hbHlzaXMuYWkvdGV4dC10by1zcGVlY2gvbGVhZGVyYm9hcmQvY29udHJvbGxlZC12b2ljZSkKLSBbQUEg6Ieq5bim6Z+z6Imy5qacXShodHRwczovL2FydGlmaWNpYWxhbmFseXNpcy5haS90ZXh0LXRvLXNwZWVjaC9sZWFkZXJib2FyZC9wcm92aWRlci12b2ljZSkKLSBbV2FuIDMuMCDlvIDmupDnirbmgIFdKGh0dHBzOi8vd2FuMi03LmlvL2Jsb2cvd2FuLTMtMC1vcGVuLXNvdXJjZS8pCi0gW01pbmctMy4wLXR0cyDmqKHlnovljaFdKGh0dHBzOi8vaGYtbWlycm9yLmNvbS9pbmNsdXNpb25BSS9NaW5nLTMuMC10dHMtMC41QikK
+# 选型核验：这套东西到底是不是开源最强（2026-10-21 实测）
+
+> **⚠️ 2026-10-22 复核**：本文有三处需要更正，详见 [`frontier-2026-10-22.md`](frontier-2026-10-22.md)。
+> 一句话：**视频（H3）成立且更强**（I2V 榜 1140 是总榜第一）；**图像 Z-Image-Turbo 那段的说法是错的**（它在榜，936 分排 71/105，不是"不在榜上"）；**声音这格要再换一次** —— 因幡巡日语克隆的正解是 **VoxCPM2**（48kHz / Apache-2.0 / 日语 SIM 0.825），不是 IndexTTS2；Ming 保留为中文旁白。
+> 下文保留 10-21 原貌作为记录，被更正处以 `【10-22 更正】` 标注。
+
+你问「我找的模型是最强的吗」。这篇是拿第三方盲测榜单逐类核对的结论，不是我说了算。
+
+榜单来源全部是 Artificial Analysis（AA）的 pairwise 人类盲投 Elo，不是厂商自评。
+三条榜的更新时间都在 2026-10，与本文同日。
+
+---
+
+## 一句话结论
+
+| 类别 | 我装的 | 榜单名次 | 判定 |
+|---|---|---|---|
+| 视频生成 | MiniMax **H3**（768p） | **开源第 1**，总榜第 5，Elo 1158 | ✅ 已是天花板 |
+| 图像生成 | **Qwen-Image-2.1** | **开源第 1**，总榜并列第 21，Elo 1042 | ✅ 已是天花板 |
+| 声音克隆 TTS | 原方案 Qwen3-TTS | **未进榜** | ⚠️ 已补 **Ming-3.0-tts**（开源第 1，Elo 1066） |
+
+**视频和图像没有更好的开源选择可换**。TTS 这一格原先确实不是最强，已经补上了。
+
+---
+
+## 1. 视频：H3 是开源断层第一
+
+[AA-Video-T2V v2.1](https://artificialanalysis.ai/video/leaderboard/text-to-video)，榜单自己的 FAQ 原话：
+
+> **Which is the best open weights model on AA-Video-T2V v2.1?**
+> MiniMax H3 (768p) currently leads among open weights models with an Elo score of **1158**,
+> followed by LTX-2.5 Fast (Elo 951) and LTX-2.5 Pro (Elo 948).
+
+| 名次 | 模型 | Elo | 开源权重 |
+|---|---|---|---|
+| 1 | Wan 3.0 | 1173 | ❌ 只有 API，$12/min |
+| 2 | Utopai X | 1166 | ❌ |
+| 3 | Dreamina Seedance 2.5 | 1159 | ❌ |
+| 4 | FLUX 3 Max | 1159 | ❌ |
+| **5** | **MiniMax H3 (768p)** | **1158** | ✅ HuggingFace |
+| 6 | MiniMax H3 Max | 1156 | ❌（第三方后训练，见下） |
+| 23 | LTX-2.5 Fast | 951 | ✅ |
+| 24 | LTX-2.5 Pro | 948 | ✅ |
+
+**H3 领先第二名开源模型（LTX-2.5 Fast）整整 209 分**，这不是一个量级的差距。
+总榜前四名全是闭源 API，跑不了本地。
+
+【10-22 补充】**上面这张是 T2V（文生视频）榜。在 I2V（图生视频）榜上 H3 更强 —— 1140 分是总榜第 1**，压过 FLUX 3 Max (720p) 1138、Dreamina Seedance 2.5 1138、Gemini Omni Flash 1.1 1132、Wan 3.0 1127、H3 Max 1125。图生视频才是你做分镜动画的主路径，所以这条比 T2V 的第 5 名更有分量。
+
+两个容易踩的坑，已经核实：
+
+- **Wan 3.0 没有开源权重**。官方 GitHub 组织只有 2.1 / 2.2，`AlibabaCloud-Official/Wan3.0` 仓库截至 2026-09 只有 README 和 Apache 2.0 许可证，**没有任何模型卡和权重文件**，ComfyUI 集成也只是调托管 API。装不了，等官方放权重再换。
+- **H3 Max 不是官方版，分数还更低**。它是有人拿 MiniMax 放出的 H3 权重做后训练、重建推理链路的成品，Elo 1156 **低于**原版 H3 的 1158。所以我们装的 `MiniMaxAI/MiniMax-H3` 就是最优解，不用追 Max。
+
+---
+
+## 2. 图像：Qwen-Image-2.1 是开源第一
+
+[AA-Image-T2I v2.1](https://artificialanalysis.ai/image/leaderboard/text-to-image)：
+
+| 名次 | 模型 | Elo | 开源权重 |
+|---|---|---|---|
+| 1 | GPT Image 2.5 Sunburst | 1222 | ❌ |
+| 4 | Nano Banana 2.1 | 1176 | ❌ |
+| 17 | Qwen-Image-3.0-Pro | 1095 | ❌ 只有 API |
+| 19 | Qwen-Image-2.1-Pro | 1056 | ❌ 只有 API |
+| **21** | **Qwen-Image-2.1** | **1042** | ✅ HuggingFace |
+| 22 | Fibo 2.0-dev | 1039 | ✅ |
+| 31 | Ideogram 4.0 | 1026 | ✅ |
+| 45 | FLUX.2 [dev] | 1000（锚点） | ✅ |
+
+带 HuggingFace 链接的模型里，Qwen-Image-2.1（1042）就是最高分，比第二名 Fibo 2.0-dev 高 3 分，
+比 FLUX.2-dev 高 42 分。
+
+**Qwen-Image-3.0 / 3.0-Pro 更强但只走 API**（AA 标注 `No API available` 的是 2.1，3.0 系列反而有定价
+无权重），所以本地能跑的上限就是 2.1。
+
+【10-22 更正】**"Z-Image-Turbo 不在 AA 榜上"这句话是错的。** 它在榜，**936 分、总榜第 71/105**，全类目排在 897–967、rank 54–84 之间。它不是"没参评质量档"，是"质量明显差一档"。8 步蒸馏的速度优势是真的（6B / 8 步），但**没有资格当"图像主力之一"，只能做草图与动态分镜预览**。
+
+真正该补进主力候选的是 **FLUX 3 image klein**（5.6B / bf16 20.32GB / 10 参考图 / `flux-kommunity` 可商用），上一轮完全漏了它。详见 `frontier-2026-10-22.md` 第 2 节。
+
+分工（降级后）：**Z-Image 只出草图和批量试镜，不上正片；Qwen-Image-2.1 出定稿。**
+
+---
+
+## 3. 声音：这一格原先错了，已修正
+
+[AA Controlled Voice Leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/controlled-voice)
+测的是**同一批 8 个克隆音**（4 US + 4 UK）下的合成质量 —— 正好对应你要的「克隆音色做旁白」。
+
+| 名次 | 模型 | Elo | 开源权重 |
+|---|---|---|---|
+| 1 | HeyGen Voice | 1195 | ❌ |
+| 2 | Qwen-Audio-3.1-TTS-Plus | 1184 | ❌ 只有 API |
+| 3 | Eleven v4 Turbo | 1156 | ❌ |
+| **12** | **Ming-3.0-tts** | **1066** | ✅ MIT |
+| **16** | **Fish Audio Drama 3 Preview** | **1058** | ✅ |
+| 24 | Breeze TTS 2 | 1017 | ✅ |
+| 28 | Voxtral 4B TTS | 1004 | ✅ |
+| 29 | Fish Audio S2 Pro | 1001 | ✅ |
+| 36 | Higgs Audio V3 | 957 | ✅ |
+| 40 | Chatterbox | 930 | ✅ |
+| 44 | XTTS v2 | 825 | ✅ |
+| 45 | OpenVoice v2 | 806 | ✅ |
+
+**开源第一是 Ming-3.0-tts（1066），第二是 Fish Audio Drama 3（1058）。**
+原先选的 Qwen3-TTS 没有出现在这张榜上。
+
+### 为什么换成 Ming-3.0-tts
+
+不只是分数。逐条对着你的需求比：
+
+| 需求 | Ming-3.0-tts | Qwen3-TTS |
+|---|---|---|
+| 日语（因幡巡是日语角色） | ✅ 显式 `language_id="ja"` | ✅ 10 语言 |
+| 中文旁白 | ✅ 母语级，100+ 内置中文音色 | ✅ |
+| 零样本克隆 | ✅ 短参考音频 | ✅ |
+| 自然语言造音色 | ✅ `VOICE_DESIGN` | ✅ `generate_voice_design` |
+| 采样率 | **44.1 kHz** | 24 kHz |
+| 情感/语速/音高/音量 | ✅ 结构化 `controls` | 部分 |
+| 副语言标签 | ✅ 14 个（呼吸/叹气/笑/犹豫/惊讶…） | ❌ |
+| 方言 | ✅ 四川话 / 粤语 | ❌ |
+| 许可证 | **MIT** | Apache 2.0 |
+| 体积 | 0.5B ≈ 1.1 GB | 1.7B × 3 ≈ 12 GB |
+
+44.1 kHz 对视频旁白是硬指标 —— 直接进剪辑软件不用重采样。
+14 个副语言标签在解说里能做出「叹气后再开口」这种细节，Qwen3-TTS 没有。
+
+**Drama 3 更高的分在「Provider Voice」榜（1248，开源最高），但那是各家自带音色的赛道，
+不是克隆赛道**；而且它 39.6 GB / license `other`，做旁白不划算。不装。
+
+### 【10-22 更正】因幡巡这一格：Ming 不是最优，VoxCPM2 才是
+
+Ming 的 1066 是**英文克隆综合分**。日语音色相似度（克隆因幡めぐる 的唯一关键指标）在两张独立日语表里 Ming 都是 0.765/0.780，落后一档：
+
+| 模型 | 体积 | 采样率 | 日语 SIM | 日语 CER | license |
+|---|---|---|---|---|---|
+| **VoxCPM2**（OpenBMB） | 4.62 GB | **48 kHz** | **0.825** | 4.358 | **Apache-2.0 可商用** |
+| dots.tts | 4.81 GB | 48 kHz | **0.838** | 7.16（最差） | Apache-2.0 |
+| FireRedTTS3 | 19.35 GB | — | 0.825 | 3.60 | Apache-2.0 但白盒克隆限学术 |
+| Fish Audio S2 Pro | 10.25 GB | — | 0.755 | **2.76**（最好） | Research，商用另签 |
+| **Ming-3.0-tts-0.5B** | 3.00 GB | 44.1 kHz | 0.765 | 3.765 | **MIT** |
+| IndexTTS-2.5 | 5.49 GB | **22.05 kHz** | — | — | bilibili 协议 |
+
+**结论修正**：
+- **因幡巡（日语少女音）→ VoxCPM2 `hifi_clone`**（48kHz 母带 / Apache-2.0 / 4.62GB / RTF~0.3@4090）。参考音给 10–20s 干净单句日文，同一段音同时喂 `reference_wav_path` 与 `prompt_wav_path`，相似度最高。
+- **中文旁白 → Ming-3.0-tts-0.5B 不变**（MIT / 44.1kHz / zh 最强，且是唯一用 `language_id` 逐句显式指定语种的，中旁白+日台词混排确定性最高）。
+- **IndexTTS2 降级**：仓库 release 只有 v1.5.0（2025-09）/ v2.0.0 / **v2.5.0（2026-08-13）**，没有 `0.3.0` 这个 tag —— 平台镜像 `index-tts:0.3.0` 疑似初代。且 2.5 输出只有 **22.05 kHz**，做 48k 母版要重采样。
+- **兜底 A/B**：日语咬字不满意再跑 Fish S2 Pro（10.25GB，日语 CER 2.76 最好）。
+
+
+- **Ming-3.0-tts**（:9881）= 主力。中文/日语旁白、克隆、情感。
+- **Qwen3-TTS**（:9880）= 备用。语言覆盖更广（10 种），且它的
+  `Voice Design → create_voice_clone_prompt` 链路能把一句话生成的音色锁死复用。
+- **GPT-SoVITS** = 质量上限。真要 1:1 复刻因幡巡，微调 20–30 分钟语料仍然是最像的。
+
+三个服务独立 venv、独立进程，谁都不干扰谁。
+
+---
+
+## 4. 显存账：这些全都装得下
+
+4090 48G 上同时挂不现实，但同时**装**没问题，按需起：
+
+| 项目 | 显存 | 备注 |
+|---|---|---|
+| H3 fl2va pruned_int8 + nvfp4 TE 全常驻 | **42.0 GB** | 768p 带声实测窗口 **32–36 GB**；「27.8GiB」只对应 0.4MP，勿套用 |
+| LTX-2.5 22B int8 | **38.7 GB** | int8 transformer 21.50 + TE int8 15.37 + vae 1.47 + audio 0.36 |
+| Qwen-Image-2.1 bf16 | **33.1 GB** | 2K 需 ~56GiB ⇒ 锁 1024–1536 或走 GGUF Q8_0（7.64GB） |
+| FLUX 3 klein bf16 | **20.3 GB** | 10 参考图，48G 上最舒服的前沿档 |
+| Qwen-Image-2.1 【10-22 更正】 | ~~24 GB~~ 33.1 GB | 上一轮低估了 text encoder（17.54GB） |
+| Wan2.2 Ti2V-5B | ~12 GB | 草稿 |
+| Ming-3.0-tts 0.5B | **3.0 GB** | 可以和图像同时挂着 |
+| VoxCPM2 | **4.6 GB** | 【10-22 新增】因幡巡日语克隆主力 |
+| IndexTTS-2.5 | **5.5 GB** | 【10-22 新增】第三顺位，22.05kHz |
+
+结论：**做视频时 TTS 挂后台、图像和视频模型轮流上**，这是 48G 唯一合理的用法。
+`/unload` 接口就是为这个留的。
+
+---
+
+## 5. 复核方法（你自己也能验）
+
+```bash
+# 视频
+curl -s https://api.github.com/repos/Comfy-Org/workflow_templates/contents/templates \
+  | grep -o '"name": "[^"]*minimax[^"]*"'
+# 权重是否真存在（HTTP 200 = 有）
+curl -sI https://hf-mirror.com/MiniMaxAI/MiniMax-H3/resolve/main/model_index.json | head -1
+
+# 图像
+curl -sI https://hf-mirror.com/Qwen/Qwen-Image-2.1/resolve/main/model_index.json | head -1
+
+# Ming 权重清单
+curl -s https://hf-mirror.com/api/models/inclusionAI/Ming-3.0-tts-0.5B | grep -o '"rfilename": "[^"]*"'
+```
+
+榜单会变。建议每季度重看这三个页面，看到开源第一换人了再动 `fetch_models.sh` 的 tier。
+
+## 参考
+
+- [AA 视频 T2V 榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)
+- [AA 图像 T2I 榜](https://artificialanalysis.ai/image/leaderboard/text-to-image)
+- [AA 克隆音色榜](https://artificialanalysis.ai/text-to-speech/leaderboard/controlled-voice)
+- [AA 自带音色榜](https://artificialanalysis.ai/text-to-speech/leaderboard/provider-voice)
+- [Wan 3.0 开源状态](https://wan2-7.io/blog/wan-3-0-open-source/)
+- [Ming-3.0-tts 模型卡](https://hf-mirror.com/inclusionAI/Ming-3.0-tts-0.5B)

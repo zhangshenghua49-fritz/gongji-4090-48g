@@ -1,1 +1,24 @@
-IyDmlY/mhJ8gLyDmnKzmnLrkuJPnlKgNCnJ1bnRpbWUuZW52DQojIOS+puWvn+S4remXtOS7tu+8mkFBIOamnOWNleWOn+WniyBIVE1M44CBaGYtbWlycm9yIHByb2JlIOiEmuacrOeahOi+k+WHug0KIyDvvIguY2FjaGUvIOmHjOaYr+aKk+WPlue8k+WtmO+8jOWHoCBNQiDliLDlh6DljYEgTULvvIzlj6/ph43mlrDnlJ/miJDvvIzkuI3ov5vku5PlupPvvIkNCi5jYWNoZS8NCiMg5pys5py65bey5LiL5aW955qE5p2D6YeN77yI5Zug5bmh5behIFZJVFMgMTU4IE1C77yJ77yM5LqR56uv55SxIGZldGNoX21vZGVscy5zaCDph43kuIsNCmxvY2FsLw0KIyBQeXRob24NCioqL19fcHljYWNoZV9fLw0KKi5weWMNCi52ZW52Lw0KIyDmjqfliLblj7Dlj5bor4HmiKrlm77vvIjpnIDopoHml7bmiYvliqggZ2l0IGFkZCAtZu+8iQ0Kc2hvdC0qLnBuZw0Kc2hvdHMvDQojIOe8lui+keWZqCAvIOezu+e7nw0KLnZzY29kZS8NCi5pZGVhLw0KLkRTX1N0b3JlDQpUaHVtYnMuZGINCgojIOa8lOekuuS6p+eJqe+8iOS9k+enr+Wkp++8jOS4lOaYr+i/kOihjOe7k+aenOS4jeaYr+a6kOS7o+egge+8iQpkZW1vLwpzbGlkZS1ub3cucG5nCnNob3RzLwo=
+# 敏感 / 本机专用
+runtime.env
+# 侦察中间件：AA 榜单原始 HTML、hf-mirror probe 脚本的输出
+# （.cache/ 里是抓取缓存，几 MB 到几十 MB，可重新生成，不进仓库）
+.cache/
+# 本机已下好的权重（因幡巡 VITS 158 MB），云端由 fetch_models.sh 重下
+local/
+# Python
+**/__pycache__/
+*.pyc
+.venv/
+# 控制台取证截图（需要时手动 git add -f）
+shot-*.png
+shots/
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 演示产物（体积大，且是运行结果不是源代码）
+demo/
+slide-now.png
+shots/

@@ -1,1 +1,164 @@
-IyDlm6DluaHlt6HnmoTlo7Dpn7PvvJrmnYPph43njrDnirbkuI7or63mlpnmnaXmupAKCuS4gOWPpeivnee7k+iuuu+8mioq5bey57uP5pyJ5p2D6YeN77yM5LiN6ZyA6KaB6YeH6ZuG6Z+z6aKR5bCx6IO95Ye65aOwKirjgILkuInku73lhazlvIAgVklUUyDmnYPph43lj6/nm7TmjqXkuIvovb3jgIEK6Zu26K6t57uD5o6o55CG77yMYHNpZGAg5pig5bCE6YO95bey5qC45a6e44CC5LiL6Z2i5piv5a6e5p+l57uT5p6c77yM5Lul5Y+KIuaDs+imgeabtOWlvemfs+i0qOaXtiLnmoTor63mlpnot6/nur/jgIIKCi0tLQoKIyMgMS4g546w5oiQ5p2D6YeN77yI5Y+v55u05o6l55So77yM5peg6ZyA5Lu75L2V5Y+C6ICD6Z+z6aKR77yJCgp8IOS7k+W6kyB8IOaWh+S7tiB8IOS9k+enryB8IOe7k+aehCB8IOWboOW5oeW3oSBzaWQgfCDorrjlj68gfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgYFJlZG1vbm0vU2Fub2JhV2l0Y2hgIHwgYG1vZGVsLnB0aGAgKyBgY29uZmlnLmpzb25gIHwgMTU4LDkwMiw5NDAgQiArIDIsMjQ4IEIgfCDljp/niYggVklUU++8iE1vZUdvZSDnm7Tor7vvvIkgfCAqKjEqKiB8IGFwYWNoZS0yLjAgfAp8IH5+YHNreXRudC9tb2UtdHRzYH5+IHwgfn5gc2F2ZWRfbW9kZWwvMC9tb2RlbC5wdGhgICsgYGNvbmZpZy5qc29uYH5+IHwgfn40NzYsNjIwLDIyMSBCICsgMSwyNjAgQn5+IHwgKioyMDI2LTEwLTIyIOWunua1i+S7k+W6k+W3suepuu+8iGZpbGVzPTDvvIw0MDTvvInvvIzkuI3lj6/nlKgqKiB8IH5+MX5+IHwg5pyq5qCHIGxpY2Vuc2XvvIzkvZzogIXlo7DmmI7npoHllYbnlKggfAp8IGBjaGlub2xsL0FDR1RUU2AgfCBgbmV3L2FjZ19iYXNlL2pwXzExOTYwMDAucHRoYCB8IDE1OSwxMDMsMTgxIEIgfCDljp/niYggVklUU++8jCoq5LuT5bqT5YaF5pegIGNvbmZpZy5qc29uKiogfCAqKjIqKiB8IENDLUJZLU5DLVNBLTQuMCB8CgojIyMg6aaW6YCJIGBSZWRtb25tL1Nhbm9iYVdpdGNoYCDnmoTnkIbnlLEKCuWug+eahCBgY29uZmlnLmpzb25gIOaYryBNb2VHb2Ug55Sf5oCB55qE5Y6f55Sf5qC85byP77yMYHRleHRfY2xlYW5lcnNgIOebtOaOpeWGmeedgApgWyJ6aF9qYV9taXh0dXJlX2NsZWFuZXJzIl1g4oCU4oCU6L+Z5pivIE1vZUdvZSDkvZzogIXlhpnnmoTml6XkuK3mt7flkIggY2xlYW5lcu+8jOivtOaYjuadg+mHjeWwseaYr+aLvwpNb2VHb2Ug6YKj5aWX5bel5YW36ZO+6K6t55qE77yM5Yqg6L295LiN5Lya5Y2h5Zyo5p625p6E5oiW56ym5Y+36KGo5LiK44CCCgpjb25maWcg5YWz6ZSu5a2X5q6177yI54Wn5oqE77yM5L6/5LqO5qCh5a+577yJ77yaCgpgYGAKZGF0YS50ZXh0X2NsZWFuZXJzICA9IFsiemhfamFfbWl4dHVyZV9jbGVhbmVycyJdCmRhdGEuc2FtcGxpbmdfcmF0ZSAgPSAyMjA1MApkYXRhLm5fc3BlYWtlcnMgICAgID0gNgpkYXRhLmFkZF9ibGFuayAgICAgID0gdHJ1ZQptb2RlbC5pbnRlcl9jaGFubmVscyA9IDE5Mgptb2RlbC5maWx0ZXJfY2hhbm5lbHMgPSA3NjgKbW9kZWwubl9oZWFkcyA9IDIsIG5fbGF5ZXJzID0gNgptb2RlbC51cHNhbXBsZV9yYXRlcyA9IFs4LDgsMiwyXQptb2RlbC5naW5fY2hhbm5lbHMgPSAyNTYKc3BlYWtlcnMgPSB7IuWugeWugSI6MCwgIuWboOW5oeW3oSI6MSwgIue0rCI6MiwgIuaGp+WtkCI6MywgIuWSjOWljyI6NCwgIuS4g+e7qiI6NX0KYGBgCgpgc3ltYm9sc2Ag5pivIE1vZUdvZSDmoIflh4booajvvIjlkKsgYMqDIHTKgyB0cyDJryDJuSDJmSDEpyDKsiDKsGAg6L+Z5LqbIElQQSDnrKblj7fvvInvvIwK5ZKMIE1vZUdvZSBgdGV4dC9zeW1ib2xzLnB5YCDlrozlhajkuIDoh7TjgIIKCiMjIyDoo4XkuI7ot5EKCmBgYGJhc2gKYmFzaCBzY3JpcHRzL2ZldGNoX21vZGVscy5zaCAtLXRpZXIgdml0cyAgICAgIyDkuInku73lhajkuIvvvIznuqYgNzgwIE1CCnZpdHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOi1t+acjeWKoe+8jDo5ODgyCmN1cmwgOjk4ODIvc3BlYWtlcnMgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOeciyBzaWQg6KGoCmN1cmwgLVggUE9TVCA6OTg4Mi90dHMgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgXAogIC1kICd7InRleHQiOiLku4rlpKnnmoTop4bpopHvvIzlsLHnlLHmiJHmnaXop6Por7TlkKfvvIEiLCJzcGVha2VyIjoi5Zug5bmh5behIiwic3BlZWQiOjEuMH0nIFwKICAtbyBsaW5lMDAxLndhdgpgYGAKCk1vZUdvZSDkvJrku44gYCRNRUdPRV9ESVJg77yI6buY6K6kIGAvcm9vdC9zcmMvTW9lR29lYO+8ieWvvOWFpe+8jGBzZXR1cF9lbnYuc2hgIOW3sue7jyBjbG9uZSDlpb0K5bm25bu65LqG54us56uL55qEIGB2aXRzYCB2ZW5277yIUHl0aG9uIDMuMTDvvJvlroPnmoQgY2xlYW5lciDkvp3otZYgamllYmEvcHlwaW55aW4vamFjb252L3B5b3Blbmp0YWxr77yMCuWSjCBDb21meVVJIOeahOS+nei1luagkeWGsueqge+8jOW/hemhu+malOemu++8ieOAggoKIyMjIOmfs+i0qOmihOacnwoK6L+Z5pivIDIwMjIg5bm05Luj55qEIDIyIGtIeiBWSVRT44CCKirog73lkKzlh7rmmK/pgqPkuKrop5LoibLvvIzkvYbovr7kuI3liLDnjrDku6MgVFRTIOeahOiHqueEtuW6pioq77yaCumVv+WPpemfteW+i+WBj+W5s+OAgeawlOWjsOWSjOaDhee7que7huiKguWHoOS5juayoeacieOAguWBmuaXgeeZveino+ivtOWkn+eUqO+8jOWBmuinkuiJsuWPsOivjeWwsemcsuaAr+OAggropoHmm7Tlpb3nmoTvvIznnIvnrKwgMiDoioLjgIIKCi0tLQoKIyMgMi4g5oOz6KaB5pu05aW96Z+z6LSo55qE5Lik5p2h6LevCgojIyMg6LevIEHvvJrpm7bmoLfmnKzlhYvpmobvvIg14oCTMTAg56eS5Y+C6ICD6Z+z6aKR77yMNSDliIbpkp/lh7rnu5PmnpzvvIkKCueUqCBNaW5nLTMuMC10dHPvvIhgdml0c2Ag5LmL5aSW55qEIDo5ODgxIOacjeWKoe+8ieaIliBRd2VuMy1UVFPvvIg6OTg4MO+8ieOAggoqKuS4jemcgOimgeivreaWmeW6k++8jOS4gOauteW5suWHgOS6uuWjsOWwseWknyoq44CC5Y+C6ICD6Z+z6aKR5p2l5rqQ77yaCgotIOa4uOaIj+mHjOaIquS4gOauteWboOW5oeW3oeeahOWPsOivje+8iOacgOebtOaOpe+8iQotIEIg56uZ5bey5pyJ55qEIEFJIOWboOW5oeW3oee/u+WUseinhumike+8jOaKvemfs+i9qO+8iGBmZm1wZWcgLWkgeC5tcDQgLXZuIC1hciA0NDEwMCAtYWMgMSByZWYud2F2YO+8iQotIOS4iumdouesrCAxIOiKgumCo+S7vSBWSVRTIOWQiOaIkOeahOmfs+mikeKAlOKAlOmfs+iJsuWvue+8jOiZveeEtuacieacuuWZqOWRs++8jOS9huS9nOS4uioq6Z+z6Imy6ZSa54K5KirlpJ/nlKgKCiMjIyDot68gQu+8mkdQVC1Tb1ZJVFMg5b6u6LCD77yIMzAg5YiG6ZKf6K+t5paZ77yM6LSo6YeP5LiK6ZmQ77yJCgropoEgMToxIOWkjeWIu++8jOWwseW+l+acieivreaWmeOAguS4pOS4quadpea6kO+8mgoKLS0tCgojIyAzLiDor63mlpnmnaXmupDvvIjlrp7mn6XvvIwyMDI2LTEwLTIx77yJCgojIyMgMy4xIOeOsOaIkOWFrOW8gOaVsOaNrumbhgoKfCDmlbDmja7pm4YgfCDop4TmqKEgfCDorrjlj68gfCDnu5PmnoQgfCDlj6/nlKjmgKcgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwKfCBgTmFuZGVtb0dIUy9KYXBhbmVzZS1Fcm9nZS1Wb2ljZS1WMmAgfCAqKjEsMDMzLDE0MiDmnaEgLyAyLDY1NyDlsI/ml7YqKiB8ICoqTUlUKiogfCA1MjAg5LiqIHBhcnF1ZXTvvIzmr4/kuKrnuqYgNDYwIE1C77yI5oC7IDI0MCBHQu+8iSB8IOWtl+autem9kOWFqOS9hioq5Yy/5ZCN5YyWKiogfAp8IGBOYW5kZW1vR0hTL0phcGFuZXNlLUVyb2dlLVZvaWNlYCB8IDQwOS4zMyDlsI/ml7YgfCBNSVQgfCBXZWJEYXRhc2V077yM5q+PIHRhciAxMDI0IOadoe+8jOWNleS4que6piAzNjkgTUIgfCDlkIzkuIrvvIzop4TmqKHlsI8gNiDlgI0gfAp8IGBsaXRhZ2luL0dhbGdhbWVfU3BlZWNoX0FTUl8xNmtIemAgfCDigJQgfCBHUEwtMy4wIHwgcGFycXVldCArIEFTUiDmoIfms6ggfCDmnIkgYG51bV9zYW1wbGVzX29mX3Rhci5jc3ZgIOWPr+WFiOafpeWIhuW4gyB8CnwgYEhpc0F0cmkvWXV6dVNvZnQtdGVtcG9yYXJ5YCB8IOKAlCB8IOKAlCB8IGBTLkIuU291bmRzLjd6YCAvIGDkuJvpm6jvvIjpg6jliIbvvIkuN3pgIC8gYOiKs+S5g1/pg6jliIYuN3pgIHwgKirljYPmgYvkuIfoirEqKu+8jOS4jeaYr+mtlOWls+eahOWknOWutO+8jOaXoOWboOW5oeW3oSB8CgpWMiDnmoTlrZfmrrXvvJoKCmBgYApzb3VyY2VfZGF0YXNldCAgc3RyaW5nICAg5ri45oiP5qCH6K+G77yI5ZOI5biM77yJCnNjZW5lX2lkICAgICAgICBzdHJpbmcgICDlnLrmma/moIfor4bvvIjlk4jluIzvvIkKY2hhcl9pZCAgICAgICAgIHN0cmluZyAgIOinkuiJsuagh+ivhu+8iOWTiOW4jO+8iSAgIOKGkCDlhbPplK4KYXVkaW8gICAgICAgICAgIGF1ZGlvICAgIOmfs+mikQp0ZXh0ICAgICAgICAgICAgc3RyaW5nICAg5Y+w6K+N5paH5pysCnRleHRfc291cmNlICAgICBzdHJpbmcgICBvcmlnaW5hbO+8iOS7jua4uOaIj+WJp+acrOino+aekO+8iXwgYXNy77yIYW5pbWUtd2hpc3BlciDovazlhpnvvIkKZHVyYXRpb24gICAgICAgIGZsb2F0NjQKc2FtcGxpbmdfcmF0ZSAgIGludDY0CmBgYAoKKirljL/lkI3ljJbmmK/llK/kuIDpmpznoo0qKu+8mmBzb3VyY2VfZGF0YXNldGAg5ZKMIGBjaGFyX2lkYCDpg73lgZrkuoblk4jluIzvvIxSRUFETUUg5piO6K+0CiJkaWZmaWN1bHQgdG8gcmVjb25zdHJ1Y3QgdGhlIG9yaWdpbmFsIHdvcmtzIGluIHRoZWlyIGVudGlyZXR5Iu+8jOebrueahOaYr+inhOmBv+aXpeacrOiRl+S9nOadg+azleOAggrmiYDku6XkuI3og73nm7TmjqUgYHdoZXJlIGdhbWU9J+OCteODjuODkOOCpuOCo+ODg+ODgScgYW5kIGNoYXI9J+WboOW5oeOCgeOBkOOCiydg44CCCgojIyMgMy4yIOWPjeafpSBjaGFyX2lkIOeahOWKnuazlQoK5ZOI5biM5Y675LiN5o6J77yM5L2GIGB0ZXh0YCDmmK/mmI7mlofjgILlgZrms5XvvJoKCjEuIOaLv+WHoOWPpSoq5Y+q5pyJ5Zug5bmh5beh5Lya6K+055qE5Y+w6K+NKirvvIjku47muLjmiI/mlLvnlaXnq5kv5Ymn5pysL3dpa2kg5oqE77yM5oiW5LuO56ysIDEg6IqC55qEIFZJVFMKICAg5ZCI5oiQ6aqM6K+B6L+H55qE5Y+w6K+N77yJ77yM5Yiw5pWw5o2u6ZuG6YeM5YGa5paH5pys5Yy56YWN77ybCjIuIOWRveS4reeahOiusOW9lemHjOe7n+iuoSBgY2hhcl9pZGAg5YiG5biD77yM5Ye6546w5pyA5aSa55qE6YKj5Liq5bCx5piv5aW577ybCjMuIOWGjeaMieivpSBgY2hhcl9pZGAg5ouJ5YWo6YOo6K6w5b2V44CCCgpgYGBweXRob24KIyDmtYHlvI/miavmj4/vvIzkuI3okL3lhajph4/nm5jvvJvlkb3kuK3lsLHlgZwKZnJvbSBkYXRhc2V0cyBpbXBvcnQgbG9hZF9kYXRhc2V0CmRzID0gbG9hZF9kYXRhc2V0KCJOYW5kZW1vR0hTL0phcGFuZXNlLUVyb2dlLVZvaWNlLVYyIiwgc3BsaXQ9InRyYWluIiwgc3RyZWFtaW5nPVRydWUpCktFWSA9IFsi44GI44G444G4IiwgIuOBneOCk+OBquOBk+OBqOOBquOBhOOBp+OBmeOCiCJdICAgICAgICAjIOaNouaIkOehruiupOWxnuS6juWlueeahOWPsOivjeeJh+autQpoaXRzID0ge30KZm9yIHJvdyBpbiBkczoKICAgIGlmIGFueShrIGluIHJvd1sidGV4dCJdIGZvciBrIGluIEtFWSk6CiAgICAgICAgaGl0c1tyb3dbImNoYXJfaWQiXV0gPSBoaXRzLmdldChyb3dbImNoYXJfaWQiXSwgMCkgKyAxCnByaW50KHNvcnRlZChoaXRzLml0ZW1zKCksIGtleT1sYW1iZGEgeDogLXhbMV0pWzo1XSkKYGBgCgrmiJDmnKzmj5DphpLvvJrlhajph4/mtYHlvI/miavkuIDpgY0gMjQwIEdCIOW+iOaFouOAguWunumZheWBmuazleaYr+WFiOS4iyAz4oCTNSDkuKogc2hhcmTvvIgxLjXigJMyLjMgR0LvvIkK5YGa57KX562b77yM5ZG95Lit546H5LiN5aSf5YaN5Yqg44CC5oiW6ICF55u05o6l6LWwIDMuMyDpgqPmnaHot6/igJTigJTmm7Tlv6vmm7TlubLlh4DjgIIKCiMjIyAzLjMg6Ieq5bex5LuO5ri45oiP6YeM5o+Q5Y+W77yI5pyA5bmy5YeA77yM5o6o6I2Q77yJCgrprZTlpbPnmoTlpJzlrrTmmK/mn5rlrZDnpL7nmoQgKipLaXJpa2lyaSDlvJXmk44qKu+8jOivremfs+i1hOa6kOWcqCBgdm9pY2UueHAzYCDph4zvvIzop6PljIXmmK/miJDnhp/mtYHnqIvvvJoKCmBgYGJhc2gKIyAxKSDoo4Xop6PljIXlmajvvIhXaW5kb3dzIOS+p++8iQojICAgIEtya3JFeHRyYWN077yaaHR0cHM6Ly9naXRodWIuY29tL3htb2V6enovS3JrckV4dHJhY3QKIyAgICDmiJYgR0FSYnJv77yI5Zu+5b2i55WM6Z2i77yM5pSv5oyBIHhwMyDnm7TmjqXmtY/op4gv5a+85Ye677yJCgojIDIpIOino+WHuiB2b2ljZS54cDPvvIzlvpfliLDmjInlnLrmma/nvJblj7fnmoQgLm9nZy8ud2F2CiMgICAg5Zug5bmh5beh55qE6K+t6Z+z5paH5Lu25ZCN6YCa5bi45bim6KeS6Imy5YmN57yA77yI5aaCIG1ncl94eHh4Lm9nZ++8iQoKIyAzKSDmjInop5LoibLnrZsgKyDovawgNDQuMWsg5Y2V5aOw6YGTICsg6Z2Z6Z+z5YiH5YiGCmZmbXBlZyAtaSBpbi5vZ2cgLWFyIDQ0MTAwIC1hYyAxIG91dC53YXYKCiMgNCkg5Y+w6K+N5a+56b2Q77yacGpoNDU2L0tya3JEYXRhTG9hZGVyIOiDveaMieWJp+acrOaKiuaWh+acrOWSjOivremfs+WvueS4igpgYGAKCui/meadoei3r+eahOWlveWkhO+8muivreaWmeW5suWHgO+8iOa4uOaIj+WOn+ebmOaXoOaNn++8ieOAgeWPsOivjeaWh+acrOeOsOaIkOOAgeinkuiJsui+ueeVjOa4heaZsO+8jAozMCDliIbpkp/pq5jotKjph4/or63mlpnlpKfmpoLlr7nlupQgMzAw4oCTNTAwIOWPpeOAgue8uueCueaYr+imgeacieato+eJiOa4uOaIj+OAggoKLS0tCgojIyA0LiDot6/nur/lu7rorq4KCnwg5L2g55qE5oOF5Ya1IHwg6LWw5ZOq5p2hIHwKfC0tLXwtLS18Cnwg546w5Zyo5bCx5oOz5ZCs5Liq5ZON77yM6aqM6K+B5YOP5LiN5YOPIHwgKirnrKwgMSDoioLnjrDmiJDmnYPph40qKu+8jGBmZXRjaF9tb2RlbHMuc2ggLS10aWVyIHZpdHNg77yMMiDliIbpkp8gfAp8IOWBmuaXgeeZveino+ivtO+8jOmfs+iJsuWvueWwseihjCB8ICoq6LevIEEg6Zu25qC35pys5YWL6ZqGKirvvIzmiKogOCDnp5Llj4LogIPpn7PpopHvvIw1IOWIhumSnyB8Cnwg6KaB5YGa6KeS6Imy5Y+w6K+N44CB6ZW/5pyf5Ye654mHIHwgKirot68gQiArIDMuMyDmuLjmiI/mj5Dlj5YqKu+8jOS4gOasoeaAp+aKleWFpe+8jOS5i+WQjui0qOmHj+WwgemhtiB8Cnwg5LiN5oOz5Lmw5ri45oiP44CB6IO95o6l5Y+X5Yy/5ZCN5pWw5o2uIHwgKirot68gQiArIDMuMiDlj43mn6UgY2hhcl9pZCoq77yM5YWI5LiLIDMg5LiqIHNoYXJkIOivleWRveS4reeOhyB8CgrkuInmnaHot6/kuI3lhrLnqoHvvJrlhYjnlKjnrKwgMSDoioLnoa7orqTpn7PoibLmlrnlkJHlr7nkuI3lr7nvvIzlho3lhrPlrpropoHkuI3opoHlvoDot68gQiDmipXlhaXjgIIK
+# 因幡巡的声音：权重现状与语料来源
+
+一句话结论：**已经有权重，不需要采集音频就能出声**。三份公开 VITS 权重可直接下载、
+零训练推理，`sid` 映射都已核实。下面是实查结果，以及"想要更好音质时"的语料路线。
+
+---
+
+## 1. 现成权重（可直接用，无需任何参考音频）
+
+| 仓库 | 文件 | 体积 | 结构 | 因幡巡 sid | 许可 |
+|---|---|---|---|---|---|
+| `Redmonm/SanobaWitch` | `model.pth` + `config.json` | 158,902,940 B + 2,248 B | 原版 VITS（MoeGoe 直读） | **1** | apache-2.0 |
+| ~~`skytnt/moe-tts`~~ | ~~`saved_model/0/model.pth` + `config.json`~~ | ~~476,620,221 B + 1,260 B~~ | **2026-10-22 实测仓库已空（files=0，404），不可用** | ~~1~~ | 未标 license，作者声明禁商用 |
+| `chinoll/ACGTTS` | `new/acg_base/jp_1196000.pth` | 159,103,181 B | 原版 VITS，**仓库内无 config.json** | **2** | CC-BY-NC-SA-4.0 |
+
+### 首选 `Redmonm/SanobaWitch` 的理由
+
+它的 `config.json` 是 MoeGoe 生态的原生格式，`text_cleaners` 直接写着
+`["zh_ja_mixture_cleaners"]`——这是 MoeGoe 作者写的日中混合 cleaner，说明权重就是拿
+MoeGoe 那套工具链训的，加载不会卡在架构或符号表上。
+
+config 关键字段（照抄，便于校对）：
+
+```
+data.text_cleaners  = ["zh_ja_mixture_cleaners"]
+data.sampling_rate  = 22050
+data.n_speakers     = 6
+data.add_blank      = true
+model.inter_channels = 192
+model.filter_channels = 768
+model.n_heads = 2, n_layers = 6
+model.upsample_rates = [8,8,2,2]
+model.gin_channels = 256
+speakers = {"宁宁":0, "因幡巡":1, "紬":2, "憧子":3, "和奏":4, "七绪":5}
+```
+
+`symbols` 是 MoeGoe 标准表（含 `ʃ tʃ ts ɯ ɹ ə ħ ʲ ʰ` 这些 IPA 符号），
+和 MoeGoe `text/symbols.py` 完全一致。
+
+### 装与跑
+
+```bash
+bash scripts/fetch_models.sh --tier vits     # 三份全下，约 780 MB
+vits                                          # 起服务，:9882
+curl :9882/speakers                           # 看 sid 表
+curl -X POST :9882/tts -H 'Content-Type: application/json' \
+  -d '{"text":"今天的视频，就由我来解说吧！","speaker":"因幡巡","speed":1.0}' \
+  -o line001.wav
+```
+
+MoeGoe 会从 `$MEGOE_DIR`（默认 `/root/src/MoeGoe`）导入，`setup_env.sh` 已经 clone 好
+并建了独立的 `vits` venv（Python 3.10；它的 cleaner 依赖 jieba/pypinyin/jaconv/pyopenjtalk，
+和 ComfyUI 的依赖树冲突，必须隔离）。
+
+### 音质预期
+
+这是 2022 年代的 22 kHz VITS。**能听出是那个角色，但达不到现代 TTS 的自然度**：
+长句韵律偏平、气声和情绪细节几乎没有。做旁白解说够用，做角色台词就露怯。
+要更好的，看第 2 节。
+
+---
+
+## 2. 想要更好音质的两条路
+
+### 路 A：零样本克隆（5–10 秒参考音频，5 分钟出结果）
+
+用 Ming-3.0-tts（`vits` 之外的 :9881 服务）或 Qwen3-TTS（:9880）。
+**不需要语料库，一段干净人声就够**。参考音频来源：
+
+- 游戏里截一段因幡巡的台词（最直接）
+- B 站已有的 AI 因幡巡翻唱视频，抽音轨（`ffmpeg -i x.mp4 -vn -ar 44100 -ac 1 ref.wav`）
+- 上面第 1 节那份 VITS 合成的音频——音色对，虽然有机器味，但作为**音色锚点**够用
+
+### 路 B：GPT-SoVITS 微调（30 分钟语料，质量上限）
+
+要 1:1 复刻，就得有语料。两个来源：
+
+---
+
+## 3. 语料来源（实查，2026-10-21）
+
+### 3.1 现成公开数据集
+
+| 数据集 | 规模 | 许可 | 结构 | 可用性 |
+|---|---|---|---|---|
+| `NandemoGHS/Japanese-Eroge-Voice-V2` | **1,033,142 条 / 2,657 小时** | **MIT** | 520 个 parquet，每个约 460 MB（总 240 GB） | 字段齐全但**匿名化** |
+| `NandemoGHS/Japanese-Eroge-Voice` | 409.33 小时 | MIT | WebDataset，每 tar 1024 条，单个约 369 MB | 同上，规模小 6 倍 |
+| `litagin/Galgame_Speech_ASR_16kHz` | — | GPL-3.0 | parquet + ASR 标注 | 有 `num_samples_of_tar.csv` 可先查分布 |
+| `HisAtri/YuzuSoft-temporary` | — | — | `S.B.Sounds.7z` / `丛雨（部分）.7z` / `芳乃_部分.7z` | **千恋万花**，不是魔女的夜宴，无因幡巡 |
+
+V2 的字段：
+
+```
+source_dataset  string   游戏标识（哈希）
+scene_id        string   场景标识（哈希）
+char_id         string   角色标识（哈希）   ← 关键
+audio           audio    音频
+text            string   台词文本
+text_source     string   original（从游戏剧本解析）| asr（anime-whisper 转写）
+duration        float64
+sampling_rate   int64
+```
+
+**匿名化是唯一障碍**：`source_dataset` 和 `char_id` 都做了哈希，README 明说
+"difficult to reconstruct the original works in their entirety"，目的是规避日本著作权法。
+所以不能直接 `where game='サノバウィッチ' and char='因幡めぐる'`。
+
+### 3.2 反查 char_id 的办法
+
+哈希去不掉，但 `text` 是明文。做法：
+
+1. 拿几句**只有因幡巡会说的台词**（从游戏攻略站/剧本/wiki 抄，或从第 1 节的 VITS
+   合成验证过的台词），到数据集里做文本匹配；
+2. 命中的记录里统计 `char_id` 分布，出现最多的那个就是她；
+3. 再按该 `char_id` 拉全部记录。
+
+```python
+# 流式扫描，不落全量盘；命中就停
+from datasets import load_dataset
+ds = load_dataset("NandemoGHS/Japanese-Eroge-Voice-V2", split="train", streaming=True)
+KEY = ["えへへ", "そんなことないですよ"]        # 换成确认属于她的台词片段
+hits = {}
+for row in ds:
+    if any(k in row["text"] for k in KEY):
+        hits[row["char_id"]] = hits.get(row["char_id"], 0) + 1
+print(sorted(hits.items(), key=lambda x: -x[1])[:5])
+```
+
+成本提醒：全量流式扫一遍 240 GB 很慢。实际做法是先下 3–5 个 shard（1.5–2.3 GB）
+做粗筛，命中率不够再加。或者直接走 3.3 那条路——更快更干净。
+
+### 3.3 自己从游戏里提取（最干净，推荐）
+
+魔女的夜宴是柚子社的 **Kirikiri 引擎**，语音资源在 `voice.xp3` 里，解包是成熟流程：
+
+```bash
+# 1) 装解包器（Windows 侧）
+#    KrkrExtract：https://github.com/xmoezzz/KrkrExtract
+#    或 GARbro（图形界面，支持 xp3 直接浏览/导出）
+
+# 2) 解出 voice.xp3，得到按场景编号的 .ogg/.wav
+#    因幡巡的语音文件名通常带角色前缀（如 mgr_xxxx.ogg）
+
+# 3) 按角色筛 + 转 44.1k 单声道 + 静音切分
+ffmpeg -i in.ogg -ar 44100 -ac 1 out.wav
+
+# 4) 台词对齐：pjh456/KrkrDataLoader 能按剧本把文本和语音对上
+```
+
+这条路的好处：语料干净（游戏原盘无损）、台词文本现成、角色边界清晰，
+30 分钟高质量语料大概对应 300–500 句。缺点是要有正版游戏。
+
+---
+
+## 4. 路线建议
+
+| 你的情况 | 走哪条 |
+|---|---|
+| 现在就想听个响，验证像不像 | **第 1 节现成权重**，`fetch_models.sh --tier vits`，2 分钟 |
+| 做旁白解说，音色对就行 | **路 A 零样本克隆**，截 8 秒参考音频，5 分钟 |
+| 要做角色台词、长期出片 | **路 B + 3.3 游戏提取**，一次性投入，之后质量封顶 |
+| 不想买游戏、能接受匿名数据 | **路 B + 3.2 反查 char_id**，先下 3 个 shard 试命中率 |
+
+三条路不冲突：先用第 1 节确认音色方向对不对，再决定要不要往路 B 投入。

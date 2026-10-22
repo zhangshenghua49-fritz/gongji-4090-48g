@@ -1,1 +1,287 @@
-IyBkZXBsb3ktaW1hZ2UucHMxIC0tIOS4gOadoeWRveS7pOaKiumVnOWDj+W7uuWHuuadpQojCiMg55So5rOV77yI5ZyoIGdvbmdqaS00MDkwLTQ4ZyDnm67lvZXph4zvvIxQb3dlclNoZWxsIOaIliBwd3No77yJ77yaCiMgICAuXHNjcmlwdHNcZGVwbG95LWltYWdlLnBzMSAtVG9rZW4gZ2hwX3h4eHh4eHh4CiMgICAuXHNjcmlwdHNcZGVwbG95LWltYWdlLnBzMSAtVG9rZW4gZ2hwX3h4eCAtRmxhdm9yIGZ1bGwgLVJlcG9OYW1lIG15LWgzLWltYWdlCiMKIyBUb2tlbiDmgI7kuYjmnaXvvIgzMCDnp5LvvInvvJoKIyAgIOa1j+iniOWZqCDihpIgaHR0cHM6Ly9naXRodWIuY29tL3NldHRpbmdzL3Rva2Vucy9uZXcKIyAgIE5vdGUg6ZqP5L6/5YaZ77yI5q+U5aaCIGdvbmdqaS00MDkwLTQ4Z++8ie+8jEV4cGlyYXRpb24g6YCJIDcgZGF5c++8jAojICAg5Yu+6YCJIFt4XSByZXBvICDlkowgW3hdIHdvcmtmbG93ICDkuKTpobkg4oaSIEdlbmVyYXRlIHRva2VuIOKGkiDlpI3liLbpgqPkuLIgZ2hwXy4uLgojCiMg5a6D5pu/5L2g5YGa55qE5LqL77yaCiMgICAxLiDnlKggdG9rZW4g56Gu6K6k6Lqr5Lu9CiMgICAyLiDlu7rkuIDkuKogcHVibGljIOS7k+W6k++8iOW3suWtmOWcqOWwseWkjeeUqO+8iQojICAgMy4gZ2l0IGluaXQgKyBjb21taXQgKyDmjqjkuIrljrsKIyAgIDQuIOinpuWPkSBidWlsZC1nb25namktaW1hZ2XvvIxmbGF2b3Ig5oyJ5L2g6YCJ55qECiMgICA1LiDnm6/nnYDot5HliLDnu5PmnZ/vvIzmiorplZzlg4/lnLDlnYDmiZPlh7rmnaUKIwojIOaOqOeahOaYryBnaGNyLmlv77yMKirkuI3nlKjphY3ku7vkvZUgc2VjcmV0Kiog4oCU4oCUIEFjdGlvbnMg6Ieq5bim55qEIEdJVEhVQl9UT0tFTiDlsLHlpJ/jgIIKIyDot5HlrozplZzlg4/lnLDlnYDlvaLlpoLvvJpnaGNyLmlvLzzkvaDnmoTnlKjmiLflkI0+L2dvbmdqaS00MDkwLTQ4ZzpzbGltCgpbQ21kbGV0QmluZGluZygpXQpwYXJhbSgKICAgIFtQYXJhbWV0ZXIoTWFuZGF0b3J5ID0gJHRydWUpXQogICAgW3N0cmluZ10kVG9rZW4sCgogICAgW3N0cmluZ10kUmVwb05hbWUgPSAiZ29uZ2ppLTQwOTAtNDhnIiwKCiAgICBbVmFsaWRhdGVTZXQoInNsaW0iLCAiZnVsbCIsICJib3RoIildCiAgICBbc3RyaW5nXSRGbGF2b3IgPSAic2xpbSIsCgogICAgW3N0cmluZ10kQ29tbWl0TWVzc2FnZSA9ICI0MDkwLTQ4RzogTU9TUy1JbWFnZSArIE1pbmlNYXggSDMgKyBHUFQtU29WSVRTIFY1ICsgRHJhbWEgMyIsCgogICAgIyDlj6rmiZPljbDorqHliJLvvIzkuI3nnJ/nmoTliqggR2l0SHViCiAgICBbc3dpdGNoXSREcnlSdW4KKQoKJEVycm9yQWN0aW9uUHJlZmVyZW5jZSA9ICJTdG9wIgokQXBpQmFzZSA9ICJodHRwczovL2FwaS5naXRodWIuY29tIgoKIyDov5nlj7DmnLrlmajkuIogZ2l0IOS4jeWcqOm7mOiupCBQQVRIIOmHjO+8iOWPquaciSBEU0gg6ZqP6ZmE55qEIGJhc2gg546v5aKD5bimIGdpdO+8ieOAggojIOaJvuS4gOWciO+8mlBBVEgg4oaSIFByb2dyYW0gRmlsZXMg4oaSIERTSCDoh6rluKbnmoQgdWNydDY044CCCmlmICgtbm90IChHZXQtQ29tbWFuZCBnaXQgLUVycm9yQWN0aW9uIFNpbGVudGx5Q29udGludWUpKSB7CiAgICAkY2FuZGlkYXRlcyA9IEAoCiAgICAgICAgIkM6XFByb2dyYW0gRmlsZXNcR2l0XGNtZCIsCiAgICAgICAgIkM6XFByb2dyYW0gRmlsZXMgKHg4NilcR2l0XGNtZCIsCiAgICAgICAgIiRlbnY6TE9DQUxBUFBEQVRBXFByb2dyYW1zXEdpdFxjbWQiLAogICAgICAgICJDOlxVc2Vyc1x6aGFuZ1wuZHNoXHByb2ZpbGVzXGRlc2t0b3Bcbm9kZV9tb2R1bGVzXEBkc2gtb3BzXGJhc2gtd2luMzIteDY0XHVjcnQ2NFxiaW4iCiAgICApIHwgV2hlcmUtT2JqZWN0IHsgVGVzdC1QYXRoIChKb2luLVBhdGggJF8gImdpdC5leGUiKSB9CiAgICBpZiAoJGNhbmRpZGF0ZXMpIHsKICAgICAgICAkZW52OlBBVEggPSAoJGNhbmRpZGF0ZXMgLWpvaW4gIjsiKSArICI7IiArICRlbnY6UEFUSAogICAgfSBlbHNlIHsKICAgICAgICB0aHJvdyAi5om+5LiN5YiwIGdpdC5leGXvvIzlhYjoo4UgR2l0IGZvciBXaW5kb3dzIOaIluaKiuWug+eahCBjbWQg55uu5b2V5Yqg6L+bIFBBVEgiCiAgICB9Cn0KCiRIZWFkZXJzID0gQHsKICAgIEF1dGhvcml6YXRpb24gICAgICAgICAgPSAiQmVhcmVyICRUb2tlbiIKICAgIEFjY2VwdCAgICAgICAgICAgICAgICAgPSAiYXBwbGljYXRpb24vdm5kLmdpdGh1Yitqc29uIgogICAgIlgtR2l0SHViLUFwaS1WZXJzaW9uIiA9ICIyMDIyLTExLTI4IgogICAgIlVzZXItQWdlbnQiICAgICAgICAgICA9ICJnb25namktNDA5MC00OGctZGVwbG95Igp9CgpmdW5jdGlvbiBTYXkoJG1zZykgeyBXcml0ZS1Ib3N0ICJbZGVwbG95XSAkbXNnIiAtRm9yZWdyb3VuZENvbG9yIEN5YW4gfQpmdW5jdGlvbiBPaygkbXNnKSB7IFdyaXRlLUhvc3QgIiAgIG9rICAkbXNnIiAtRm9yZWdyb3VuZENvbG9yIEdyZWVuIH0KZnVuY3Rpb24gQmFkKCRtc2cpIHsgV3JpdGUtSG9zdCAiICAgISEgICRtc2ciIC1Gb3JlZ3JvdW5kQ29sb3IgWWVsbG93IH0KCmZ1bmN0aW9uIEludm9rZS1HaXRIdWIgewogICAgcGFyYW0oCiAgICAgICAgW3N0cmluZ10kTWV0aG9kID0gIkdFVCIsCiAgICAgICAgW3N0cmluZ10kUGF0aCwKICAgICAgICAkQm9keSA9ICRudWxsLAogICAgICAgIFtzd2l0Y2hdJEFsbG93RmFpbHVyZQogICAgKQogICAgJHVyaSA9IGlmICgkUGF0aCAtbGlrZSAiaHR0cCoiKSB7ICRQYXRoIH0gZWxzZSB7ICIkQXBpQmFzZSRQYXRoIiB9CiAgICAkcCA9IEB7IE1ldGhvZCA9ICRNZXRob2Q7IFVyaSA9ICR1cmk7IEhlYWRlcnMgPSAkSGVhZGVycyB9CiAgICBpZiAoJG51bGwgLW5lICRCb2R5KSB7CiAgICAgICAgJHAuQm9keSA9ICgkQm9keSB8IENvbnZlcnRUby1Kc29uIC1EZXB0aCA4IC1Db21wcmVzcykKICAgICAgICAkcC5Db250ZW50VHlwZSA9ICJhcHBsaWNhdGlvbi9qc29uIgogICAgfQogICAgdHJ5IHsKICAgICAgICByZXR1cm4gSW52b2tlLVJlc3RNZXRob2QgQHAKICAgIH0gY2F0Y2ggewogICAgICAgIGlmICgkQWxsb3dGYWlsdXJlKSB7CiAgICAgICAgICAgIEJhZCAiJE1ldGhvZCAkUGF0aCAtPiAkKCRfLkV4Y2VwdGlvbi5NZXNzYWdlKSIKICAgICAgICAgICAgcmV0dXJuICRudWxsCiAgICAgICAgfQogICAgICAgIHRocm93CiAgICB9Cn0KCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgMC4g5a6a5L2N6aG555uu5qC555uu5b2VCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiRSb290ID0gU3BsaXQtUGF0aCAtUGFyZW50ICRQU1NjcmlwdFJvb3QKaWYgKC1ub3QgKFRlc3QtUGF0aCAoSm9pbi1QYXRoICRSb290ICJEb2NrZXJmaWxlIikpKSB7CiAgICB0aHJvdyAi5om+5LiN5YiwIERvY2tlcmZpbGUg4oCU4oCUIOivt+WcqCBnb25namktNDA5MC00OGcg55uu5b2V6YeM6LeR6L+Z5Liq6ISa5pys77yI5b2T5YmN5o6o566X5qC555uu5b2V77yaJFJvb3TvvIkiCn0KU2F5ICLpobnnm67moLnnm67lvZXvvJokUm9vdCIKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgMS4g6aqM6Lqr5Lu9ICsg5p+lIHRva2VuIOadg+mZkAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTYXkgIjEvNiDpqozor4EgdG9rZW4iCnRyeSB7CiAgICAkTWUgPSBJbnZva2UtR2l0SHViIC1QYXRoICIvdXNlciIKICAgICRPd25lciA9ICRNZS5sb2dpbgogICAgT2sgIuW3suiupOivgeS4uiAkT3duZXIiCn0gY2F0Y2ggewogICAgaWYgKCREcnlSdW4pIHsKICAgICAgICAjIERyeVJ1biDkuI3norAgR2l0SHVi77yMdG9rZW4g5piv5YGH55qE5Lmf5peg5omA6LCT77yM55So5Y2g5L2N56ym6LWw5a6M6K6h5YiSCiAgICAgICAgJE93bmVyID0gIjzkvaDnmoTotKblj7c+IgogICAgICAgIEJhZCAidG9rZW4g5peg5pWI77yIRHJ5UnVuIOW/veeVpe+8ieKAlOKAlCAkKCRfLkV4Y2VwdGlvbi5NZXNzYWdlKSIKICAgIH0gZWxzZSB7CiAgICAgICAgQmFkICJ0b2tlbiDpqozor4HlpLHotKXvvJokKCRfLkV4Y2VwdGlvbi5NZXNzYWdlKSIKICAgICAgICB0aHJvdyAi5YWI5L+uIHRva2VuIOWGjei3keOAguajgOafpe+8muaYr+WQpui/h+acn+OAgeaYr+WQpuWkjeWItuWujOaVtOOAgeaYr+WQpuaciSByZXBvICsgd29ya2Zsb3cg5p2D6ZmQ44CCIgogICAgfQp9CgokU2NvcGVzID0gIiIKdHJ5IHsKICAgICMg5p2D6ZmQIHNjb3BlIOWPquWcqCAvdXNlciDnmoTlk43lupTlpLTph4zvvIxJbnZva2UtUmVzdE1ldGhvZCDlj5bkuI3liLDvvIzljZXni6zlj5HkuIDmrKEKICAgICRyZXNwID0gSW52b2tlLVdlYlJlcXVlc3QgLVVyaSAiJEFwaUJhc2UvdXNlciIgLUhlYWRlcnMgJEhlYWRlcnMgLU1ldGhvZCBHRVQgLVVzZUJhc2ljUGFyc2luZwogICAgJFNjb3BlcyA9ICRyZXNwLkhlYWRlcnNbIlgtT0F1dGgtU2NvcGVzIl0KfSBjYXRjaCB7IH0KaWYgKCRTY29wZXMpIHsKICAgIE9rICJ0b2tlbiBzY29wZXM6ICRTY29wZXMiCiAgICBmb3JlYWNoICgkbmVlZCBpbiBAKCJyZXBvIiwgIndvcmtmbG93IikpIHsKICAgICAgICBpZiAoJFNjb3BlcyAtbm90bWF0Y2ggJG5lZWQpIHsgQmFkICLnvLogc2NvcGU6ICRuZWVkIOKAlOKAlCDliLAgdG9rZW4g6K6+572u6aG16KGl5Yu+77yM5ZCm5YiZ5Yiw56ysIDQg5q2l5Lya5aSx6LSlIiB9CiAgICB9Cn0gZWxzZSB7CiAgICBCYWQgIuivu+S4jeWIsCBzY29wZXPvvIhmaW5lLWdyYWluZWQgdG9rZW4g5q2j5bi477yJ4oCU4oCUIOe7p+e7rSIKfQoKaWYgKCREcnlSdW4pIHsKICAgIFNheSAiRHJ5UnVu77ya5bCG5Yib5bu6ICRPd25lci8kUmVwb05hbWXvvIzmjqggbWFpbu+8jOinpuWPkSBmbGF2b3I9JEZsYXZvciIKICAgIHJldHVybgp9CgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIDIuIOW7uuS7k+W6k++8iOW3suWtmOWcqOWwseWkjeeUqO+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTYXkgIjIvNiDlh4blpIfku5PlupMgJE93bmVyLyRSZXBvTmFtZSIKJFJlcG8gPSBJbnZva2UtR2l0SHViIC1QYXRoICIvcmVwb3MvJE93bmVyLyRSZXBvTmFtZSIgLUFsbG93RmFpbHVyZQppZiAoJFJlcG8pIHsKICAgIE9rICLku5PlupPlt7LlrZjlnKjvvIzlpI3nlKjvvIgkKCRSZXBvLmh0bWxfdXJsKe+8iSIKICAgICREZWZhdWx0QnJhbmNoID0gaWYgKCRSZXBvLmRlZmF1bHRfYnJhbmNoKSB7ICRSZXBvLmRlZmF1bHRfYnJhbmNoIH0gZWxzZSB7ICJtYWluIiB9Cn0gZWxzZSB7CiAgICAkUmVwbyA9IEludm9rZS1HaXRIdWIgLU1ldGhvZCBQT1NUIC1QYXRoICIvdXNlci9yZXBvcyIgLUJvZHkgQHsKICAgICAgICBuYW1lICAgICAgICA9ICRSZXBvTmFtZQogICAgICAgIGRlc2NyaXB0aW9uID0gIlJUWCA0MDkwIDQ4RyBBSSB2aWRlbyBzdGFjazogTWluaU1heC1IMyArIFF3ZW4tSW1hZ2UtMi4xICsgRkxVWDMga2xlaW4gKyBWb3hDUE0yIgogICAgICAgIHByaXZhdGUgICAgID0gJGZhbHNlCiAgICAgICAgaGFzX2lzc3VlcyAgPSAkZmFsc2UKICAgICAgICBoYXNfd2lraSAgICA9ICRmYWxzZQogICAgICAgIGF1dG9faW5pdCAgID0gJGZhbHNlCiAgICB9CiAgICBPayAi5bey5Yib5bu6ICQoJFJlcG8uaHRtbF91cmwpIgogICAgJERlZmF1bHRCcmFuY2ggPSAibWFpbiIKfQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyAzLiBnaXQgaW5pdCArIGNvbW1pdCArIHB1c2gKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU2F5ICIzLzYg5o+Q5Lqk5bm25o6o6YCBIgpQdXNoLUxvY2F0aW9uICRSb290CnRyeSB7CiAgICBpZiAoLW5vdCAoVGVzdC1QYXRoICIuZ2l0IikpIHsKICAgICAgICBnaXQgaW5pdCAtYiAkRGVmYXVsdEJyYW5jaCAyPiYxIHwgT3V0LU51bGwKICAgICAgICBPayAiZ2l0IOS7k+W6k+W3suWIneWni+WMliIKICAgIH0KCiAgICAjIOacrOWcsOi6q+S7ve+8iOWPquWGmei/myAuZ2l0L2NvbmZpZ++8jOS4jeWKqOWFqOWxgO+8iQogICAgZ2l0IGNvbmZpZyB1c2VyLm5hbWUgICJkZXBsb3ktYm90IiAgICAgICAgICAgICAgICAgICAgICAyPiYxIHwgT3V0LU51bGwKICAgIGdpdCBjb25maWcgdXNlci5lbWFpbCAiZGVwbG95LWJvdEB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iIDI+JjEgfCBPdXQtTnVsbAoKICAgICMgLmdpdGlnbm9yZe+8muWkp+S7tuWSjOaVj+aEn+S7tuS4jei/m+S7k+W6kwogICAgJGlnbm9yZSA9IEAoCiAgICAgICAgInJ1bnRpbWUuZW52IiwKICAgICAgICAiLmNhY2hlLyIsCiAgICAgICAgImxvY2FsLyIsCiAgICAgICAgIioqL19fcHljYWNoZV9fLyIsCiAgICAgICAgIioucHljIiwKICAgICAgICAic2hvdC0qLnBuZyIKICAgICkKICAgICRnaVBhdGggPSBKb2luLVBhdGggJFJvb3QgIi5naXRpZ25vcmUiCiAgICAkZXhpc3RpbmcgPSBpZiAoVGVzdC1QYXRoICRnaVBhdGgpIHsgR2V0LUNvbnRlbnQgJGdpUGF0aCB9IGVsc2UgeyBAKCkgfQogICAgJG1lcmdlZCA9IEAoJGV4aXN0aW5nKSArIEAoJGlnbm9yZSkgfCBXaGVyZS1PYmplY3QgeyAkXyAtYW5kICRfLlRyaW0oKSB9IHwgU2VsZWN0LU9iamVjdCAtVW5pcXVlCiAgICAjIOS/neeVmeS4iuS4gOasoeiEmuacrOWGmeWFpeeahOazqOmHiuWktO+8jOmBv+WFjemHjeWkjei/veWKoAogICAgU2V0LUNvbnRlbnQgLVBhdGggJGdpUGF0aCAtVmFsdWUgJG1lcmdlZCAtRW5jb2RpbmcgdXRmOAogICAgT2sgIi5naXRpZ25vcmUg5bey5bCx57uq77yIJCgkbWVyZ2VkLkNvdW50KSDmnaHvvIkiCgogICAgZ2l0IGFkZCAtQSAyPiYxIHwgT3V0LU51bGwKICAgICRkaXJ0eSA9IGdpdCBzdGF0dXMgLS1wb3JjZWxhaW4gMj4mMQogICAgaWYgKCRkaXJ0eSkgewogICAgICAgIGdpdCBjb21taXQgLXEgLW0gJENvbW1pdE1lc3NhZ2UgMj4mMSB8IE91dC1OdWxsCiAgICAgICAgT2sgIuW3suaPkOS6pCAkKCgkZGlydHkgLXNwbGl0ICJgbiIpLkNvdW50KSDkuKrlj5jmm7QiCiAgICB9IGVsc2UgewogICAgICAgIE9rICLmsqHmnInmlrDlj5jmm7TvvIzot7Pov4fmj5DkuqQiCiAgICB9CgogICAgIyDnlKjkuIDmrKHmgKfnmoTluKYgdG9rZW4gcmVtb3RlIOaOqOmAge+8jOS4jeaKiuWug+WGmei/myAuZ2l0L2NvbmZpZwogICAgJHB1c2hVcmwgPSAiaHR0cHM6Ly94LWFjY2Vzcy10b2tlbjokVG9rZW5AZ2l0aHViLmNvbS8kT3duZXIvJFJlcG9OYW1lLmdpdCIKICAgIGdpdCBwdXNoICRwdXNoVXJsICJIRUFEOiREZWZhdWx0QnJhbmNoIiAyPiYxIHwgRm9yRWFjaC1PYmplY3QgeyBpZiAoJF8gLW1hdGNoICJlcnJvcnxmYXRhbCIpIHsgQmFkICRfIH0gfQogICAgaWYgKC1ub3QgKChnaXQgcmVtb3RlIDI+JjEpIC1jb250YWlucyAib3JpZ2luIikpIHsKICAgICAgICBnaXQgcmVtb3RlIGFkZCBvcmlnaW4gImh0dHBzOi8vZ2l0aHViLmNvbS8kT3duZXIvJFJlcG9OYW1lLmdpdCIKICAgIH0KICAgIE9rICLlt7LmjqjpgIHliLAgaHR0cHM6Ly9naXRodWIuY29tLyRPd25lci8kUmVwb05hbWUiCn0gZmluYWxseSB7CiAgICBQb3AtTG9jYXRpb24KfQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyA0LiDop6blj5Egd29ya2Zsb3cKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU2F5ICI0LzYg6Kem5Y+RIGJ1aWxkLWdvbmdqaS1pbWFnZe+8iGZsYXZvcj0kRmxhdm9y77yJIgpTdGFydC1TbGVlcCAtU2Vjb25kcyAzICAgIyDorqkgR2l0SHViIOaEn+efpeWIsOaWsCBwdXNoCgokZGlzcGF0Y2hlZCA9IEludm9rZS1HaXRIdWIgLU1ldGhvZCBQT1NUIC1QYXRoICIvcmVwb3MvJE93bmVyLyRSZXBvTmFtZS9hY3Rpb25zL3dvcmtmbG93cy9idWlsZC1pbWFnZS55bWwvZGlzcGF0Y2hlcyIgLUJvZHkgQHsKICAgIHJlZiAgICA9ICREZWZhdWx0QnJhbmNoCiAgICBpbnB1dHMgPSBAeyBmbGF2b3IgPSAkRmxhdm9yOyB0YWcgPSAiIiB9Cn0gLUFsbG93RmFpbHVyZQoKaWYgKCRudWxsIC1lcSAkZGlzcGF0Y2hlZCAtYW5kICRGbGF2b3IgLWVxICJzbGltIikgewogICAgIyBwdXNoIOacrOi6q+WwseS8muinpuWPkeS4gOasoSBzbGltIOaehOW7uu+8jOWPr+iDveW3sue7j+WcqOi3kQogICAgQmFkICLmiYvliqjop6blj5HlpLHotKUg4oCU4oCUIOWPr+iDvSBwdXNoIOW3sue7j+iHquWKqOinpuWPkeS6huS4gOasoe+8jOe7p+e7reebr+edgCIKfQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyA1LiDova7or6IKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KU2F5ICI1LzYg562J5b6F5p6E5bu677yI6aaW5qyhIHNsaW0g57qmIDI1LTQwIOWIhumSn++8jGZ1bGwgNjAtOTDvvJvov5nph4zmr48gMzAg56eS55yL5LiA55y877yJIgokcnVuID0gJG51bGwKZm9yICgkaSA9IDA7ICRpIC1sdCAyNDA7ICRpKyspIHsKICAgIFN0YXJ0LVNsZWVwIC1TZWNvbmRzIDMwCiAgICAkcnVucyA9IEludm9rZS1HaXRIdWIgLVBhdGggIi9yZXBvcy8kT3duZXIvJFJlcG9OYW1lL2FjdGlvbnMvcnVucz9wZXJfcGFnZT01IiAtQWxsb3dGYWlsdXJlCiAgICBpZiAoLW5vdCAkcnVucykgeyBjb250aW51ZSB9CiAgICAkcnVuID0gJHJ1bnMud29ya2Zsb3dfcnVucyB8IFdoZXJlLU9iamVjdCB7ICRfLnBhdGggLWxpa2UgIipidWlsZC1pbWFnZS55bWwqIiB9IHwgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQogICAgaWYgKC1ub3QgJHJ1bikgeyBCYWQgIui/mOayoeeci+WIsCBydW7vvIgkKFtpbnRdKCRpKjMwLzYwKSkg5YiG6ZKf77yJIjsgY29udGludWUgfQoKICAgICRtaW5zID0gW21hdGhdOjpSb3VuZCgoKEdldC1EYXRlKS5Ub1VuaXZlcnNhbFRpbWUoKSAtIFtkYXRldGltZV0kcnVuLmNyZWF0ZWRfYXQpLlRvdGFsTWludXRlcywgMSkKICAgIFdyaXRlLUhvc3QgKCIgICBbezAsNX0gbWluXSB7MX0gIHsyfSIgLWYgJG1pbnMsICRydW4uc3RhdHVzLCAkcnVuLmNvbmNsdXNpb24pIC1Gb3JlZ3JvdW5kQ29sb3IgRGFya0dyYXkKCiAgICBpZiAoJHJ1bi5zdGF0dXMgLWVxICJjb21wbGV0ZWQiKSB7IGJyZWFrIH0KfQoKaWYgKC1ub3QgJHJ1bikgeyB0aHJvdyAi562J5LiN5YiwIHdvcmtmbG93IHJ1biDigJTigJQg5Y67IGh0dHBzOi8vZ2l0aHViLmNvbS8kT3duZXIvJFJlcG9OYW1lL2FjdGlvbnMg55yL55yLIiB9CgppZiAoJHJ1bi5jb25jbHVzaW9uIC1uZSAic3VjY2VzcyIpIHsKICAgIEJhZCAi5p6E5bu657uT5p6c77yaJCgkcnVuLmNvbmNsdXNpb24pIgogICAgV3JpdGUtSG9zdCAiICAg5pel5b+X77yaJCgkcnVuLmh0bWxfdXJsKSIgLUZvcmVncm91bmRDb2xvciBZZWxsb3cKICAgIFdyaXRlLUhvc3QgIiAgIOacgOW4uOingeWOn+WboO+8mnRvcmNoIOijhei2heaXtu+8iOmHjei3keS4gOasoemAmuW4uOWwseWlve+8ieOAgeejgeebmOS4jei2s++8iEZyZWUgZGlzayBzcGFjZSDmraXpqqTlpLHotKXvvIkiIC1Gb3JlZ3JvdW5kQ29sb3IgRGFya0dyYXkKICAgIHJldHVybgp9CgpPayAi5p6E5bu65oiQ5Yqf77yIJChbbWF0aF06OlJvdW5kKCgoR2V0LURhdGUpLlRvVW5pdmVyc2FsVGltZSgpIC0gW2RhdGV0aW1lXSRydW4uY3JlYXRlZF9hdCkuVG90YWxNaW51dGVzLDEpKSDliIbpkp/vvIkiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIDYuIOaUtuWwvu+8muehruiupOWMheWPr+ingeaApyArIOaJk+WNsOWcsOWdgAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTYXkgIjYvNiDplZzlg4/lnLDlnYAiCiRwa2dQYXRoID0gIi91c2Vycy8kT3duZXIvcGFja2FnZXMvY29udGFpbmVyL2dvbmdqaS00MDkwLTQ4ZyIKJHBrZyA9IEludm9rZS1HaXRIdWIgLVBhdGggJHBrZ1BhdGggLUFsbG93RmFpbHVyZQppZiAoJHBrZykgewogICAgaWYgKCRwa2cudmlzaWJpbGl0eSAtbmUgInB1YmxpYyIpIHsKICAgICAgICBCYWQgIuWMheW9k+WJjeaYryAkKCRwa2cudmlzaWJpbGl0eSkg4oCU4oCUIOW5s+WPsOWMv+WQjeaLieS4jeWIsCIKICAgICAgICBTYXkgIuato+WcqOaUueaIkCBwdWJsaWPigKYiCiAgICAgICAgJGZpeGVkID0gSW52b2tlLUdpdEh1YiAtTWV0aG9kIFBBVENIIC1QYXRoICRwa2dQYXRoIC1Cb2R5IEB7IHZpc2liaWxpdHkgPSAicHVibGljIiB9IC1BbGxvd0ZhaWx1cmUKICAgICAgICBpZiAoJGZpeGVkKSB7IE9rICLlt7Lorr7kuLogcHVibGljIiB9CiAgICAgICAgZWxzZSB7IEJhZCAi6Ieq5Yqo5pS55aSx6LSl77yM5omL5Yqo77yaaHR0cHM6Ly9naXRodWIuY29tL3VzZXJzLyRPd25lci9wYWNrYWdlcy9jb250YWluZXIvZ29uZ2ppLTQwOTAtNDhnL3NldHRpbmdzIiB9CiAgICB9IGVsc2UgewogICAgICAgIE9rICLljIXlt7LmmK8gcHVibGljIgogICAgfQp9CgokZmxhdm9ycyA9IGlmICgkRmxhdm9yIC1lcSAiYm90aCIpIHsgQCgic2xpbSIsICJmdWxsIikgfSBlbHNlIHsgQCgkRmxhdm9yKSB9CldyaXRlLUhvc3QgIiIKV3JpdGUtSG9zdCAi5YWx57up44CM5by55oCn6YOo572yIOKGkiDoh6rlrprkuYnmnI3liqHjgI3loavvvJoiIC1Gb3JlZ3JvdW5kQ29sb3IgQ3lhbgpmb3JlYWNoICgkZiBpbiAkZmxhdm9ycykgewogICAgV3JpdGUtSG9zdCAiICBnaGNyLmlvLyRPd25lci9nb25namktNDA5MC00OGc6JGYiIC1Gb3JlZ3JvdW5kQ29sb3IgV2hpdGUKfQpXcml0ZS1Ib3N0ICIiCldyaXRlLUhvc3QgIiAg56uv5Y+jICAgICAgICDvvJo4MTg4IiAtRm9yZWdyb3VuZENvbG9yIEdyYXkKV3JpdGUtSG9zdCAiICDmnLrlnosgICAgICAgIO+8mlJUWCA0MDkwIDQ4RyIgLUZvcmVncm91bmRDb2xvciBHcmF5CldyaXRlLUhvc3QgIiAg5ZCv5Yqo5ZG95LukICAgIO+8mmJhc2ggL3Jvb3Qvc2NyaXB0cy9ib290LnNoIiAtRm9yZWdyb3VuZENvbG9yIEdyYXkKV3JpdGUtSG9zdCAiIgpXcml0ZS1Ib3N0ICLplZzlg4/ph4zmsqHmnInmqKHlnovmnYPph43vvIzov5vlrrnlmajlkI7ov5jopoHmi4nkuIDmrKHvvJoiIC1Gb3JlZ3JvdW5kQ29sb3IgRGFya0dyYXkKV3JpdGUtSG9zdCAiICBiYXNoIC9yb290L3NjcmlwdHMvZmV0Y2hfbW9kZWxzLnNoIC0tdGllciBoMyAtLXRpZXIgdm94IiAtRm9yZWdyb3VuZENvbG9yIERhcmtHcmF5Cg==
+# deploy-image.ps1 -- 一条命令把镜像建出来
+#
+# 用法（在 gongji-4090-48g 目录里，PowerShell 或 pwsh）：
+#   .\scripts\deploy-image.ps1 -Token ghp_xxxxxxxx
+#   .\scripts\deploy-image.ps1 -Token ghp_xxx -Flavor full -RepoName my-h3-image
+#
+# Token 怎么来（30 秒）：
+#   浏览器 → https://github.com/settings/tokens/new
+#   Note 随便写（比如 gongji-4090-48g），Expiration 选 7 days，
+#   勾选 [x] repo  和 [x] workflow  两项 → Generate token → 复制那串 ghp_...
+#
+# 它替你做的事：
+#   1. 用 token 确认身份
+#   2. 建一个 public 仓库（已存在就复用）
+#   3. git init + commit + 推上去
+#   4. 触发 build-gongji-image，flavor 按你选的
+#   5. 盯着跑到结束，把镜像地址打出来
+#
+# 推的是 ghcr.io，**不用配任何 secret** —— Actions 自带的 GITHUB_TOKEN 就够。
+# 跑完镜像地址形如：ghcr.io/<你的用户名>/gongji-4090-48g:slim
+
+[CmdletBinding()]
+param(
+    [Parameter(Mandatory = $true)]
+    [string]$Token,
+
+    [string]$RepoName = "gongji-4090-48g",
+
+    [ValidateSet("slim", "full", "both")]
+    [string]$Flavor = "slim",
+
+    [string]$CommitMessage = "4090-48G: MOSS-Image + MiniMax H3 + GPT-SoVITS V5 + Drama 3",
+
+    # 只打印计划，不真的动 GitHub
+    [switch]$DryRun
+)
+
+$ErrorActionPreference = "Stop"
+$ApiBase = "https://api.github.com"
+
+# 这台机器上 git 不在默认 PATH 里（只有 DSH 随附的 bash 环境带 git）。
+# 找一圈：PATH → Program Files → DSH 自带的 ucrt64。
+if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
+    $candidates = @(
+        "C:\Program Files\Git\cmd",
+        "C:\Program Files (x86)\Git\cmd",
+        "$env:LOCALAPPDATA\Programs\Git\cmd",
+        "C:\Users\zhang\.dsh\profiles\desktop\node_modules\@dsh-ops\bash-win32-x64\ucrt64\bin"
+    ) | Where-Object { Test-Path (Join-Path $_ "git.exe") }
+    if ($candidates) {
+        $env:PATH = ($candidates -join ";") + ";" + $env:PATH
+    } else {
+        throw "找不到 git.exe，先装 Git for Windows 或把它的 cmd 目录加进 PATH"
+    }
+}
+
+$Headers = @{
+    Authorization          = "Bearer $Token"
+    Accept                 = "application/vnd.github+json"
+    "X-GitHub-Api-Version" = "2022-11-28"
+    "User-Agent"           = "gongji-4090-48g-deploy"
+}
+
+function Say($msg) { Write-Host "[deploy] $msg" -ForegroundColor Cyan }
+function Ok($msg) { Write-Host "   ok  $msg" -ForegroundColor Green }
+function Bad($msg) { Write-Host "   !!  $msg" -ForegroundColor Yellow }
+
+function Invoke-GitHub {
+    param(
+        [string]$Method = "GET",
+        [string]$Path,
+        $Body = $null,
+        [switch]$AllowFailure
+    )
+    $uri = if ($Path -like "http*") { $Path } else { "$ApiBase$Path" }
+    $p = @{ Method = $Method; Uri = $uri; Headers = $Headers }
+    if ($null -ne $Body) {
+        $p.Body = ($Body | ConvertTo-Json -Depth 8 -Compress)
+        $p.ContentType = "application/json"
+    }
+    try {
+        return Invoke-RestMethod @p
+    } catch {
+        if ($AllowFailure) {
+            Bad "$Method $Path -> $($_.Exception.Message)"
+            return $null
+        }
+        throw
+    }
+}
+
+# ---------------------------------------------------------------------------
+# 0. 定位项目根目录
+# ---------------------------------------------------------------------------
+$Root = Split-Path -Parent $PSScriptRoot
+if (-not (Test-Path (Join-Path $Root "Dockerfile"))) {
+    throw "找不到 Dockerfile —— 请在 gongji-4090-48g 目录里跑这个脚本（当前推算根目录：$Root）"
+}
+Say "项目根目录：$Root"
+
+# ---------------------------------------------------------------------------
+# 1. 验身份 + 查 token 权限
+# ---------------------------------------------------------------------------
+Say "1/6 验证 token"
+try {
+    $Me = Invoke-GitHub -Path "/user"
+    $Owner = $Me.login
+    Ok "已认证为 $Owner"
+} catch {
+    if ($DryRun) {
+        # DryRun 不碰 GitHub，token 是假的也无所谓，用占位符走完计划
+        $Owner = "<你的账号>"
+        Bad "token 无效（DryRun 忽略）—— $($_.Exception.Message)"
+    } else {
+        Bad "token 验证失败：$($_.Exception.Message)"
+        throw "先修 token 再跑。检查：是否过期、是否复制完整、是否有 repo + workflow 权限。"
+    }
+}
+
+$Scopes = ""
+try {
+    # 权限 scope 只在 /user 的响应头里，Invoke-RestMethod 取不到，单独发一次
+    $resp = Invoke-WebRequest -Uri "$ApiBase/user" -Headers $Headers -Method GET -UseBasicParsing
+    $Scopes = $resp.Headers["X-OAuth-Scopes"]
+} catch { }
+if ($Scopes) {
+    Ok "token scopes: $Scopes"
+    foreach ($need in @("repo", "workflow")) {
+        if ($Scopes -notmatch $need) { Bad "缺 scope: $need —— 到 token 设置页补勾，否则到第 4 步会失败" }
+    }
+} else {
+    Bad "读不到 scopes（fine-grained token 正常）—— 继续"
+}
+
+if ($DryRun) {
+    Say "DryRun：将创建 $Owner/$RepoName，推 main，触发 flavor=$Flavor"
+    return
+}
+
+# ---------------------------------------------------------------------------
+# 2. 建仓库（已存在就复用）
+# ---------------------------------------------------------------------------
+Say "2/6 准备仓库 $Owner/$RepoName"
+$Repo = Invoke-GitHub -Path "/repos/$Owner/$RepoName" -AllowFailure
+if ($Repo) {
+    Ok "仓库已存在，复用（$($Repo.html_url)）"
+    $DefaultBranch = if ($Repo.default_branch) { $Repo.default_branch } else { "main" }
+} else {
+    $Repo = Invoke-GitHub -Method POST -Path "/user/repos" -Body @{
+        name        = $RepoName
+        description = "RTX 4090 48G AI video stack: MiniMax-H3 + Qwen-Image-2.1 + FLUX3 klein + VoxCPM2"
+        private     = $false
+        has_issues  = $false
+        has_wiki    = $false
+        auto_init   = $false
+    }
+    Ok "已创建 $($Repo.html_url)"
+    $DefaultBranch = "main"
+}
+
+# ---------------------------------------------------------------------------
+# 3. git init + commit + push
+# ---------------------------------------------------------------------------
+Say "3/6 提交并推送"
+Push-Location $Root
+try {
+    if (-not (Test-Path ".git")) {
+        git init -b $DefaultBranch 2>&1 | Out-Null
+        Ok "git 仓库已初始化"
+    }
+
+    # 本地身份（只写进 .git/config，不动全局）
+    git config user.name  "deploy-bot"                      2>&1 | Out-Null
+    git config user.email "deploy-bot@users.noreply.github.com" 2>&1 | Out-Null
+
+    # .gitignore：大件和敏感件不进仓库
+    $ignore = @(
+        "runtime.env",
+        ".cache/",
+        "local/",
+        "**/__pycache__/",
+        "*.pyc",
+        "shot-*.png"
+    )
+    $giPath = Join-Path $Root ".gitignore"
+    $existing = if (Test-Path $giPath) { Get-Content $giPath } else { @() }
+    $merged = @($existing) + @($ignore) | Where-Object { $_ -and $_.Trim() } | Select-Object -Unique
+    # 保留上一次脚本写入的注释头，避免重复追加
+    Set-Content -Path $giPath -Value $merged -Encoding utf8
+    Ok ".gitignore 已就绪（$($merged.Count) 条）"
+
+    git add -A 2>&1 | Out-Null
+    $dirty = git status --porcelain 2>&1
+    if ($dirty) {
+        git commit -q -m $CommitMessage 2>&1 | Out-Null
+        Ok "已提交 $(($dirty -split "`n").Count) 个变更"
+    } else {
+        Ok "没有新变更，跳过提交"
+    }
+
+    # 用一次性的带 token remote 推送，不把它写进 .git/config
+    $pushUrl = "https://x-access-token:$Token@github.com/$Owner/$RepoName.git"
+    git push $pushUrl "HEAD:$DefaultBranch" 2>&1 | ForEach-Object { if ($_ -match "error|fatal") { Bad $_ } }
+    if (-not ((git remote 2>&1) -contains "origin")) {
+        git remote add origin "https://github.com/$Owner/$RepoName.git"
+    }
+    Ok "已推送到 https://github.com/$Owner/$RepoName"
+} finally {
+    Pop-Location
+}
+
+# ---------------------------------------------------------------------------
+# 4. 触发 workflow
+# ---------------------------------------------------------------------------
+Say "4/6 触发 build-gongji-image（flavor=$Flavor）"
+Start-Sleep -Seconds 3   # 让 GitHub 感知到新 push
+
+$dispatched = Invoke-GitHub -Method POST -Path "/repos/$Owner/$RepoName/actions/workflows/build-image.yml/dispatches" -Body @{
+    ref    = $DefaultBranch
+    inputs = @{ flavor = $Flavor; tag = "" }
+} -AllowFailure
+
+if ($null -eq $dispatched -and $Flavor -eq "slim") {
+    # push 本身就会触发一次 slim 构建，可能已经在跑
+    Bad "手动触发失败 —— 可能 push 已经自动触发了一次，继续盯着"
+}
+
+# ---------------------------------------------------------------------------
+# 5. 轮询
+# ---------------------------------------------------------------------------
+Say "5/6 等待构建（首次 slim 约 25-40 分钟，full 60-90；这里每 30 秒看一眼）"
+$run = $null
+for ($i = 0; $i -lt 240; $i++) {
+    Start-Sleep -Seconds 30
+    $runs = Invoke-GitHub -Path "/repos/$Owner/$RepoName/actions/runs?per_page=5" -AllowFailure
+    if (-not $runs) { continue }
+    $run = $runs.workflow_runs | Where-Object { $_.path -like "*build-image.yml*" } | Select-Object -First 1
+    if (-not $run) { Bad "还没看到 run（$([int]($i*30/60)) 分钟）"; continue }
+
+    $mins = [math]::Round(((Get-Date).ToUniversalTime() - [datetime]$run.created_at).TotalMinutes, 1)
+    Write-Host ("   [{0,5} min] {1}  {2}" -f $mins, $run.status, $run.conclusion) -ForegroundColor DarkGray
+
+    if ($run.status -eq "completed") { break }
+}
+
+if (-not $run) { throw "等不到 workflow run —— 去 https://github.com/$Owner/$RepoName/actions 看看" }
+
+if ($run.conclusion -ne "success") {
+    Bad "构建结果：$($run.conclusion)"
+    Write-Host "   日志：$($run.html_url)" -ForegroundColor Yellow
+    Write-Host "   最常见原因：torch 装超时（重跑一次通常就好）、磁盘不足（Free disk space 步骤失败）" -ForegroundColor DarkGray
+    return
+}
+
+Ok "构建成功（$([math]::Round(((Get-Date).ToUniversalTime() - [datetime]$run.created_at).TotalMinutes,1)) 分钟）"
+
+# ---------------------------------------------------------------------------
+# 6. 收尾：确认包可见性 + 打印地址
+# ---------------------------------------------------------------------------
+Say "6/6 镜像地址"
+$pkgPath = "/users/$Owner/packages/container/gongji-4090-48g"
+$pkg = Invoke-GitHub -Path $pkgPath -AllowFailure
+if ($pkg) {
+    if ($pkg.visibility -ne "public") {
+        Bad "包当前是 $($pkg.visibility) —— 平台匿名拉不到"
+        Say "正在改成 public…"
+        $fixed = Invoke-GitHub -Method PATCH -Path $pkgPath -Body @{ visibility = "public" } -AllowFailure
+        if ($fixed) { Ok "已设为 public" }
+        else { Bad "自动改失败，手动：https://github.com/users/$Owner/packages/container/gongji-4090-48g/settings" }
+    } else {
+        Ok "包已是 public"
+    }
+}
+
+$flavors = if ($Flavor -eq "both") { @("slim", "full") } else { @($Flavor) }
+Write-Host ""
+Write-Host "共绩「弹性部署 → 自定义服务」填：" -ForegroundColor Cyan
+foreach ($f in $flavors) {
+    Write-Host "  ghcr.io/$Owner/gongji-4090-48g:$f" -ForegroundColor White
+}
+Write-Host ""
+Write-Host "  端口        ：8188" -ForegroundColor Gray
+Write-Host "  机型        ：RTX 4090 48G" -ForegroundColor Gray
+Write-Host "  启动命令    ：bash /root/scripts/boot.sh" -ForegroundColor Gray
+Write-Host ""
+Write-Host "镜像里没有模型权重，进容器后还要拉一次：" -ForegroundColor DarkGray
+Write-Host "  bash /root/scripts/fetch_models.sh --tier h3 --tier vox" -ForegroundColor DarkGray

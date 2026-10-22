@@ -1,1 +1,55 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOaKiiB3b3JrZmxvd3MvKi5qc29uIOaPkOS6pOe7mSBDb21meVVJ77yM5bm2562J5a6D6LeR5a6M44CCCiMKIyAgIGJhc2ggcnVuX3dmLnNoIHdvcmtmbG93cy9oM190MnZhLmpzb24KIyAgIGJhc2ggcnVuX3dmLnNoIHdvcmtmbG93cy96X2ltYWdlX3QyaS5qc29uIDEyNy4wLjAuMTo4MTg4CiMKIyDovpPlh7rmlofku7bokL3lnKggQ29tZnlVSSDnmoQgb3V0cHV0LyDkuIvvvIzliY3nvIDnlLHlt6XkvZzmtYHph4wgU2F2ZVZpZGVvL1NhdmVJbWFnZSDnmoQKIyBmaWxlbmFtZV9wcmVmaXgg5Yaz5a6a77yIaDMv4oCmIOS4jiB6aW1nL+KApu+8ieOAggpzZXQgLWV1byBwaXBlZmFpbAoKV0Y9IiR7MTo/55So5rOVOiBydW5fd2Yuc2ggPOW3peS9nOa1gS5qc29uPiBbaG9zdDpwb3J0XX0iCkhPU1Q9IiR7MjotMTI3LjAuMC4xOjgxODh9IgpbIC1mICIkV0YiIF0gfHwgeyBlY2hvICLmib7kuI3liLDlt6XkvZzmtYE6ICRXRiIgPiYyOyBleGl0IDI7IH0KCiMg5omL6YeM5rKh5pyJIGpxIOS5n+iDvei3ke+8muebtOaOpeaKiuW3peS9nOa1geWvueixoeWhnui/myB7InByb21wdCI6IC4uLn0KUEFZTE9BRD0kKHByaW50ZiAneyJwcm9tcHQiOiAlc30nICIkKGNhdCAiJFdGIikiKQoKUkVTUD0kKGN1cmwgLXNTIC1YIFBPU1QgImh0dHA6Ly8kSE9TVC9wcm9tcHQiIFwKICAgICAgICAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtZCAiJFBBWUxPQUQiKQpQSUQ9JChwcmludGYgJyVzJyAiJFJFU1AiIHwgc2VkIC1uICdzLy4qInByb21wdF9pZCJbWzpzcGFjZTpdXSo6W1s6c3BhY2U6XV0qIlwoW14iXSpcKSIuKi9cMS9wJykKCmlmIFsgLXogIiRQSUQiIF07IHRoZW4KICBlY2hvICLmj5DkuqTlpLHotKXvvIxDb21meVVJIOi/lOWbnu+8miIgPiYyCiAgcHJpbnRmICclc1xuJyAiJFJFU1AiID4mMgogIGVjaG8gPiYyCiAgZWNobyAi5bi46KeB5Y6f5Zug77yaIiA+JjIKICBlY2hvICIgIC0g5p2D6YeN5paH5Lu25ZCN5ZKMIGZldGNoX21vZGVscy5zaCDkuIvkuIvmnaXnmoTkuI3kuIDoh7TvvIjlr7nnhacgZXh0cmFfbW9kZWxfcGF0aHMueWFtbCDnmoTot6/lvoTvvIkiID4mMgogIGVjaG8gIiAgLSDoh6rlrprkuYnoioLngrnmsqHoo4XvvIjlhYjot5EgZG9jdG9yLnNoIOeciyBiYWRfbm9kZXPvvIkiID4mMgogIGVjaG8gIiAgLSByMnZhIOeahCByZWZfaW1hZ2VfKiDliqjmgIHovpPlhaXkuI3ooqsgQVBJIOaOpeWPlyDigJTigJQg55So55WM6Z2i5omT5byA6K+l5bel5L2c5rWB5ZCO5a+85Ye6IEFQSSDmoLzlvI8iID4mMgogIGV4aXQgMQpmaQoKZWNobyAi5bey5o+Q5LqkIHByb21wdF9pZD0kUElE77yM562J5b6F5a6M5oiQ4oCmIgpTVEFSVD0kKGRhdGUgKyVzKQp3aGlsZSA6OyBkbwogIHNsZWVwIDMKICBISVNUPSQoY3VybCAtc1MgImh0dHA6Ly8kSE9TVC9oaXN0b3J5LyRQSUQiKQogIGNhc2UgIiRISVNUIiBpbgogICAgKicic3RhdHVzX3N0ciI6ICJlcnJvciInKnwqJyJzdGF0dXNfc3RyIjoiZXJyb3IiJyopCiAgICAgIGVjaG8gIuaJp+ihjOWHuumUme+8miIgPiYyCiAgICAgIHByaW50ZiAnJXNcbicgIiRISVNUIiA+JjIKICAgICAgZXhpdCAxIDs7CiAgICAqJyJjb21wbGV0ZWQiOiB0cnVlJyp8KiciY29tcGxldGVkIjp0cnVlJyopCiAgICAgIGJyZWFrIDs7CiAgZXNhYwogICMgL2hpc3Rvcnkg6YeM6L+Y5rKh6L+Z5LiqIGlkIOivtOaYjui/mOWcqOmYn+WIl+mHjAogIEVMQVBTRUQ9JCgoICQoZGF0ZSArJXMpIC0gU1RBUlQgKSkKICBpZiBbICQoKCBFTEFQU0VEICUgMTUgKSkgLWx0IDMgXTsgdGhlbgogICAgZWNobyAiICDigKYg5bey562JICR7RUxBUFNFRH1zIgogIGZpCmRvbmUKCmVjaG8gIuWujOaIkO+8jOeUqOaXtiAkKCggJChkYXRlICslcykgLSBTVEFSVCApKXMiCmVjaG8gIuS6p+eJqe+8miIKcHJpbnRmICclcycgIiRISVNUIiB8IGdyZXAgLW8gJyJmaWxlbmFtZSI6ICoiW14iXSoiJyB8IGN1dCAtZCciJyAtZjQgfCBzZWQgJ3MvXi8gIC8nCg==
+#!/usr/bin/env bash
+# 把 workflows/*.json 提交给 ComfyUI，并等它跑完。
+#
+#   bash run_wf.sh workflows/h3_t2va.json
+#   bash run_wf.sh workflows/z_image_t2i.json 127.0.0.1:8188
+#
+# 输出文件落在 ComfyUI 的 output/ 下，前缀由工作流里 SaveVideo/SaveImage 的
+# filename_prefix 决定（h3/… 与 zimg/…）。
+set -euo pipefail
+
+WF="${1:?用法: run_wf.sh <工作流.json> [host:port]}"
+HOST="${2:-127.0.0.1:8188}"
+[ -f "$WF" ] || { echo "找不到工作流: $WF" >&2; exit 2; }
+
+# 手里没有 jq 也能跑：直接把工作流对象塞进 {"prompt": ...}
+PAYLOAD=$(printf '{"prompt": %s}' "$(cat "$WF")")
+
+RESP=$(curl -sS -X POST "http://$HOST/prompt" \
+        -H 'Content-Type: application/json' -d "$PAYLOAD")
+PID=$(printf '%s' "$RESP" | sed -n 's/.*"prompt_id"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/p')
+
+if [ -z "$PID" ]; then
+  echo "提交失败，ComfyUI 返回：" >&2
+  printf '%s\n' "$RESP" >&2
+  echo >&2
+  echo "常见原因：" >&2
+  echo "  - 权重文件名和 fetch_models.sh 下下来的不一致（对照 extra_model_paths.yaml 的路径）" >&2
+  echo "  - 自定义节点没装（先跑 doctor.sh 看 bad_nodes）" >&2
+  echo "  - r2va 的 ref_image_* 动态输入不被 API 接受 —— 用界面打开该工作流后导出 API 格式" >&2
+  exit 1
+fi
+
+echo "已提交 prompt_id=$PID，等待完成…"
+START=$(date +%s)
+while :; do
+  sleep 3
+  HIST=$(curl -sS "http://$HOST/history/$PID")
+  case "$HIST" in
+    *'"status_str": "error"'*|*'"status_str":"error"'*)
+      echo "执行出错：" >&2
+      printf '%s\n' "$HIST" >&2
+      exit 1 ;;
+    *'"completed": true'*|*'"completed":true'*)
+      break ;;
+  esac
+  # /history 里还没这个 id 说明还在队列里
+  ELAPSED=$(( $(date +%s) - START ))
+  if [ $(( ELAPSED % 15 )) -lt 3 ]; then
+    echo "  … 已等 ${ELAPSED}s"
+  fi
+done
+
+echo "完成，用时 $(( $(date +%s) - START ))s"
+echo "产物："
+printf '%s' "$HIST" | grep -o '"filename": *"[^"]*"' | cut -d'"' -f4 | sed 's/^/  /'
