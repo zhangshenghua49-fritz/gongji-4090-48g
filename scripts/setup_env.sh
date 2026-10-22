@@ -72,8 +72,10 @@ if command -v apt-get >/dev/null 2>&1; then
   # ffmpeg: 所有音视频管线的地基; libsndfile: soundfile;
   # build-essential/cmake: 编译 monotonic_align、rwkv、各种 C 扩展;
   # git-lfs: 拉 HF 大权重; espeak-ng: 部分 TTS 的 G2P 兜底; libgl1: opencv
+  # python3-dev: pyopenjtalk / monotonic_align 这类要现场编译 C 扩展的包需要 Python.h
   apt-get install -y -qq --no-install-recommends \
     ffmpeg libsndfile1 build-essential cmake git git-lfs curl wget unzip \
+    python3-dev python3-venv \
     espeak-ng libgl1 libglib2.0-0 sox unzip zstd aria2 tmux htop jq \
     fonts-noto-cjk fontconfig
   git lfs install --skip-repo >/dev/null 2>&1 || true
