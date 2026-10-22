@@ -15,6 +15,12 @@
 # 幂等：重复跑安全。已存在的 venv 会跳过。
 set -euo pipefail
 
+# 脚本自己所在的目录。必须在这里算好：后面第 3 节会 cd 进 ComfyUI，
+# 那时候再解析 ${BASH_SOURCE[0]}（相对路径 "scripts/setup_env.sh"）就指向
+# /root/ComfyUI/scripts 了，cd 失败会被 set -e 直接杀掉整个装配。
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" && pwd)"
+PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
 MIN=0
 PROBE=0
 for a in "$@"; do
@@ -361,12 +367,11 @@ fi
 # ----------------------------------------------------------------------------
 say "12. 工作流模板"
 mkdir -p "$ROOT/workflows"
-_here="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" && pwd)"
-if [ -d "$_here/../workflows" ]; then
-  if cp -f "$_here/../workflows/"*.json "$ROOT/workflows/" 2>/dev/null; then
+if [ -d "$PROJECT_DIR/workflows" ]; then
+  if cp -f "$PROJECT_DIR/workflows/"*.json "$ROOT/workflows/" 2>/dev/null; then
     ok "已就位 $ROOT/workflows/：$(ls "$ROOT/workflows" | tr '\n' ' ')"
   else
-    warn "工作流拷贝失败（源目录 $_here/../workflows）"
+    warn "工作流拷贝失败（源目录 $PROJECT_DIR/workflows）"
   fi
 else
   warn "没找到 workflows/ 目录，跳过（run_wf.sh 需要它）"
