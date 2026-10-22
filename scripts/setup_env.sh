@@ -47,7 +47,10 @@ if command -v nvidia-smi >/dev/null 2>&1; then
 else
   warn "nvidia-smi 不存在 -- 当前不在 GPU 容器里？装配可以继续，但无法验证显存"
 fi
-df -h / "$DATA" 2>/dev/null | sed 's/^/  df         : /'
+# $DATA 在全新镜像里还不存在，df 对不存在的路径会返回 1；
+# 配上 set -euo pipefail 会让脚本在这里静默退出（build 日志里只有"0. 探测现状"就没有下文）。
+mkdir -p "$DATA"
+df -h / "$DATA" 2>/dev/null | sed 's/^/  df         : /' || df -h / | sed 's/^/  df         : /'
 
 # ComfyUI 预装位置（社区基础镜像通常已带）
 COMFY=""
